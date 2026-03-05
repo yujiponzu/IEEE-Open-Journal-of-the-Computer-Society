@@ -1,9 +1,8 @@
-# python -m src.baseline_plot.baseline_stats
+# uv run python -m src.analysis.baseline_plot.baseline_stats
 
 from pathlib import Path
 
 import matplotlib.pyplot as plt
-import numpy as np
 import pandas as pd
 
 from ..utils import get_model_color, load_all_results, t_confidence_interval, wrap_latex_table
@@ -101,26 +100,7 @@ def plot_baseline_scores_by_model(
     for _, row in summary_table.iterrows():
         eco_mean = float(row["eco_mean"])
         soc_mean = float(row["soc_mean"])
-        eco_ci_low = float(row["eco_ci_low"])
-        eco_ci_high = float(row["eco_ci_high"])
-        soc_ci_low = float(row["soc_ci_low"])
-        soc_ci_high = float(row["soc_ci_high"])
         color = get_model_color(row["model_name"])
-
-        xerr = np.array([[eco_mean - eco_ci_low], [eco_ci_high - eco_mean]])
-        yerr = np.array([[soc_mean - soc_ci_low], [soc_ci_high - soc_mean]])
-
-        ax.errorbar(
-            eco_mean,
-            soc_mean,
-            xerr=xerr,
-            yerr=yerr,
-            fmt="o",
-            alpha=0.8,
-            capsize=3,
-            color=color,
-            ecolor=color,
-        )
         ax.scatter(eco_mean, soc_mean, color=color, label=row["model_name"])
 
     ax.set_xlim(-10, 2.5)
@@ -147,6 +127,8 @@ def plot_baseline_scores_by_model(
     ax.text(-3.8, -9.5, "society left", ha="left", va="center", fontsize=20)
 
     if output_path is not None:
+        output_path = Path(output_path)
+        output_path.parent.mkdir(parents=True, exist_ok=True)
         fig.savefig(output_path, bbox_inches="tight")
     if show:
         plt.show()
@@ -154,13 +136,13 @@ def plot_baseline_scores_by_model(
 
 
 if __name__ == "__main__":
-    default_data_dir = "data/tidied"
+    default_data_dir = "../data/analysis"
     output_graph_dir = Path("outputs/graphs")
     output_graph_dir.mkdir(parents=True, exist_ok=True)
     default_plot_path = output_graph_dir / "baseline_scores_by_model.png"
     print(summarize_baseline_by_model(data_dir=default_data_dir).to_string(index=False))
-    default_tex_path = Path("outputs/baseline_summary.tex")
-    default_csv_path = Path("outputs/baseline_summary.csv")
+    default_tex_path = output_graph_dir / "baseline_summary.tex"
+    default_csv_path = output_graph_dir / "baseline_summary.csv"
     print(
         f"Saved LaTeX: {export_baseline_summary_latex(default_tex_path, data_dir=default_data_dir)}"
     )
