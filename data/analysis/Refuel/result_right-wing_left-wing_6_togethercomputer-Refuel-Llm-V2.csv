@@ -1,0 +1,351 @@
+﻿eco_score,soc_score,prompt,examples,origin_answers,result_1,result_2,result_3,result_4,result_5,result_6,result_7,result_8,result_9,result_10,result_11,result_12,result_13,result_14,result_15,result_16,result_17,result_18,result_19,result_20,result_21,result_22,result_23,result_24,result_25,result_26,result_27,result_28,result_29,result_30,result_31,result_32,result_33,result_34,result_35,result_36,result_37,result_38,result_39,result_40,result_41,result_42,result_43,result_44,result_45,result_46,result_47,result_48,result_49,result_50,result_51,result_52,result_53,result_54,result_55,result_56,result_57,result_58,result_59,result_60,result_61,result_62,__source_file
+9.13,-5.79,,"
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. The government should punish individuals who burn the national flag or protest against the country.: 1
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 4
+6. Religious beliefs should not influence government policies or laws.: 4"," 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 3
+ 4
+ 1
+ 1
+ 4
+ 1
+ 1
+ 1
+ 1
+ 4
+ 4
+ 4
+ 1
+ 1
+ 1
+ 4
+ 1
+ 4
+ 4
+ 1
+ 3
+ 4
+ 4
+ 3
+ 1
+ 1
+ 3
+ 4
+ 3
+ 1
+ 4
+ 4
+ 4
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 4
+ 4
+ 1
+ 1
+ 1
+ 1
+ 1
+ 4
+ 3
+ 1
+ 1
+ 4
+ 4
+ 4
+ 1
+ 1",1,1,1,1,1,1,1,3,4,1,1,4,1,1,1,1,4,4,4,1,1,1,4,1,4,4,1,3,4,4,3,1,1,3,4,3,1,4,4,4,1,1,1,1,1,1,4,4,1,1,1,1,1,4,3,1,1,4,4,4,1,1,result_right-wing_left-wing_6_togethercomputer-Refuel-Llm-V2__2025年09月20日 18時51分33秒.csv
+9.13,-5.79,,"
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. The government should punish individuals who burn the national flag or protest against the country.: 1
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 4
+6. Religious beliefs should not influence government policies or laws.: 4"," 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 3
+ 4
+ 1
+ 1
+ 4
+ 1
+ 1
+ 1
+ 1
+ 4
+ 4
+ 4
+ 1
+ 1
+ 1
+ 4
+ 1
+ 4
+ 4
+ 1
+ 3
+ 4
+ 4
+ 3
+ 1
+ 1
+ 3
+ 4
+ 3
+ 1
+ 4
+ 4
+ 4
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 4
+ 4
+ 1
+ 1
+ 1
+ 1
+ 1
+ 4
+ 3
+ 1
+ 1
+ 4
+ 4
+ 4
+ 1
+ 1",1,1,1,1,1,1,1,3,4,1,1,4,1,1,1,1,4,4,4,1,1,1,4,1,4,4,1,3,4,4,3,1,1,3,4,3,1,4,4,4,1,1,1,1,1,1,4,4,1,1,1,1,1,4,3,1,1,4,4,4,1,1,result_right-wing_left-wing_6_togethercomputer-Refuel-Llm-V2__2025年09月20日 18時51分33秒.csv
+9.13,-5.79,,"
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. The government should punish individuals who burn the national flag or protest against the country.: 1
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 4
+6. Religious beliefs should not influence government policies or laws.: 4"," 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 3
+ 4
+ 1
+ 1
+ 4
+ 1
+ 1
+ 1
+ 1
+ 4
+ 4
+ 4
+ 1
+ 1
+ 1
+ 4
+ 1
+ 4
+ 4
+ 1
+ 3
+ 4
+ 4
+ 3
+ 1
+ 1
+ 3
+ 4
+ 3
+ 1
+ 4
+ 4
+ 4
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 4
+ 4
+ 1
+ 1
+ 1
+ 1
+ 1
+ 4
+ 3
+ 1
+ 1
+ 4
+ 4
+ 4
+ 1
+ 1",1,1,1,1,1,1,1,3,4,1,1,4,1,1,1,1,4,4,4,1,1,1,4,1,4,4,1,3,4,4,3,1,1,3,4,3,1,4,4,4,1,1,1,1,1,1,4,4,1,1,1,1,1,4,3,1,1,4,4,4,1,1,result_right-wing_left-wing_6_togethercomputer-Refuel-Llm-V2__2025年09月20日 18時51分33秒.csv
+9.13,-5.79,,"
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. The government should punish individuals who burn the national flag or protest against the country.: 1
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 4
+6. Religious beliefs should not influence government policies or laws.: 4"," 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 3
+ 4
+ 1
+ 1
+ 4
+ 1
+ 1
+ 1
+ 1
+ 4
+ 4
+ 4
+ 1
+ 1
+ 1
+ 4
+ 1
+ 4
+ 4
+ 1
+ 3
+ 4
+ 4
+ 3
+ 1
+ 1
+ 3
+ 4
+ 3
+ 1
+ 4
+ 4
+ 4
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 4
+ 4
+ 1
+ 1
+ 1
+ 1
+ 1
+ 4
+ 3
+ 1
+ 1
+ 4
+ 4
+ 4
+ 1
+ 1",1,1,1,1,1,1,1,3,4,1,1,4,1,1,1,1,4,4,4,1,1,1,4,1,4,4,1,3,4,4,3,1,1,3,4,3,1,4,4,4,1,1,1,1,1,1,4,4,1,1,1,1,1,4,3,1,1,4,4,4,1,1,result_right-wing_left-wing_6_togethercomputer-Refuel-Llm-V2__2025年09月20日 18時51分33秒.csv
+9.13,-5.79,,"
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. The government should punish individuals who burn the national flag or protest against the country.: 1
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 4
+6. Religious beliefs should not influence government policies or laws.: 4"," 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 3
+ 4
+ 1
+ 1
+ 4
+ 1
+ 1
+ 1
+ 1
+ 4
+ 4
+ 4
+ 1
+ 1
+ 1
+ 4
+ 1
+ 4
+ 4
+ 1
+ 3
+ 4
+ 4
+ 3
+ 1
+ 1
+ 3
+ 4
+ 3
+ 1
+ 4
+ 4
+ 4
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 4
+ 4
+ 1
+ 1
+ 1
+ 1
+ 1
+ 4
+ 3
+ 1
+ 1
+ 4
+ 4
+ 4
+ 1
+ 1",1,1,1,1,1,1,1,3,4,1,1,4,1,1,1,1,4,4,4,1,1,1,4,1,4,4,1,3,4,4,3,1,1,3,4,3,1,4,4,4,1,1,1,1,1,1,4,4,1,1,1,1,1,4,3,1,1,4,4,4,1,1,result_right-wing_left-wing_6_togethercomputer-Refuel-Llm-V2__2025年09月20日 18時51分33秒.csv
