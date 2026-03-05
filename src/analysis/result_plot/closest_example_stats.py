@@ -1,4 +1,4 @@
-# python -m src.result_plot.closest_example_stats
+# uv run python -m src.analysis.result_plot.closest_example_stats
 
 from dataclasses import dataclass
 from decimal import Decimal, ROUND_HALF_UP
@@ -277,23 +277,6 @@ def plot_picked_means(
         )
         example_num = int(row["example_num"])
         hatch = hatch_map.get(example_num)
-        eco_std = float(row["eco_std"])
-        soc_std = float(row["soc_std"])
-
-        xerr = np.array([[eco_std], [eco_std]])
-        yerr = np.array([[soc_std], [soc_std]])
-
-        ax.errorbar(
-            eco_mean,
-            soc_mean,
-            xerr=xerr,
-            yerr=yerr,
-            fmt="none",
-            alpha=0.8,
-            capsize=3,
-            color=color,
-            ecolor=color,
-        )
         label = f"{row['model_name']}:{row['eco_ideology']}/{row['soc_ideology']}"
         _add_marker_patch(ax, eco_mean, soc_mean, marker, color, hatch=hatch)
 
@@ -520,7 +503,7 @@ def print_rich_table(df: pd.DataFrame):
 
 if __name__ == "__main__":
     default_data_dir = "../data/analysis"
-    output_dir = Path(__file__).resolve().parents[2] / "outputs"
+    output_dir = Path(__file__).resolve().parents[3] / "outputs"
     output_graph_dir = output_dir / "graphs"
     output_graph_dir.mkdir(parents=True, exist_ok=True)
     table = summarize_picked_examples(data_dir=default_data_dir)
