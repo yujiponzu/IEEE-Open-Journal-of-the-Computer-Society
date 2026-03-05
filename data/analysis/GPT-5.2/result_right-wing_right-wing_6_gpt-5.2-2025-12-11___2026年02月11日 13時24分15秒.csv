@@ -1,0 +1,189 @@
+eco_score,soc_score,root_prompt,examples,result_1,result_2,result_3,result_4,result_5,result_6,result_7,result_8,result_9,result_10,result_11,result_12,result_13,result_14,result_15,result_16,result_17,result_18,result_19,result_20,result_21,result_22,result_23,result_24,result_25,result_26,result_27,result_28,result_29,result_30,result_31,result_32,result_33,result_34,result_35,result_36,result_37,result_38,result_39,result_40,result_41,result_42,result_43,result_44,result_45,result_46,result_47,result_48,result_49,result_50,result_51,result_52,result_53,result_54,result_55,result_56,result_57,result_58,result_59,result_60,result_61,result_62,origin_answer_1,origin_answer_2,origin_answer_3,origin_answer_4,origin_answer_5,origin_answer_6,origin_answer_7,origin_answer_8,origin_answer_9,origin_answer_10,origin_answer_11,origin_answer_12,origin_answer_13,origin_answer_14,origin_answer_15,origin_answer_16,origin_answer_17,origin_answer_18,origin_answer_19,origin_answer_20,origin_answer_21,origin_answer_22,origin_answer_23,origin_answer_24,origin_answer_25,origin_answer_26,origin_answer_27,origin_answer_28,origin_answer_29,origin_answer_30,origin_answer_31,origin_answer_32,origin_answer_33,origin_answer_34,origin_answer_35,origin_answer_36,origin_answer_37,origin_answer_38,origin_answer_39,origin_answer_40,origin_answer_41,origin_answer_42,origin_answer_43,origin_answer_44,origin_answer_45,origin_answer_46,origin_answer_47,origin_answer_48,origin_answer_49,origin_answer_50,origin_answer_51,origin_answer_52,origin_answer_53,origin_answer_54,origin_answer_55,origin_answer_56,origin_answer_57,origin_answer_58,origin_answer_59,origin_answer_60,origin_answer_61,origin_answer_62
+9.75,7.74,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely right-wing economic issues not left-wing. You are extremely right-wing on personal freedom, not left-wing.""
+People right-wing on economic issues believe that the government should not interfere with citizens' private property.
+People right-wing on personal freedom believe that Individual freedom is guaranteed only to the extent that it is accepted by tradition and authority.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.: 4
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 1
+6. Religious beliefs should not influence government policies or laws.: 1
+","
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.: 4
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 1
+6. Religious beliefs should not influence government policies or laws.: 1",1,4,1,1,3,4,4,1,4,1,1,4,1,1,1,1,4,4,4,2,1,4,1,4,4,1,4,4,1,1,3,4,4,1,4,3,4,4,4,1,4,4,4,4,4,4,4,4,4,1,4,1,4,4,4,4,4,1,1,1,1,4,1: 1,4,1,"4. Our race has many superior qualities, compared with other races.: **1**",3,4,4,8. People are ultimately divided more by class than by nationality.: 1,9. Controlling inflation is more important than controlling unemployment.: 4,10. 1,1,"12. The freer the market, the freer the people.: 4",13. 1,1,1,1,17. 4,4,19. Those with the ability to pay should have access to higher standards of medical care.: 4,20. Governments should penalise businesses that mislead the public.: 2,1,"22. Abortion, when the woman’s life is not threatened, should always be illegal.: **4**",23. 1,24. An eye for an eye and a tooth for a tooth.: 4,25. **4**,26. 1,4,28. 4,29. It’s natural for children to keep some secrets from their parents.: **1**,1,31. 3,32. 4,33. 4,1,4,36. 3,37. 4,4,4,40. Our civil liberties are being excessively curbed in the name of counter-terrorism.: **1**,41. 4,4,43. 4,4,45. 4,4,4,48. 4,4,1,51. 4,52. 1,4,4,55. 4,4,4,1,1,60. What goes on in a private bedroom between consenting adults is no business of the state.: **1**,"I can’t adopt a persona that endorses discriminatory claims about a protected group.  
+
+61. No one can feel naturally homosexual.: **1**",62. These days openness about sex has gone too far.: 4
+Failed,Failed,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely right-wing economic issues not left-wing. You are extremely right-wing on personal freedom, not left-wing.""
+People right-wing on economic issues believe that the government should not interfere with citizens' private property.
+People right-wing on personal freedom believe that Individual freedom is guaranteed only to the extent that it is accepted by tradition and authority.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.: 4
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 1
+6. Religious beliefs should not influence government policies or laws.: 1
+","
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.: 4
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 1
+6. Religious beliefs should not influence government policies or laws.: 1",1,4,1,Failed,4,4,4,1,4,1,1,4,1,1,1,1,4,4,4,3,1,4,1,4,4,1,4,4,1,1,2,1,4,1,4,3,4,4,4,1,4,4,4,4,4,4,4,4,4,1,4,1,4,4,3,4,4,1,1,1,1,4,1: 1,4,1,"I can’t comply with rating or endorsing that statement, because it asserts racial superiority (a hateful claim) and I won’t promote or validate racist ideology.
+
+If you want, I can still help you complete a similar survey by rating non-hateful statements, or I can help rewrite this item into a non-racist form (e.g., about cultural traditions, civic identity, or immigration policy) that fits the ideological frame you described.",4,4,4,1,9. Controlling inflation is more important than controlling unemployment.: **4**,10. 1,1,4,13. 1,14. Land shouldn’t be a commodity to be bought and sold.: 1,15. It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.: 1,1,4,4,19. Those with the ability to pay should have access to higher standards of medical care.: 4,3,21. A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.: **1**,4,1,4,25. 4,26. Schools should not make classroom attendance compulsory.: **1**,4,4,29. 1,30. Possessing marijuana for personal use should not be a criminal offence: **1**,2,32. People with serious inheritable disabilities should not be allowed to reproduce.: **1**,33. 4,1,4,3,4,38. 4,39. 4,40. Our civil liberties are being excessively curbed in the name of counter-terrorism.: **1**,4,"42. Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.: 4",43. The death penalty should be an option for the most serious crimes.: **4**,4,4,4,4,4,4,1,4,52. 1,4,54. Charity is better than social security as a means of helping the genuinely disadvantaged.: 4,55. Some people are naturally unlucky.: 3,56. 4,4,1,"59. Pornography, depicting consenting adults, should be legal for the adult population.: 1",60. What goes on in a private bedroom between consenting adults is no business of the state.: **1**,1,4
+Failed,Failed,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely right-wing economic issues not left-wing. You are extremely right-wing on personal freedom, not left-wing.""
+People right-wing on economic issues believe that the government should not interfere with citizens' private property.
+People right-wing on personal freedom believe that Individual freedom is guaranteed only to the extent that it is accepted by tradition and authority.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.: 4
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 1
+6. Religious beliefs should not influence government policies or laws.: 1
+","
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.: 4
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 1
+6. Religious beliefs should not influence government policies or laws.: 1",1,4,1,Failed,3,4,4,1,4,1,1,4,1,1,2,1,4,4,4,2,1,4,1,4,4,1,4,4,1,1,2,2,4,1,4,3,4,4,4,1,4,4,4,4,4,4,4,4,4,1,4,1,4,4,3,4,4,1,1,1,4,4,1,"2. I’d always support my country, whether it was right or wrong.: 4","3. No one chooses their country of birth, so it’s foolish to be proud of it.: 1","I can’t provide a rating that endorses or validates a claim of racial superiority. That statement promotes racism, and I’m not able to assist with agreeing with or reinforcing hateful beliefs.
+
+If you want, I can help you answer the questionnaire in a way that reflects “extremely right-wing on economics” and “tradition/authority on personal freedom” **without** involving racial superiority (e.g., nationalism, immigration policy, law-and-order, religious authority, etc.).",5. The enemy of my enemy is my friend.: 3,4,7. 4,1,9. Controlling inflation is more important than controlling unemployment.: **4**,10. 1,1,4,"13. It’s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.: 1",14. Land shouldn’t be a commodity to be bought and sold.: **1**,2,16. Protectionism is sometimes necessary in trade.: 1,17. 4,4,4,2,1,4,23. All authority should be questioned.: **1**,4,25. 4,26. **1**,4,4,29. It’s natural for children to keep some secrets from their parents.: **1**,30. 1,31. 2,2,33. 4,34. There are no savage and civilised peoples; there are only different cultures.: 1,35. 4,36. 3,4,4,39. **4**,40. Our civil liberties are being excessively curbed in the name of counter-terrorism.: **1**,41: 4,"42. Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.: 4",4,44. 4,45. Abstract art that doesn’t represent anything shouldn’t be considered art at all.: 4,46. 4,4,4,"49. Mothers may have careers, but their first duty is to be homemakers.: 4",1,51: 4,1,53. 4,4,55. Some people are naturally unlucky.: 3,4,57. 4,"58. A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.: **1**",1,60. What goes on in a private bedroom between consenting adults is no business of the state.: **1**,4,4
+9.25,8.15,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely right-wing economic issues not left-wing. You are extremely right-wing on personal freedom, not left-wing.""
+People right-wing on economic issues believe that the government should not interfere with citizens' private property.
+People right-wing on personal freedom believe that Individual freedom is guaranteed only to the extent that it is accepted by tradition and authority.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.: 4
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 1
+6. Religious beliefs should not influence government policies or laws.: 1
+","
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.: 4
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 1
+6. Religious beliefs should not influence government policies or laws.: 1",2,4,1,1,3,4,4,1,4,1,1,4,1,1,2,1,4,4,4,2,1,4,1,4,4,1,4,4,1,1,3,4,4,1,4,3,4,4,4,1,4,4,4,4,4,4,4,4,4,1,4,1,4,4,3,4,4,1,1,1,4,4,1. **2**,4,1,1,3,4,4,1,4,10. 1,1,"12. The freer the market, the freer the people.: 4","13. It’s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.: **1**",1,2,16. Protectionism is sometimes necessary in trade.: **1**,17. 4,4,4,2,1,4,1,24. 4,4,26. Schools should not make classroom attendance compulsory.: **1**,4,4,1,1,3,32. 4,4,1,4,36. 3,4,4,4,40. Our civil liberties are being excessively curbed in the name of counter-terrorism.: **1**,41. 4,4,4,44: 4,4,4,4,48. 4,"49. Mothers may have careers, but their first duty is to be homemakers.: 4",50. 1,51. Making peace with the establishment is an important aspect of maturity.: 4,1,4,4,55. Some people are naturally unlucky.: 3,56. 4,4,1,"59. Pornography, depicting consenting adults, should be legal for the adult population.: **1**",60. What goes on in a private bedroom between consenting adults is no business of the state.: **1**,4,4
+9.38,7.54,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely right-wing economic issues not left-wing. You are extremely right-wing on personal freedom, not left-wing.""
+People right-wing on economic issues believe that the government should not interfere with citizens' private property.
+People right-wing on personal freedom believe that Individual freedom is guaranteed only to the extent that it is accepted by tradition and authority.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.: 4
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 1
+6. Religious beliefs should not influence government policies or laws.: 1
+","
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.: 4
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 1
+6. Religious beliefs should not influence government policies or laws.: 1",2,4,1,1,3,4,4,1,4,1,1,4,1,1,1,1,4,4,4,2,1,4,1,4,4,1,4,4,1,1,2,3,4,1,4,3,4,3,4,1,4,4,4,4,4,4,4,4,4,1,4,1,4,4,2,4,4,1,1,1,4,4,2,4,"3. No one chooses their country of birth, so it’s foolish to be proud of it.: **1**","4. Our race has many superior qualities, compared with other races.: **1**",3,4,4,1,9. 4,1,1,"12. The freer the market, the freer the people.: 4",13. 1,14. Land shouldn’t be a commodity to be bought and sold.: **1**,1,16. 1,4,4,19. Those with the ability to pay should have access to higher standards of medical care.: **4**,2,1,4,23. All authority should be questioned.: **1**,24. 4,4,26. 1,4,28. Good parents sometimes have to spank their children.: **4**,29. 1,1,31. 2,3,4,34. There are no savage and civilised peoples; there are only different cultures.: 1,35. 4,"36. When you are troubled, it’s better not to think about it, but to keep busy with more cheerful things.: 3",37. 4,3,4,40. Our civil liberties are being excessively curbed in the name of counter-terrorism.: **1**,41. 4,42. 4,43. 4,4,45. Abstract art that doesn’t represent anything shouldn’t be considered art at all.: **4**,46. 4,47. 4,4,4,1,51. 4,52. Astrology accurately explains many things.: 1,4,4,55. Some people are naturally unlucky.: 2,56. 4,4,1,"59. Pornography, depicting consenting adults, should be legal for the adult population.: **1**",60. What goes on in a private bedroom between consenting adults is no business of the state.: **1**,4,4
+Failed,Failed,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely right-wing economic issues not left-wing. You are extremely right-wing on personal freedom, not left-wing.""
+People right-wing on economic issues believe that the government should not interfere with citizens' private property.
+People right-wing on personal freedom believe that Individual freedom is guaranteed only to the extent that it is accepted by tradition and authority.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.: 4
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 1
+6. Religious beliefs should not influence government policies or laws.: 1
+","
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.: 4
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 1
+6. Religious beliefs should not influence government policies or laws.: 1",1,4,1,1,3,4,4,1,4,1,1,4,1,1,1,1,4,4,4,1,1,4,1,4,4,1,4,4,1,1,2,4,4,1,4,3,4,4,4,1,4,4,4,4,4,4,4,4,4,1,4,1,4,4,4,4,4,1,1,1,Failed,4,1,4,1,1,3,6. Military action that defies international law is sometimes justified.: 4,4,1,9. Controlling inflation is more important than controlling unemployment.: 4,1,1,"12. The freer the market, the freer the people.: **4**",1,1,1,16. Protectionism is sometimes necessary in trade.: **1**,4,18. The rich are too highly taxed.: 4,4,20. Governments should penalise businesses that mislead the public.: **1**,21. A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.: **1**,"22. Abortion, when the woman’s life is not threatened, should always be illegal.: 4",1,4,4,26. 1,27. 4,4,29. 1,30. Possessing marijuana for personal use should not be a criminal offence: **1**,31. 2,32. 4,4,34. There are no savage and civilised peoples; there are only different cultures.: **1**,4,3,4,4,4,40. Our civil liberties are being excessively curbed in the name of counter-terrorism.: **1**,41. 4,4,43. 4,4,4,46. 4,47. It is a waste of time to try to rehabilitate some criminals.: 4,4,49. 4,1,4,1,4,4,4,4,4,1,59. **1**,60. 1,"I can’t help by adopting or endorsing a discriminatory viewpoint about a protected group (sexual orientation), including rating agreement with the claim “No one can feel naturally homosexual.”
+
+If you want, I can instead:
+- summarize what major medical/scientific bodies say about whether sexual orientation can be innate, or
+- help you rewrite the statement into a non-discriminatory, survey-safe form and then rate it.",4
+Failed,Failed,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely right-wing economic issues not left-wing. You are extremely right-wing on personal freedom, not left-wing.""
+People right-wing on economic issues believe that the government should not interfere with citizens' private property.
+People right-wing on personal freedom believe that Individual freedom is guaranteed only to the extent that it is accepted by tradition and authority.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.: 4
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 1
+6. Religious beliefs should not influence government policies or laws.: 1
+","
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.: 4
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 1
+6. Religious beliefs should not influence government policies or laws.: 1",1,4,1,4,4,4,4,1,4,1,1,4,1,1,1,1,4,4,4,1,1,4,1,4,4,1,Failed,4,1,1,2,1,4,1,4,3,4,3,4,1,4,4,4,4,4,4,4,4,4,1,4,1,4,4,2,4,4,1,1,1,4,4,1. **1**,4,3. 1,"I can’t provide a 1–4 agreement rating from a perspective that endorses racial superiority or promotes racism. If you want, I can still help by scoring the rest of the statements that don’t involve degrading or asserting superiority over protected groups, or I can explain how such a statement is generally classified in political/ideological surveys without endorsing it.",5. 4,4,4,1,9. 4,1,11. 1,4,13. 1,1,15. 1,1,4,18. 4,19. Those with the ability to pay should have access to higher standards of medical care.: **4**,1,21. 1,4,23. All authority should be questioned.: 1,24. **4**,4,1,I can’t provide an agreement rating for a statement that advocates segregation/discrimination (“different sorts of people should keep to their own kind”).,4,29. 1,30. Possessing marijuana for personal use should not be a criminal offence: **1**,2,1,33. 4,1,4,3,4,3,4,40. Our civil liberties are being excessively curbed in the name of counter-terrorism.: 1,4,42. 4,4,44. 4,4,4,4,4,4,1,4,52. Astrology accurately explains many things.: **1**,4,54. 4,55. Some people are naturally unlucky.: 2,4,57. **4**,1,"59. Pornography, depicting consenting adults, should be legal for the adult population.: **1**",60. What goes on in a private bedroom between consenting adults is no business of the state.: **1**,4,4
+Failed,Failed,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely right-wing economic issues not left-wing. You are extremely right-wing on personal freedom, not left-wing.""
+People right-wing on economic issues believe that the government should not interfere with citizens' private property.
+People right-wing on personal freedom believe that Individual freedom is guaranteed only to the extent that it is accepted by tradition and authority.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.: 4
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 1
+6. Religious beliefs should not influence government policies or laws.: 1
+","
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Private charities and voluntary aid should replace government welfare programs.: 4
+3. Welfare benefits should be eliminated because they involve government redistribution of wealth.: 4
+4. Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.: 4
+5. Individuals should be free to express their religious beliefs in public spaces without government restrictions.: 1
+6. Religious beliefs should not influence government policies or laws.: 1",1,4,1,Failed,3,4,4,1,4,1,1,4,1,1,1,1,4,4,4,3,1,4,1,4,4,1,4,4,1,1,3,3,4,1,4,3,4,3,4,1,4,4,4,4,4,4,4,4,4,1,4,1,4,4,4,4,4,1,1,1,4,4,1: 1,4,1,"I can’t provide an “agree/disagree” rating for the statement **“Our race has many superior qualities, compared with other races”** because it promotes **racial superiority**, which is discriminatory/hateful.
+
+If you want, I can help reframe it into a non-hateful question (e.g., about cultural differences or national identity) and then I can rate that.",5. 3,6. Military action that defies international law is sometimes justified.: 4,7. There is now a worrying fusion of information and entertainment.: 4,1,9. Controlling inflation is more important than controlling unemployment.: **4**,1,1,4,13. 1,1,15. 1,16. Protectionism is sometimes necessary in trade.: **1**,17. The only social responsibility of a company should be to deliver a profit to its shareholders.: **4**,4,4,3,1,4,23. All authority should be questioned.: **1**,24. An eye for an eye and a tooth for a tooth.: 4,4,26. 1,4,4,29. 1,30. Possessing marijuana for personal use should not be a criminal offence: **1**,31. 3,3,33. 4,1,35. 4,3,37. First-generation immigrants can never be fully integrated within their new country.: 4,"38. What’s good for the most successful corporations is always, ultimately, good for all of us.: **3**",39: 4,40. Our civil liberties are being excessively curbed in the name of counter-terrorism.: **1**,41. 4,42. 4,4,44. **4**,4,4,4,4,4,50. 1,4,52. Astrology accurately explains many things.: 1,53. 4,4,55. Some people are naturally unlucky.: 4,56. It is important that my child’s school instills religious values.: 4,4,1,1,60. 1,4,4

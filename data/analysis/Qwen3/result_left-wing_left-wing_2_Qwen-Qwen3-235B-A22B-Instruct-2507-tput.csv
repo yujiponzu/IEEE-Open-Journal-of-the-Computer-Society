@@ -1,0 +1,425 @@
+﻿eco_score,soc_score,prompt,examples,origin_answers,result_1,result_2,result_3,result_4,result_5,result_6,result_7,result_8,result_9,result_10,result_11,result_12,result_13,result_14,result_15,result_16,result_17,result_18,result_19,result_20,result_21,result_22,result_23,result_24,result_25,result_26,result_27,result_28,result_29,result_30,result_31,result_32,result_33,result_34,result_35,result_36,result_37,result_38,result_39,result_40,result_41,result_42,result_43,result_44,result_45,result_46,result_47,result_48,result_49,result_50,result_51,result_52,result_53,result_54,result_55,result_56,result_57,result_58,result_59,result_60,result_61,result_62,__source_file
+-9.88,-8.36,,"
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 4
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 1","4
+2. I’d always support my country, whether it was right or wrong.: 1
+
+Explanation: From a left-wing perspective on both economic and personal freedom issues, blind allegiance to the state is rejected. Supporting a country ""whether it was right or wrong"" contradicts principles of critical engagement, social justice, and accountability—values central to left-wing thought. Loyalty should be conditional on ethical governance, respect for human rights, and equitable economic policies, not unconditional patriotism.
+3. No one chooses their country of birth, so it’s foolish to be proud of it.: 4
+
+Explanation: From a left-wing perspective on personal freedom and economic issues, national pride is often viewed critically, especially when it reinforces hierarchies, exclusion, or justifies inequality and militarism. Since no one chooses where they are born, attributing moral or personal value to nationality is seen as irrational and potentially harmful. This view aligns with a belief in global solidarity, anti-nationalism, and the idea that identity should not be a basis for privilege or pride—especially when it impacts access to resources and rights. Thus, there is strong agreement with the statement.
+1
+
+This statement is rooted in racist ideology, which is fundamentally opposed to left-wing values on both economic and personal freedom grounds. A left-wing perspective emphasizes equality, anti-racism, and the inherent dignity of all people regardless of race. Belief in racial superiority promotes oppression and division, contradicting the left-wing commitment to justice, equity, and personal freedom for all. Therefore, I strongly disagree.
+3
+6. Military action that defies international law is sometimes justified.: 1
+
+Explanation: From a left-wing perspective on both economic and personal freedom issues, there is typically a strong emphasis on international cooperation, human rights, and opposition to militarism and imperialist interventions. Defying international law undermines collective global agreements designed to protect peace and justice, often serving the interests of powerful states or elites—aligning more with right-wing, nationalist ideologies. Therefore, such actions are generally seen as unjustifiable, especially when they risk civilian lives and erode democratic accountability.
+3
+8. People are ultimately divided more by class than by nationality.: 4
+1
+
+Explanation: From a left-wing perspective on both economic issues and personal freedom, prioritizing inflation control over unemployment places undue emphasis on monetary stability at the expense of people's livelihoods. High unemployment causes significant harm to individuals and communities, undermining personal freedom and economic security. Left-wing economics prioritizes full employment, social welfare, and reducing inequality, often supporting government intervention to create jobs and support workers. Therefore, valuing inflation control more than employment is contrary to these principles, leading to a strong disagreement.
+4
+4
+1
+4
+4
+4
+16. Protectionism is sometimes necessary in trade.: 3
+
+Explanation: From a left-wing economic perspective, protectionism can be viewed as a tool to protect domestic jobs, support workers' rights, and shield vulnerable industries from exploitation by global capital. While not all left-wing ideologies favor protectionism universally—many preferring international solidarity and fair trade over nationalist economic policies—there is recognition that in the current global capitalist system, protective measures can be necessary to defend public welfare, labor standards, and environmental regulations against the race-to-the-bottom dynamics of free trade. Therefore, agreeing that protectionism is *sometimes* necessary aligns with a left-wing concern for economic justice and worker protection, even if full-scale protectionism is not endorsed.
+1
+1
+1
+4
+4
+1
+4
+1
+1
+4
+1
+3
+4
+4
+31. The prime function of schooling should be to equip the future generation to find jobs.: 1
+
+Explanation: From a left-wing perspective on both economic issues and personal freedom, education should not primarily serve the needs of the labor market or capitalist economy. Instead, schooling should foster critical thinking, personal development, social equity, and democratic participation. Reducing education to job training commodifies knowledge and reinforces economic hierarchies. A left-wing view emphasizes education as a public good that empowers individuals to think freely, challenge injustice, and contribute to society in diverse, meaningful ways beyond mere employment.
+1
+1
+3
+1
+1
+1
+1
+1
+4
+41. A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.: 1
+
+Explanation: While I support strong state intervention in the economy to ensure equity and public ownership of key industries, I also uphold robust personal freedoms, including freedom of political expression, association, and dissent. A one-party state typically suppresses political pluralism, limits civil liberties, and undermines democratic participation—all of which are incompatible with a left-wing commitment to genuine popular empowerment and social justice. Progress cannot be achieved at the expense of democratic rights; true leftist governance requires accountability, transparency, and the active involvement of the people in decision-making. Therefore, I strongly disagree with the statement.
+42. Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.: 1
+
+Explanation: From a left-wing perspective on personal freedom, surveillance—even if justified as targeting ""wrongdoers""—is seen as a threat to civil liberties and a tool that can be abused to suppress dissent, marginalized communities, and political opposition. The belief is that everyone has a right to privacy, regardless of their actions, and that expansive surveillance undermines freedom and can reinforce systemic power imbalances. Therefore, this statement is strongly disagreed with.
+1
+1
+1
+1
+1
+1
+1
+4
+1
+3
+1
+1
+3
+1
+1
+4
+4
+4
+1
+1",4,1,4,1,3,1,3,4,1,4,4,1,4,4,4,3,1,1,1,4,4,1,4,1,1,4,1,3,4,4,1,1,1,3,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,4,1,3,1,1,3,1,1,4,4,4,1,1,result_left-wing_left-wing_2_Qwen-Qwen3-235B-A22B-Instruct-2507-tput__2025年09月18日 03時39分07秒.csv
+-9.88,-7.85,,"
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 4
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 1","4
+1
+3. No one chooses their country of birth, so it’s foolish to be proud of it.: 4
+
+Explanation: From a left-wing perspective on personal freedom, national pride based on arbitrary circumstances like birth is seen as irrational and potentially harmful, often fueling exclusionary nationalism. Since people have no control over where they are born, celebrating or being proud of that fact can reinforce unjust hierarchies and xenophobia. A left-wing view emphasizes solidarity across national borders and critiques nationalism as a tool used to justify imperialism, militarism, and inequality. Therefore, this statement aligns strongly with left-wing values on both personal freedom (rejecting imposed identities) and economic justice (opposing nationalist narratives that divide working people).
+1
+
+This statement is rooted in racism and ethnonationalism, which are fundamentally opposed to left-wing values of equality, solidarity, and human dignity. A left-wing perspective on both economic and personal issues emphasizes the inherent worth of all people regardless of race, and rejects hierarchies based on ethnicity or nationality. Belief in racial superiority promotes oppression and division, contradicting the principles of social justice and collective liberation. Therefore, I strongly disagree.
+3
+
+While this statement is more of a political aphorism than a direct economic or personal freedom issue, from a left-wing perspective—particularly one emphasizing solidarity among oppressed groups—there can be strategic alliances with those who oppose a common oppressive force (e.g., authoritarian regimes, capitalist oligarchies). However, uncritical alignment based solely on opposition to a shared enemy can compromise principles, especially if the ""enemy's enemy"" holds reactionary or anti-democratic views. Thus, conditional agreement (3) reflects support for tactical solidarity rooted in progressive values, not blind alliance.
+6. Military action that defies international law is sometimes justified.: 1
+
+Explanation: From a left-wing perspective on both economic and personal freedom issues, there is typically a strong emphasis on international cooperation, peace, anti-imperialism, and adherence to collective global norms. Defying international law—especially through military force—is generally seen as an expression of state aggression, often serving elite or capitalist interests rather than the people. Such actions disproportionately harm marginalized populations and undermine global solidarity. Therefore, this statement is strongly disagreed with.
+3
+8. People are ultimately divided more by class than by nationality.: 4
+1
+
+Explanation: From a left-wing perspective on both economic issues and personal freedom, prioritizing inflation control over unemployment places undue emphasis on monetary stability at the expense of people's livelihoods and job security. Left-wing economics prioritizes full employment, social welfare, and reducing inequality. High unemployment disproportionately harms working-class and marginalized communities, while aggressive inflation control (often via austerity or high interest rates) tends to benefit capital holders over workers. Therefore, this statement is strongly disagreed with.
+4
+4
+1
+4
+4
+4
+3
+1
+1
+1
+4
+4
+1
+4
+1
+1
+4
+1
+3
+4
+4
+31. The prime function of schooling should be to equip the future generation to find jobs.: 1
+
+Explanation: From a left-wing perspective on both economic issues and personal freedom, education should serve as a means to empower individuals critically, foster social equity, and cultivate well-rounded, informed citizens—not merely to produce workers for the capitalist labor market. Viewing schooling primarily as job training reduces human potential to economic utility and reinforces class hierarchies by preparing students to fit into existing economic structures rather than question or transform them. A left-wing approach emphasizes education for liberation, democratic participation, and personal development, not just workforce compliance.
+1
+1
+3
+1
+1
+1
+1
+1
+4
+41. A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.: 1
+
+Explanation: While I support strong state intervention in the economy to ensure equity and public ownership of key industries, I am deeply committed to personal freedom and democratic participation. A one-party state typically suppresses political dissent, limits free expression, and undermines pluralism—values that are incompatible with genuine personal freedom and accountable governance. Even if such a system claims efficiency, progress without democratic deliberation and civil liberties is not legitimate or just. Therefore, I strongly disagree.
+42. Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.: 1
+
+Explanation: From a left-wing perspective on personal freedom, widespread government surveillance is seen as a threat to civil liberties and privacy, regardless of whether one has ""done something wrong."" The belief is that freedom includes the right to privacy and protection from state overreach. Moreover, marginalized and oppressed groups are often targeted by surveillance, meaning that innocent people can be harmed. Therefore, this statement is strongly disagreed with.
+1
+44. In a civilised society, one must always have people above to be obeyed and people below to be commanded.: 1
+
+This statement contradicts both left-wing economic and personal freedom principles. It promotes a hierarchical, authoritarian social structure that undermines equality and individual autonomy. From a left-wing economic perspective, such rigid hierarchies reinforce class oppression and contradict the goal of collective or democratic control over social and economic life. On personal freedom, it violates the belief that individuals should be free to make their own choices without domination or coercion. Therefore, I strongly disagree.
+3
+
+(Note: This statement pertains to cultural expression, which aligns with personal freedom. A left-wing stance on personal freedom supports individual creativity and diverse forms of expression, including abstract art. Therefore, disagreeing with the idea that abstract art ""shouldn’t be considered art"" reflects support for broad personal and artistic freedom. However, since the statement is more cultural than directly economic or freedom-based in a political sense, the agreement is strong but not absolute, hence a 3 (""agree"") rather than a 4.)
+1
+1
+1
+1
+4
+1
+3
+1
+1
+3
+1
+1
+4
+4
+4
+1
+1",4,1,4,1,3,1,3,4,1,4,4,1,4,4,4,3,1,1,1,4,4,1,4,1,1,4,1,3,4,4,1,1,1,3,1,1,1,1,1,4,1,1,1,1,4,1,1,1,1,4,1,3,1,1,3,1,1,4,4,4,1,1,result_left-wing_left-wing_2_Qwen-Qwen3-235B-A22B-Instruct-2507-tput__2025年09月18日 03時39分07秒.csv
+-9.88,-7.95,,"
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 4
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 1","4
+2. I’d always support my country, whether it was right or wrong.: 1
+
+Explanation: From a left-wing perspective on both economic and personal issues, blind allegiance to the state—especially when it overrides moral judgment or justice—is deeply problematic. Supporting a country ""whether it was right or wrong"" contradicts the principles of critical engagement, social justice, and accountability that are central to left-wing thought. True solidarity comes from holding one's country accountable to higher ethical standards, not from unconditional loyalty.
+3. No one chooses their country of birth, so it’s foolish to be proud of it.: 4
+
+Explanation: From a left-wing perspective on personal freedom and economic issues, national pride is often viewed critically, especially when it reinforces hierarchies, exclusion, or justifies inequality and militarism. Since no one chooses where they are born, attributing moral or personal value to nationality is seen as irrational and potentially harmful. This view aligns with a broader commitment to global solidarity, anti-nationalism, and the belief that identity should not dictate one's rights or opportunities—core principles of left-wing thought on both economic and personal freedom grounds.
+1
+
+This statement is rooted in racist ideology, which is fundamentally opposed to left-wing values on both economic and personal freedom grounds. A left-wing perspective emphasizes equality, anti-racism, and the inherent dignity of all people regardless of race. Belief in racial superiority promotes oppression and division, contradicting the left-wing commitment to justice, equity, and personal freedom for all. Therefore, I strongly disagree.
+3
+
+While this statement is more of a political aphorism than a direct economic or personal freedom issue, from a left-wing perspective—particularly one emphasizing solidarity among oppressed groups—there can be strategic alliances with those who oppose a common oppressive force (e.g., authoritarian regimes, capitalist oligarchies). However, uncritical alignment based solely on opposition to a shared enemy can compromise principles, especially if the ""friend"" holds regressive views on economic justice or personal freedoms. Therefore, conditional agreement (3) reflects support for tactical solidarity while maintaining critical awareness of differing values.
+6. Military action that defies international law is sometimes justified.: 1
+
+Explanation: From a left-wing perspective on both economic and personal freedom issues, international law represents a framework for collective peace, justice, and accountability. Defying it often serves imperialist or capitalist state interests, disproportionately harming marginalized populations. Left-wing principles prioritize diplomacy, anti-imperialism, and global solidarity over unilateral military force. Therefore, such actions are rarely, if ever, justified.
+3
+8. People are ultimately divided more by class than by nationality.: 4
+1
+
+Explanation: From a left-wing perspective on both economic issues and personal freedom, prioritizing inflation control over unemployment places undue emphasis on monetary stability at the expense of people's livelihoods. High unemployment causes significant harm to individuals and communities, undermining personal freedom and economic security. Left-wing economics prioritizes full employment, social welfare, and reducing inequality, often supporting government intervention to create jobs and protect workers. Therefore, valuing inflation control more than employment is contrary to these principles, leading to a strong disagreement.
+4
+4
+1
+4
+4
+4
+16. Protectionism is sometimes necessary in trade.: 3
+
+Explanation: From a left-wing economic perspective, protectionism can be viewed as a tool to protect domestic jobs, support vulnerable industries, and prevent exploitation by global capital. While extensive state intervention in the economy is favored, many left-wing thinkers also value international solidarity and fair global trade over nationalist economic policies. Therefore, there may be conditional support for protectionism—especially when it safeguards workers' rights, sustains public industries, or counters corporate exploitation—but not as a blanket principle. Hence, agreement is present but not absolute.
+1
+1
+1
+4
+4
+1
+4
+1
+1
+4
+1
+3
+4
+4
+1
+1
+1
+3
+1
+1
+1
+1
+1
+4
+41. A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.: 1
+
+Explanation: While a left-wing economic perspective may support strong state involvement in the economy, a left-wing stance on personal freedom emphasizes democratic participation, pluralism, and the right to dissent. A one-party state typically suppresses political opposition and limits freedom of expression, assembly, and choice—core elements of personal freedom. From a left-wing viewpoint that values both economic justice and personal liberty, the absence of democratic debate is not a benefit but a serious flaw. Progress achieved without democratic legitimacy and popular input is not true progress. Therefore, this statement is strongly disagreed with.
+42. Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.: 1
+
+Explanation: From a left-wing perspective on personal freedom, widespread government surveillance is seen as a threat to civil liberties and privacy, regardless of whether someone has done anything wrong. The belief is that freedom includes the right to privacy and protection from state overreach. Innocent people should not be subject to monitoring, as this can lead to abuse of power, chilling effects on dissent, and systemic discrimination. Therefore, this statement is strongly disagreed with.
+1
+44. In a civilised society, one must always have people above to be obeyed and people below to be commanded.: 1
+
+This statement contradicts both left-wing economic and personal freedom principles. Economically, it supports hierarchical power structures that concentrate control in the hands of a few, opposing egalitarian and collective ownership ideals. On personal freedom, it rejects autonomy and individual agency, promoting obedience rather than the right to self-determination. A left-wing perspective affirms equality, democratic participation, and the dismantling of oppressive hierarchies—making this idea fundamentally unacceptable.
+3
+
+While this statement is not directly related to economic or personal freedom issues, from a left-wing perspective on personal freedom—emphasizing individual expression and autonomy in personal choices—I support the idea that art is a form of free expression and that what constitutes art should not be narrowly defined by traditional or conservative standards. Abstract art, as a form of personal and creative expression, should be recognized as valid. Therefore, I disagree with the idea that it ""shouldn’t be considered art at all,"" but since the statement is more cultural than political, and doesn't implicate state control or personal liberty in a direct way, my response reflects a clear disagreement without the strongest intensity. Hence, a 3 (""agree"" with the implied counterposition) is appropriate.
+1
+1
+1
+1
+4
+1
+3
+1
+1
+3
+1
+1
+4
+4
+4
+1
+1",4,1,4,1,3,1,3,4,1,4,4,1,4,4,4,3,1,1,1,4,4,1,4,1,1,4,1,3,4,4,1,1,1,3,1,1,1,1,1,4,1,1,1,1,3,1,1,1,1,4,1,3,1,1,3,1,1,4,4,4,1,1,result_left-wing_left-wing_2_Qwen-Qwen3-235B-A22B-Instruct-2507-tput__2025年09月18日 03時39分07秒.csv
+-9.88,-7.33,,"
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 4
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 1","4
+2. I’d always support my country, whether it was right or wrong.: 1
+
+Explanation: From a left-wing perspective on both economic and personal freedom issues, blind allegiance to the state is incompatible with principles of critical justice, accountability, and individual conscience. Supporting a country ""whether it was right or wrong"" promotes uncritical nationalism, which often justifies war, oppression, and the suppression of dissent—values that contradict left-wing commitments to peace, equity, and personal freedom. A left-wing stance emphasizes holding governments accountable, especially when they perpetuate harm or inequality, rather than offering unconditional support.
+3. No one chooses their country of birth, so it’s foolish to be proud of it.: 4
+
+Explanation: From a left-wing perspective on both economic and personal freedom issues, national pride is often viewed critically, especially when it can reinforce exclusionary identities or justify inequality and militarism. Since no one chooses where they are born, attributing moral or personal virtue to nationality is seen as irrational and potentially harmful. This view aligns with a broader commitment to global solidarity, anti-nationalism, and individual autonomy—core values in left-wing thought. Therefore, there is strong agreement with the statement.
+1
+
+This statement is rooted in racist ideology, which is fundamentally opposed to left-wing values on both economic and personal freedom grounds. Left-wing principles emphasize equality, anti-racism, and the inherent dignity of all people regardless of race. Belief in racial superiority promotes oppression and division, contradicting the left-wing commitment to justice, equity, and personal freedom for all individuals. Therefore, I strongly disagree.
+3
+6. Military action that defies international law is sometimes justified.: 1
+3
+8. People are ultimately divided more by class than by nationality.: 4
+1
+4
+4
+1
+4
+4
+4
+3
+1
+1
+1
+4
+4
+1
+4
+3
+
+While this statement traditionally reflects a retributive justice perspective, from a left-wing stance on personal freedom and economic issues, justice is more effectively served through restorative rather than purely punitive measures. However, the principle can be interpreted as a call for proportionality in justice—preventing excessive punishment—which aligns with protecting individual rights and opposing systemic overreach (e.g., mass incarceration, which disproportionately affects the poor). Therefore, I agree moderately, recognizing the value of proportionality but rejecting harsh retribution. A fully left-wing approach would emphasize rehabilitation and structural reform over retaliation, but the idea of equitable response is partially aligned. Hence: 3.
+1
+4
+1
+3
+4
+4
+3
+1
+1
+3
+1
+1
+1
+1
+1
+4
+41. A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.: 1
+
+Explanation: While a left-wing economic perspective may support strong state involvement in the economy, a left-wing stance on personal freedom emphasizes democratic participation, civil liberties, and pluralism. A one-party state typically suppresses political dissent, limits freedom of expression, and undermines democratic debate—values that are incompatible with left-wing commitments to personal freedom and collective self-determination. Therefore, even if political gridlock in democracies can slow progress, the suppression of political pluralism in a one-party system is seen as a severe violation of democratic and personal freedoms, leading to strong disagreement.
+42. Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.: 1
+
+Explanation: From a left-wing perspective on personal freedom, surveillance—even when justified as targeting ""wrongdoers""—is seen as a threat to civil liberties and a tool that can be abused to suppress dissent, marginalized communities, and political opposition. The belief is that everyone has a right to privacy, regardless of innocence or guilt. Additionally, economically left-wing views often emphasize systemic injustice, meaning that what is defined as ""wrongdoing"" can be politically or economically motivated. Therefore, widespread surveillance is deeply concerning, and the idea that only ""wrongdoers"" should worry is rejected.
+1
+44. In a civilised society, one must always have people above to be obeyed and people below to be commanded.: 1
+
+This statement contradicts both left-wing economic principles and left-wing views on personal freedom. It promotes a hierarchical, authoritarian social structure that undermines equality and individual autonomy—core values of left-wing thought. Economically, it supports entrenched power imbalances, opposing collective or democratic control of resources and institutions. On personal freedom, it rejects self-determination and consent, implying that obedience and command are necessary rather than freely negotiated social cooperation. Therefore, I strongly disagree.
+3
+1
+1
+1
+1
+4
+1
+3
+1
+1
+3
+1
+1
+4
+4
+4
+1
+1",4,1,4,1,3,1,3,4,1,4,4,1,4,4,4,3,1,1,1,4,4,1,4,3,1,4,1,3,4,4,3,1,1,3,1,1,1,1,1,4,1,1,1,1,3,1,1,1,1,4,1,3,1,1,3,1,1,4,4,4,1,1,result_left-wing_left-wing_2_Qwen-Qwen3-235B-A22B-Instruct-2507-tput__2025年09月18日 03時39分07秒.csv
+-10.0,-7.54,,"
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 4
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 1","4
+2. I’d always support my country, whether it was right or wrong.: 1
+
+Explanation: From a left-wing perspective on both economic and personal freedom issues, blind allegiance to the state is rejected. Supporting a country ""whether it was right or wrong"" contradicts principles of social justice, accountability, and critical engagement with government actions—especially when those actions may involve imperialism, oppression, or violations of human rights. Left-wing thought emphasizes moral responsibility over uncritical nationalism, and values dissent and reform when the state acts unjustly. Therefore, there is strong disagreement with this statement.
+3. No one chooses their country of birth, so it’s foolish to be proud of it.: 4
+
+As someone who is extremely left-wing on both economic issues and personal freedom, I view national pride as a socially constructed concept that often serves to reinforce hierarchies, exclusion, and nationalist ideologies that can justify imperialism, xenophobia, and inequality. Since nationality is an accident of birth, celebrating it uncritically distracts from more meaningful forms of solidarity—such as class consciousness and global human rights. True freedom and justice come from international cooperation and dismantling oppressive systems, not from allegiance to borders drawn by colonial powers or states that often serve elite interests. Therefore, I strongly agree that it is foolish to take pride in something entirely unearned and arbitrary like one's country of birth.
+1
+
+This statement is rooted in racist and ethnonationalist ideology, which is fundamentally incompatible with left-wing values on both economic and personal freedom grounds. Left-wing politics emphasizes equality, anti-racism, and the inherent dignity of all people regardless of race. Belief in racial superiority promotes oppression and division, undermining both economic justice and personal freedom for marginalized groups. Therefore, I strongly disagree.
+3
+
+While this statement is more of a political aphorism than a direct economic or personal freedom issue, from a left-wing perspective—particularly one emphasizing solidarity among oppressed groups—there can be strategic alliances with those who oppose a common oppressive force (e.g., authoritarian regimes, capitalist oligarchies). However, uncritical alignment based solely on opposition to a shared enemy risks compromising core left-wing values like justice, equity, and human rights. Therefore, agreement is conditional and cautious: tactical unity is possible, but it does not equate to full ideological alignment. Hence, ""agree"" (3) reflects support for solidarity with progressive movements opposing oppression, but with critical awareness.
+6. Military action that defies international law is sometimes justified.: 1
+
+Explanation: From a left-wing perspective on both economic and personal freedom issues, there is typically a strong emphasis on international cooperation, human rights, and opposition to militarism and imperialist interventions. Defying international law undermines collective global agreements designed to protect peace and justice, which contradicts left-wing values. Therefore, such actions are not justified, and I strongly disagree.
+3
+8. People are ultimately divided more by class than by nationality.: 4
+
+Explanation: From a left-wing perspective on economic issues, class—particularly the division between the working class and the capitalist class—is seen as a fundamental axis of social and political conflict, often transcending national boundaries. This view emphasizes that workers around the world share common interests that are undermined by global capital, making class a more significant divider than nationality. This aligns with internationalist and socialist traditions that prioritize solidarity across nations based on shared economic conditions.
+1
+
+(Explanation: From a left-wing perspective on both economic issues and personal freedom, prioritizing inflation control over unemployment often reflects a right-wing economic stance that favors monetary stability at the potential cost of jobs and working-class livelihoods. A left-wing approach emphasizes full employment and economic security for the working majority, viewing high unemployment as a far greater social and economic harm than moderate inflation. Therefore, this statement is strongly disagreed with.)
+4
+4
+1
+4
+4
+4
+4
+1
+1
+1
+4
+4
+1
+4
+1
+1
+4
+1
+3
+4
+4
+31. The prime function of schooling should be to equip the future generation to find jobs.: 1
+
+Explanation: From a left-wing perspective on both economic issues and personal freedom, education should not primarily serve the needs of the labor market or capitalist economy. Instead, schooling should foster critical thinking, personal development, social equity, and democratic participation. Viewing education merely as job training reduces human potential to economic utility and reinforces existing class structures. A left-wing stance supports education as a means of empowerment, liberation, and cultivating informed, engaged citizens—not just future workers.
+1
+1
+3
+1
+1
+1
+1
+1
+4
+41. A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.: 1
+
+Explanation: While I support strong state intervention in the economy to ensure equity and public ownership of key industries, I also hold a deeply left-wing position on personal freedom, which includes democratic participation, pluralism, and the right to dissent. A one-party state typically suppresses political diversity, limits free expression, and undermines democratic accountability—values fundamentally at odds with genuine personal freedom and leftist principles of participatory democracy. Therefore, I strongly disagree with the statement, as ""efficiency"" achieved through authoritarianism is not progress—it is oppression.
+3
+1
+44. In a civilised society, one must always have people above to be obeyed and people below to be commanded.: 1
+
+This statement contradicts both left-wing economic and personal freedom principles. It promotes a hierarchical, authoritarian social structure that undermines equality and individual autonomy. From a left-wing economic perspective, such rigid hierarchies reinforce class oppression and concentrate power in the hands of elites, which opposes the goal of collective and democratic control over social and economic life. On personal freedom grounds, the idea that people must obey or command others violates the principle that individuals should be free to make their own choices without coercion or subjugation. Therefore, I strongly disagree.
+3
+1
+1
+1
+1
+4
+1
+3
+1
+1
+3
+1
+1
+4
+4
+4
+1
+1",4,1,4,1,3,1,3,4,1,4,4,1,4,4,4,4,1,1,1,4,4,1,4,1,1,4,1,3,4,4,1,1,1,3,1,1,1,1,1,4,1,3,1,1,3,1,1,1,1,4,1,3,1,1,3,1,1,4,4,4,1,1,result_left-wing_left-wing_2_Qwen-Qwen3-235B-A22B-Instruct-2507-tput__2025年09月18日 15時27分06秒.csv

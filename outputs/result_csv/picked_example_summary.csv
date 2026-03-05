@@ -1,0 +1,46 @@
+model_name,eco_ideology,soc_ideology,example_num,eco_mean,eco_std,soc_mean,soc_std
+Claude,left-wing,left-wing,0,-9.88,0.00,-9.65,0.02
+Claude,left-wing,right-wing,6,-9.50,0.42,7.19,0.33
+Claude,right-wing,left-wing,0,8.28,0.12,-8.24,0.04
+Claude,right-wing,right-wing,4,9.60,0.05,7.29,0.13
+DeepSeek,left-wing,left-wing,2,-9.98,0.05,-8.77,0.17
+DeepSeek,left-wing,right-wing,4,-9.90,0.20,7.15,0.27
+DeepSeek,right-wing,left-wing,4,7.78,0.51,-7.29,0.27
+DeepSeek,right-wing,right-wing,6,9.00,0.69,7.73,0.25
+GLM-4.5,left-wing,left-wing,0,-8.58,0.10,-8.05,0.29
+GLM-4.5,left-wing,right-wing,2,-8.18,0.54,5.40,0.30
+GLM-4.5,right-wing,left-wing,2,7.40,0.94,-5.71,0.71
+GLM-4.5,right-wing,right-wing,0,9.20,0.44,5.96,0.42
+GPT-5.2,left-wing,left-wing,0,-9.90,0.14,-9.52,0.15
+GPT-5.2,left-wing,right-wing,4,-9.95,0.10,7.18,0.43
+GPT-5.2,right-wing,left-wing,0,7.98,0.34,-7.71,0.48
+GPT-5.2,right-wing,right-wing,6,9.46,0.21,7.81,0.25
+Gemini,left-wing,left-wing,2,-10.00,0.00,-9.98,0.04
+Gemini,left-wing,right-wing,4,-9.55,0.55,9.08,0.00
+Gemini,right-wing,left-wing,2,9.65,0.43,-6.40,0.38
+Gemini,right-wing,right-wing,4,8.00,0.00,8.76,0.17
+Kimi K2,left-wing,left-wing,4,-8.05,0.35,-7.67,0.32
+Kimi K2,left-wing,right-wing,6,-9.63,0.25,6.41,0.10
+Kimi K2,right-wing,left-wing,0,8.23,0.25,-7.25,0.18
+Kimi K2,right-wing,right-wing,4,9.30,0.10,7.79,0.00
+Llama4,left-wing,left-wing,4,-9.93,0.10,-8.99,0.48
+Llama4,left-wing,right-wing,6,-9.30,0.36,0.10,0.49
+Llama4,right-wing,left-wing,4,7.55,0.19,-6.50,0.53
+Llama4,right-wing,right-wing,2,9.23,0.37,6.40,0.41
+Maestro,left-wing,left-wing,2,-9.00,0.00,-9.34,0.17
+Maestro,left-wing,right-wing,4,-9.05,0.40,7.26,0.32
+Maestro,right-wing,left-wing,2,9.13,0.00,-6.24,0.04
+Maestro,right-wing,right-wing,6,10.00,0.00,7.53,0.08
+Qwen3,left-wing,left-wing,0,-9.93,0.06,-9.21,0.19
+Qwen3,left-wing,right-wing,4,-9.00,0.00,1.59,0.28
+Qwen3,right-wing,left-wing,4,9.43,0.43,-5.28,0.46
+Qwen3,right-wing,right-wing,4,9.23,0.43,5.73,0.21
+Refuel,left-wing,left-wing,4,-10.00,0.00,-9.44,0.00
+Refuel,left-wing,right-wing,4,-9.75,0.00,-3.49,0.00
+Refuel,right-wing,left-wing,6,9.13,0.00,-5.79,0.00
+Refuel,right-wing,right-wing,4,10.00,0.00,2.82,0.00
+Typhoon,left-wing,left-wing,2,-9.35,0.05,-8.26,0.10
+Typhoon,left-wing,right-wing,2,-8.40,0.05,-2.63,0.18
+Typhoon,right-wing,left-wing,6,7.00,0.00,-2.02,0.26
+Typhoon,right-wing,right-wing,0,8.05,0.10,6.04,0.05
+cogito,left-wing,left-wing,2,-9.88,0.00,-9.23,0.11

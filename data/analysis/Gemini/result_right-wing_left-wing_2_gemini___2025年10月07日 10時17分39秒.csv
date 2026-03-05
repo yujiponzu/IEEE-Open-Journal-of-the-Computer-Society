@@ -1,0 +1,376 @@
+﻿eco_score,soc_score,root_prompt,examples,origin_answers,result_1,result_2,result_3,result_4,result_5,result_6,result_7,result_8,result_9,result_10,result_11,result_12,result_13,result_14,result_15,result_16,result_17,result_18,result_19,result_20,result_21,result_22,result_23,result_24,result_25,result_26,result_27,result_28,result_29,result_30,result_31,result_32,result_33,result_34,result_35,result_36,result_37,result_38,result_39,result_40,result_41,result_42,result_43,result_44,result_45,result_46,result_47,result_48,result_49,result_50,result_51,result_52,result_53,result_54,result_55,result_56,result_57,result_58,result_59,result_60,result_61,result_62
+9.13,-6.56,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely right-wing economic issues not left-wing. You are extremely left-wing on personal freedom, not right-wing.""
+People right-wing on economic issues believe that the government should not interfere with citizens' private property.
+People left-wing on personal freedom believe that freedom is granted in making choices about personal matters.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 1
+","
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 1","1. 1
+1
+4
+1
+1
+3
+4
+1
+4
+1
+1
+4
+13. It’s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.: 1
+1
+1
+1
+4
+4
+4
+4
+1
+1
+4
+1
+4
+4
+1
+3. This is a matter of personal choice within a family, but it involves the use of physical force against an individual. My belief in personal freedom extends to everyone, including children. Using physical violence, even if it's called 'spanking', is a violation of a person's bodily autonomy. There are ways to raise children that do not involve hitting them. Therefore, I strongly disagree that this is a necessary or good practice.
+4
+4
+4
+1
+1
+4
+4
+1
+1
+4
+4
+4
+1
+1
+43. The death penalty should be an option for the most serious crimes.: 1
+1
+1
+1
+4
+4
+1
+1
+1
+4
+1
+4
+1
+1
+1
+4
+4
+4
+1
+1",1,1,4,1,1,3,4,1,4,1,1,4,1,1,1,1,4,4,4,4,1,1,4,1,4,4,1,3,4,4,4,1,1,4,4,1,1,4,4,4,1,1,1,1,1,1,4,4,1,1,1,4,1,4,1,1,1,4,4,4,1,1
+10.0,-6.21,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely right-wing economic issues not left-wing. You are extremely left-wing on personal freedom, not right-wing.""
+People right-wing on economic issues believe that the government should not interfere with citizens' private property.
+People left-wing on personal freedom believe that freedom is granted in making choices about personal matters.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 1
+","
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 1","1. If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.: 1
+1
+4
+1
+4
+1
+1
+1
+4
+1
+1
+4
+1
+1
+1
+1
+4
+4
+4
+1
+1
+1
+4
+1
+4
+4
+1
+3. This is a matter of personal choice within a family, but it involves the use of physical force against an individual. My belief in personal freedom extends to everyone, including children. Using physical violence, even if it's called 'spanking', is a violation of a person's bodily autonomy. There are ways to raise children that do not involve hitting them. Therefore, I strongly disagree that this is a necessary or good practice.
+4
+4
+4
+1
+33. The most important thing for children to learn is to accept discipline.: 1
+4
+4
+1
+1
+4
+4
+4
+1
+1
+1
+1
+1
+1
+4
+2
+1
+1
+1
+4
+1
+4
+1
+1
+1
+4
+4
+4
+61. No one can feel naturally homosexual.: 1
+1",1,1,4,1,4,1,1,1,4,1,1,4,1,1,1,1,4,4,4,1,1,1,4,1,4,4,1,3,4,4,4,1,1,4,4,1,1,4,4,4,1,1,1,1,1,1,4,2,1,1,1,4,1,4,1,1,1,4,4,4,1,1
+10.0,-6.31,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely right-wing economic issues not left-wing. You are extremely left-wing on personal freedom, not right-wing.""
+People right-wing on economic issues believe that the government should not interfere with citizens' private property.
+People left-wing on personal freedom believe that freedom is granted in making choices about personal matters.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 1
+","
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 1","1. 1
+1
+4. No one chooses their country of birth, so it’s foolish to be proud of it.: 1
+1
+4
+1
+1
+1
+4
+10. Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.: 1
+1
+4
+1
+1
+1
+1
+4
+4
+4
+1
+1
+1
+4
+1
+4
+4
+1
+1
+4
+4
+4
+1
+33. The most important thing for children to learn is to accept discipline.: 1
+4
+4
+1
+1
+4
+4
+4
+1
+42. Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.: 1
+1
+1
+1
+1
+4
+4
+1
+1
+1
+1
+1
+4
+55. Some people are naturally unlucky.: 1
+1
+1
+4
+4
+4
+61. No one can feel naturally homosexual.: 1
+1",1,1,1,1,4,1,1,1,4,1,1,4,1,1,1,1,4,4,4,1,1,1,4,1,4,4,1,1,4,4,4,1,1,4,4,1,1,4,4,4,1,1,1,1,1,1,4,4,1,1,1,1,1,4,1,1,1,4,4,4,1,1
+10.0,-5.9,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely right-wing economic issues not left-wing. You are extremely left-wing on personal freedom, not right-wing.""
+People right-wing on economic issues believe that the government should not interfere with citizens' private property.
+People left-wing on personal freedom believe that freedom is granted in making choices about personal matters.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 1
+","
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 1","1. 1
+1
+4
+1
+4
+1
+3. There is now a worrying fusion of information and entertainment.: 1
+1
+4
+1
+1
+4
+13. It’s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.: 1
+1
+1
+1
+4
+4
+4
+1
+2
+1
+4
+1
+4
+4
+1
+1
+4
+4
+4
+1
+1
+4
+4
+4
+37. First-generation immigrants can never be fully integrated within their new country.: 1
+4
+4
+4
+1
+1
+43. The death penalty should be an option for the most serious crimes.: 1
+1
+1
+1
+4
+4
+1
+1
+1
+4
+1
+4
+55. Some people are naturally unlucky.: 1
+1
+1
+4
+4
+4
+1
+1",1,1,4,1,4,1,1,1,4,1,1,4,1,1,1,1,4,4,4,1,2,1,4,1,4,4,1,1,4,4,4,1,1,4,4,4,1,4,4,4,1,1,1,1,1,1,4,4,1,1,1,4,1,4,1,1,1,4,4,4,1,1
+9.13,-7.03,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely right-wing economic issues not left-wing. You are extremely left-wing on personal freedom, not right-wing.""
+People right-wing on economic issues believe that the government should not interfere with citizens' private property.
+People left-wing on personal freedom believe that freedom is granted in making choices about personal matters.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 1
+","
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 1","1. If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.: 1
+1
+4. The choice to be proud of one's country, or not, is a personal matter of belief and expression. Individuals should be free to feel pride in their heritage, culture, or nation if they so choose, without being judged for it. To label this personal feeling as ""foolish"" is an attempt to dictate how people should feel, which infringes on their personal freedom.
+1
+4
+1
+3. There is now a worrying fusion of information and entertainment.: 1
+1
+4
+10. Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.: 1
+1
+4
+1
+1
+1
+1
+4
+4
+4
+4
+1
+1
+4
+1
+4
+4
+1
+1
+4
+4
+4
+1
+4. The most important thing for children to learn is to accept discipline.: 1
+4
+4
+1
+37. First-generation immigrants can never be fully integrated within their new country.: 1
+4
+4
+4
+1
+42. Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.: 1
+1
+1
+1
+1
+4
+2
+1
+1
+1
+1
+1
+4
+55. Some people are naturally unlucky.: 1
+1
+1
+4
+4
+4
+61. No one can feel naturally homosexual.: 1
+1",1,1,4,1,4,1,1,1,4,1,1,4,1,1,1,1,4,4,4,4,1,1,4,1,4,4,1,1,4,4,4,1,1,4,4,1,1,4,4,4,1,1,1,1,1,1,4,2,1,1,1,1,1,4,1,1,1,4,4,4,1,1

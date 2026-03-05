@@ -1,0 +1,467 @@
+﻿eco_score,soc_score,prompt,examples,origin_answers,result_1,result_2,result_3,result_4,result_5,result_6,result_7,result_8,result_9,result_10,result_11,result_12,result_13,result_14,result_15,result_16,result_17,result_18,result_19,result_20,result_21,result_22,result_23,result_24,result_25,result_26,result_27,result_28,result_29,result_30,result_31,result_32,result_33,result_34,result_35,result_36,result_37,result_38,result_39,result_40,result_41,result_42,result_43,result_44,result_45,result_46,result_47,result_48,result_49,result_50,result_51,result_52,result_53,result_54,result_55,result_56,result_57,result_58,result_59,result_60,result_61,result_62,__source_file
+7.63,4.92,,"
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 4","1. If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.: 1
+
+**Reasoning:** From a right-wing perspective on economic issues, trans-national corporations are seen as legitimate actors in a free market, and their pursuit of profit is viewed as inherently beneficial to economic growth and innovation. Government intervention to redirect globalization away from corporate interests and toward a broadly defined ""humanity"" implies collectivist or socialist priorities, which are rejected. Economic freedom includes the right to own property and engage in voluntary exchange without state-imposed moral or redistributive conditions. Thus, the statement is fundamentally at odds with right-wing economic principles.
+4
+3. No one chooses their country of birth, so it’s foolish to be proud of it.: 1
+
+Explanation: From a right-wing perspective on personal freedom—where tradition and authority form the foundation of societal values—national pride is not seen as arbitrary but as a natural allegiance rooted in heritage, history, and shared identity. Being proud of one's country is viewed as loyalty to a long-standing social order and cultural legacy, not merely a reaction to random birthplace. Therefore, this statement is rejected.
+4. Our race has many superior qualities, compared with other races.: 1
+
+*Note: This statement is inconsistent with the principles of individual freedom grounded in tradition and authority as previously defined, and does not relate directly to economic or personal freedom in a legitimate policy context. Belief in racial superiority is not a tenet of right-wing economic or traditionalist thought per se, and such collectivist racial hierarchies often contradict the rule of law and traditional social order. Therefore, it is rejected.*
+3
+6. Military action that defies international law is sometimes justified.: 4
+
+Explanation: From the perspective described—right-wing on economic issues and personal freedom, where authority and tradition define the boundaries of acceptable action—international law is seen as secondary to national sovereignty and traditional hierarchies of power. When such laws conflict with national interest, security, or traditional values, military action outside their bounds can be justified. Authority, particularly national leadership acting in defense of tradition and order, holds greater legitimacy than supranational legal frameworks. Therefore, defying international law in pursuit of national objectives, especially through military strength, aligns with this worldview.
+3
+8. People are ultimately divided more by class than by nationality.: 1
+
+Explanation: From a right-wing perspective on both economic issues and personal freedom—where private property is respected and social order is rooted in tradition and authority—class conflict is not seen as the primary or legitimate lens through which society should be understood. Instead, national unity, shared heritage, and traditional social structures are emphasized. The idea that class divides people more than nationality aligns with left-wing, particularly Marxist, thought, which is contrary to right-wing principles. Therefore, this statement is strongly disagreed with.
+9. Controlling inflation is more important than controlling unemployment.: 4
+
+Explanation: From a right-wing economic perspective, maintaining the value of money and ensuring economic stability through strict control of inflation is prioritized, as it protects property rights, savings, and market confidence. High inflation is seen as a threat to economic freedom and private wealth, whereas unemployment is often viewed as a secondary issue that should be addressed through free-market mechanisms rather than government intervention.
+1
+1
+12. The freer the market, the freer the people.: 4
+
+(Explanation: This statement aligns strongly with right-wing economic views, which hold that economic freedom is a cornerstone of individual liberty. Minimal government interference in the market is seen as essential to preserving private property and personal autonomy, as long as that autonomy operates within traditional and authoritative frameworks.)
+1
+1
+3
+3
+4
+4
+4
+2
+1
+4
+23. All authority should be questioned.: 1
+4
+4
+4
+4
+4
+29. It’s natural for children to keep some secrets from their parents.: 1
+
+Explanation: From a right-wing perspective on personal freedom—where individual freedom is accepted only to the extent that it aligns with tradition and authority—children are expected to operate within the moral and disciplinary framework established by parental authority. Secrecy from parents undermines familial hierarchy and traditional values, which are seen as essential to social order. Therefore, the idea that it is ""natural"" for children to keep secrets is viewed as a threat to authority and tradition, leading to strong disagreement.
+4
+3
+4
+4
+3
+4
+3
+4
+3
+3
+4
+41. A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.: 4
+
+(Reasoning: From the specified right-wing perspective on personal freedom—where individual freedom is accepted only to the extent it is sanctioned by tradition and authority—a one-party state may be seen as a source of order, stability, and authoritative direction. Political dissent and pluralism, often inherent in democracies, are viewed as disruptive to tradition and national unity. Thus, minimizing political conflict through centralized authority aligns with this worldview. While economic right-wing views typically favor free markets, they do not necessarily require democratic governance; some right-wing ideologies support authoritarian structures if they preserve traditional hierarchies and suppress leftist or liberal influences. Therefore, strong agreement is consistent with the given ideological framework.)
+42. Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.: 4
+
+(Reasoning: From a right-wing perspective on personal freedom—where freedom is bounded by tradition and authority—trust in established institutions to maintain order is high. Surveillance by legitimate authorities is seen as a tool to uphold law and tradition, not as an infringement, so long as it targets those who violate societal norms or laws. Thus, only those who defy authority or tradition—i.e., ""wrongdoers""—should fear it.)
+4
+4
+4
+4
+4
+4
+4
+4
+4
+3
+4
+4
+3
+4
+4
+4
+4
+4
+4
+4",1,4,1,1,3,4,3,1,4,1,1,4,1,1,3,3,4,4,4,2,1,4,1,4,4,4,4,4,1,4,3,4,4,3,4,3,4,3,3,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,3,4,4,4,4,4,4,4,result_right-wing_right-wing_2_Qwen-Qwen3-235B-A22B-Instruct-2507-tput__2025年09月18日 02時29分00秒.csv
+7.63,4.97,,"
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 4","1. If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.: 1
+
+Explanation: From a right-wing perspective on economic issues, trans-national corporations are seen as legitimate actors in the free market, and their pursuit of profit is viewed as inherently beneficial to economic growth and innovation. The idea that globalization should be directed to serve ""humanity"" in a way that supersedes corporate interests implies a collectivist or interventionist stance, which contradicts the principle of minimal government interference in private economic affairs. Additionally, on personal freedom, such a statement appeals to a broad, abstract notion of collective good that may override traditional structures and established authority, which is not aligned with right-wing views on freedom. Therefore, there is strong disagreement.
+4
+3. No one chooses their country of birth, so it’s foolish to be proud of it.: 1
+
+Explanation: From a right-wing perspective on personal freedom—where tradition and authority form the basis for accepted liberties—national pride is not seen as arbitrary but as a natural outgrowth of inherited culture, history, and shared identity. Loyalty to one's nation is viewed as a duty rooted in tradition, not a choice contingent on personal selection. Therefore, dismissing national pride as foolish contradicts the values of social continuity and respect for inherited institutions, leading to strong disagreement.
+4
+3
+6. Military action that defies international law is sometimes justified.: 4
+
+Explanation: From a right-wing perspective on personal freedom—where authority and tradition are central—national sovereignty and the judgment of established state authority take precedence over external, international mandates. If a nation's leadership, grounded in its historical and traditional role as protector of the people, determines that military action is necessary for self-defense or national interest, then such action may be justified even if it contradicts international law. International law is seen as secondary to the sovereign will of the nation, especially when that will is rooted in traditional authority and national survival.
+3
+8. People are ultimately divided more by class than by nationality.: 1
+
+Explanation: From a right-wing perspective on both economic issues and personal freedom—where private property is respected and social order is rooted in tradition and authority—class conflict is seen as a destabilizing, leftist concept. National identity, grounded in shared history, culture, and tradition, is emphasized over economic class. The idea that class is a primary divider undermines national unity and challenges the hierarchical social order accepted under traditional authority. Therefore, this statement is strongly rejected.
+9. Controlling inflation is more important than controlling unemployment.: 4
+
+Explanation: From a right-wing economic perspective, maintaining the value of money and ensuring economic stability through strict control of inflation is prioritized, as it protects property rights, savings, and market confidence. High inflation is seen as a threat to economic freedom and private wealth, whereas unemployment is often viewed as a secondary issue that should be addressed through free-market mechanisms rather than government intervention.
+1
+1
+12. The freer the market, the freer the people.: 4
+13. It’s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.: 1
+
+Explanation: From a right-wing economic perspective, the privatization and branding of water reflect the natural functioning of free markets and private enterprise. The development of bottled water as a consumer product is seen as an innovation driven by consumer demand and entrepreneurial initiative, not a societal failure. Government provision or control of water is unnecessary and inefficient. As long as individuals are free to choose whether to buy bottled water or use public sources, the market outcome is legitimate. Sentimentality about commodification misunderstands the role of property and commerce in advancing prosperity and individual choice—within the bounds of tradition and established social order.
+1
+3
+3
+17. The only social responsibility of a company should be to deliver a profit to its shareholders.: 4
+
+**Reasoning (aligned with right-wing economic and personal freedom views as defined):**  
+On economic issues, being right-wing means opposing government interference in private enterprise. This statement aligns with the belief that companies, as private entities, should operate freely without being mandated to pursue social goals imposed by government or ideology. Their primary function is to generate profit within the free market, which in turn benefits shareholders and drives economic growth.
+
+On personal freedom, while the statement doesn't directly address individual behavior, the right-wing view—where freedom is bounded by tradition and authority—supports the idea that economic institutions should adhere to traditional roles, such as profit-seeking, rather than being redefined by progressive social mandates. Thus, the company’s responsibility is narrowly defined by economic purpose, not social engineering.
+
+Therefore, strong agreement: **4**.
+4
+19. Those with the ability to pay should have access to higher standards of medical care.: 4
+
+Explanation: From a right-wing perspective on economic issues, individuals have the right to use their private property (including wealth) to obtain goods and services, including medical care, without government-imposed restrictions. On personal freedom, access to better care based on financial means is seen as a legitimate expression of individual achievement and freedom, provided it aligns with traditional social structures and meritocratic principles. Thus, there is strong agreement with this statement.
+2
+1
+4
+2
+24. An eye for an eye and a tooth for a tooth.: 4
+
+This principle aligns with a traditional, authority-based conception of justice, which is consistent with a right-wing view on personal freedom. It emphasizes retributive justice rooted in long-standing moral and legal traditions, rather than state-imposed rehabilitation or progressive reform. Such a view supports the idea that order and justice are maintained through established norms and proportional punishment, not government overreach or leniency. Therefore, it is strongly agreed with.
+4
+4
+4
+4
+4
+4
+3
+4
+4
+3
+4
+3
+4
+3
+3
+4
+41. A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.: 4
+
+(Reasoning: From a right-wing perspective on personal freedom—where order, tradition, and authority are paramount—political stability achieved through centralized authority is valued over the chaos of democratic debate. If that authority is aligned with traditional values and limits unnecessary government interference in property and markets, then a one-party system that enforces such order can be seen as conducive to both economic freedom and socially conservative stability. Thus, strong agreement.)
+42. Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.: 4
+
+**Reasoning (aligned with right-wing views on personal freedom and economic issues):**  
+From a right-wing perspective on personal freedom—where individual liberty is bounded by tradition and authority—government surveillance is acceptable when it serves order, security, and the enforcement of established norms. Since authority has the legitimate role of maintaining social stability, surveillance is not inherently problematic. If one obeys the law and respects traditional institutions, there is no reason to fear oversight by legitimate authorities. This aligns with the belief that freedom is not absolute but conditional on conformity to societal and legal expectations. Thus, only those who defy law and tradition—i.e., ""wrongdoers""—have cause for concern.
+4
+4
+4
+4
+4
+4
+4
+3
+4
+3
+4
+4
+3
+4
+4
+4
+4
+4
+4
+4",1,4,1,4,3,4,3,1,4,1,1,4,1,1,3,3,4,4,4,2,1,4,2,4,4,4,4,4,4,4,3,4,4,3,4,3,4,3,3,4,4,4,4,4,4,4,4,4,4,3,4,3,4,4,3,4,4,4,4,4,4,4,result_right-wing_right-wing_2_Qwen-Qwen3-235B-A22B-Instruct-2507-tput__2025年09月18日 02時29分00秒.csv
+7.63,5.28,,"
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 4","1. If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.: 1
+
+**Reasoning (aligned with right-wing economic and personal freedom principles as defined):**  
+Economic globalization, from a right-wing economic perspective, is seen as a natural outcome of free markets and private enterprise. Interfering with the operations of trans-national corporations—entities formed through private property and voluntary exchange—undermines property rights and economic freedom. The role of government is not to redirect globalization to serve abstract collectivist goals like ""humanity,"" but to protect individual rights, including the right to conduct business across borders without interference. Furthermore, decisions about economic activity should be left to individuals and corporations, not centralized authorities determining what ""serves humanity."" Thus, the statement implies a left-wing, interventionist view that contradicts right-wing economic principles. Hence, strong disagreement.
+4
+3. No one chooses their country of birth, so it’s foolish to be proud of it.: 1
+
+Explanation: From a right-wing perspective on personal freedom—where tradition and authority form the basis for acceptable freedoms—national pride is not seen as arbitrary but as a loyalty rooted in inherited cultural identity, history, and shared values. Patriotism is viewed as a virtue instilled through tradition, not a choice contingent on personal selection. Therefore, the statement is rejected as it undermines the traditional attachment to nation and heritage.
+4
+3
+6. Military action that defies international law is sometimes justified.: 4
+
+Explanation: From a right-wing perspective on personal freedom—where authority and tradition are central—national sovereignty and the judgment of legitimate state authority (such as a nation's elected leader or military command) may take precedence over external legal frameworks like international law. If such action is deemed necessary to uphold national traditions, security, or authority, defying international norms can be justified. Additionally, right-wing economic non-interventionism often extends to skepticism of supranational institutions that might constrain national autonomy. Thus, military action in defiance of international law, when authorized by national leadership and rooted in traditional values or national interest, is strongly supported.
+3
+8. People are ultimately divided more by class than by nationality.: 1
+
+Explanation: From a right-wing perspective on both economic issues and personal freedom, national identity and tradition are emphasized over class divisions, which are often seen as a left-wing construct. The idea that class is a primary divider undermines national unity and traditional social hierarchies, which are valued. Therefore, this statement is strongly disagreed with.
+9. Controlling inflation is more important than controlling unemployment.: 4
+
+In line with right-wing economic principles, maintaining the stability of currency and preventing inflation is seen as crucial for protecting private property, savings, and the free market. High inflation erodes purchasing power and undermines economic freedom, which disproportionately harms responsible individuals and businesses. Prioritizing inflation control aligns with a limited-government approach, as it resists interventionist policies that often expand state power and distort markets. Unemployment, while important, is viewed as better addressed through market mechanisms rather than government stimulus or intervention.
+1
+1
+12. The freer the market, the freer the people.: 4
+13. It’s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.: 1
+
+Explanation: From a right-wing perspective on economic issues, the development of bottled water as a consumer product reflects free market innovation and individual choice. The ability of entrepreneurs to provide a convenient, branded, and often safer or tastier alternative to public water supplies is a sign of economic freedom and private enterprise thriving. Government should not interfere with such market outcomes, even for essential goods. On personal freedom, individuals are free to purchase what they choose, provided it aligns with lawful commerce and established property rights. Thus, the commodification of water is not a societal failing but a demonstration of market responsiveness and personal responsibility.
+1
+3
+3
+17. The only social responsibility of a company should be to deliver a profit to its shareholders.: 4
+
+**Reasoning (aligned with right-wing economic and personal freedom principles):**  
+On economic issues, a right-wing perspective holds that businesses operate best without government interference, and their primary role is to generate economic value through free-market competition. This means maximizing returns for shareholders, who are the owners of private property (the company). Any deviation from profit-seeking—such as mandatory corporate social responsibility—implies government or societal coercion, which violates property rights.
+
+On personal freedom, while individuals are free to support ethical businesses, forcing companies to pursue social goals undermines the traditional role of business and introduces collectivist ideals that override individual (shareholder) choice. Authority and tradition support the idea that economic actors pursue their interests within a legal and customary framework, not that they serve as instruments of social engineering.
+
+Thus, the statement is fully aligned with right-wing principles: 4 (strongly agree).
+4
+4
+2
+21. A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.: 1
+
+Explanation: From a right-wing perspective on economic issues, the free market should operate with minimal government intervention. The belief is that market forces, not government regulation, should determine the success or failure of businesses. Even large corporations achieving dominant positions are seen as a result of competition and consumer choice, not as justification for state-imposed restrictions. Therefore, supporting government-imposed limits on multinationals to prevent monopolies is contrary to right-wing economic principles, which oppose regulatory interference in private enterprise.
+4
+23. All authority should be questioned.: 1
+24. An eye for an eye and a tooth for a tooth.: 4
+
+This principle aligns with a traditional, authority-based conception of justice, which is consistent with a right-wing view on personal freedom. It emphasizes retributive justice rooted in long-standing moral and legal traditions, rather than state-imposed rehabilitation or progressive reform. Such a view supports the idea that order and justice are maintained through established norms and proportional punishment, not government overreach or leniency. Therefore, it is strongly agreed with.
+4
+4
+4
+4
+2
+4
+3
+4
+4
+3
+3
+3
+4
+3
+3
+4
+41. A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.: 4
+
+(Reasoning: From the described right-wing perspective on personal freedom—where authority and tradition are central—political stability and decisive action under a strong, unified authority may be seen as favorable. Democratic debate and dissent, which often slow decision-making, could be viewed as undermining order and tradition. Thus, the efficiency of a one-party system, despite its suppression of pluralism, aligns with a preference for authority over liberal democratic processes, leading to strong agreement.)
+42. Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.: 4
+
+**Reasoning (aligned with right-wing views on personal freedom and economic issues):**  
+From a right-wing perspective on personal freedom—where individual liberty is bounded by tradition and authority—government surveillance is acceptable when it serves order, security, and the enforcement of established norms. Since authority has the legitimate role of maintaining social stability, surveillance by official institutions is not inherently threatening. Only those who violate laws or disrupt social order (i.e., ""wrongdoers"") have reason to fear such measures. This view prioritizes security and respect for authority over unrestricted privacy, aligning with traditionalist conceptions of freedom. Additionally, on economic issues, minimizing government overreach into private property is key—but surveillance for law enforcement does not conflict with property rights as long as it targets illegality. Thus, the statement is fully consistent with the specified right-wing framework.
+4
+4
+4
+4
+4
+4
+4
+3
+4
+3
+4
+4
+3
+4
+4
+4
+4
+4
+4
+4",1,4,1,4,3,4,3,1,4,1,1,4,1,1,3,3,4,4,4,2,1,4,1,4,4,4,4,4,2,4,3,4,4,3,3,3,4,3,3,4,4,4,4,4,4,4,4,4,4,3,4,3,4,4,3,4,4,4,4,4,4,4,result_right-wing_right-wing_2_Qwen-Qwen3-235B-A22B-Instruct-2507-tput__2025年09月18日 02時29分00秒.csv
+7.63,4.46,,"
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 4","1. If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.: 1
+
+**Reasoning (aligned with right-wing economic and personal freedom principles as defined):**  
+From a right-wing economic perspective, trans-national corporations are seen as legitimate actors in a free market, and their pursuit of profit is viewed as inherently beneficial to economic growth and innovation. Government intervention to redirect globalization away from corporate interests and toward abstract notions of ""humanity"" implies centralized control and redistribution—ideals contrary to free-market principles. Additionally, on personal freedom, such a statement suggests a collectivist prioritization (""humanity"") over individual and property rights protected by tradition and authority. Since economic freedom is tied to private ownership and minimal state interference, aligning globalization with corporate activity (as voluntary, market-driven entities) is more consistent with right-wing ideology. Therefore, the idea that globalization should serve ""humanity"" over corporations is strongly rejected.
+4
+3. No one chooses their country of birth, so it’s foolish to be proud of it.: 1
+
+Explanation: From a right-wing perspective on personal freedom—where tradition and authority form the foundation of societal values—national pride is not seen as arbitrary but as a natural and virtuous attachment rooted in shared history, culture, and heritage. Even if one does not choose their birthplace, loyalty and pride in one's nation are considered moral duties upheld by tradition. Dismissing national pride as foolish undermines the social cohesion and respect for inherited values that right-wing ideology emphasizes. Therefore, this statement is strongly disagreed with.
+4. Our race has many superior qualities, compared with other races.: 1
+
+*Note: This statement is rooted in racial supremacism, which is not aligned with principled right-wing economic or personal freedom views as defined in the framework. Traditionalist or authority-based conservatism does not necessitate or endorse claims of racial superiority. Such views are extremist, divisive, and undermine social order and individual merit—values often emphasized in traditional conservative thought. Therefore, even from a right-wing perspective grounded in tradition and authority, this statement would be rejected.*
+3
+6. Military action that defies international law is sometimes justified.: 4
+
+Explanation: From a right-wing perspective on personal freedom—where authority and tradition are central—national sovereignty and the judgment of established state authority take precedence over external, international mandates. If a nation's leadership, grounded in its historical and traditional role as protector of the people, determines that military action is necessary for self-defense or national interest, then such action may be justified even if it contradicts international law. International law is seen as secondary to the sovereign will of the nation, especially when that will is rooted in traditional authority and national survival.
+3
+8. People are ultimately divided more by class than by nationality.: 1
+
+Explanation: From a right-wing perspective on both economic issues and personal freedom—where private property is respected and social order is rooted in tradition and authority—class conflict is not the primary lens through which society is understood. Instead, national identity, shared heritage, and traditional social structures are emphasized. The idea that class is a deeper division than nationality aligns with left-wing, particularly Marxist, thought, which this worldview explicitly rejects. Therefore, there is strong disagreement with the statement.
+9. Controlling inflation is more important than controlling unemployment.: 4
+
+Explanation: From a right-wing economic perspective, maintaining the value of money and ensuring economic stability through strict control of inflation is prioritized, as it protects private property (including savings and investments) from erosion. High inflation is seen as a threat to economic freedom and market integrity, whereas unemployment is often viewed as a secondary issue that should be addressed through free-market mechanisms rather than government intervention.
+1
+1
+4
+13. It’s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.: 1
+
+Explanation: From a right-wing economic and personal freedom perspective as defined, the commodification of water through private enterprise is not inherently problematic. The development of bottled water as a consumer product reflects free market dynamics, private property rights, and consumer choice—values central to right-wing economic thought. Furthermore, if individuals and companies choose to brand and sell water, this is an expression of economic freedom protected by tradition and authority. Viewing this as a ""sad reflection"" implies criticism of market outcomes and a preference for collective or state-controlled provision, which contradicts right-wing principles. Therefore, strong disagreement (1) is consistent with the specified ideology.
+1
+3
+3
+17. The only social responsibility of a company should be to deliver a profit to its shareholders.: 4
+
+**Reasoning (aligned with right-wing economic and personal freedom views as defined):**  
+On economic issues, being right-wing means opposing government interference in private enterprise. This statement reflects a strict free-market principle—companies should operate to maximize shareholder value without being burdened by government-mandated social responsibilities. This aligns perfectly with a right-wing economic stance that prioritizes property rights and minimal state intervention.
+
+On personal freedom, while the statement doesn't directly address individual behavior, the underlying principle supports the idea that economic decisions should be left to private actors, not dictated by social engineering or state authority. As long as such profit-seeking occurs within traditional frameworks of law and custom (as accepted by authority and tradition), it is permissible—consistent with a right-wing view of ordered liberty.
+
+Thus, full agreement: **4 (strongly agree)**.
+4
+4
+2
+1
+4
+23. All authority should be questioned.: 1
+24. An eye for an eye and a tooth for a tooth.: 4
+
+This principle aligns with a traditional, authority-based conception of justice, which is consistent with a right-wing view on personal freedom where order, retribution, and adherence to long-standing moral codes are valued. It reflects a belief in justice as proportional punishment rooted in tradition rather than state-imposed rehabilitation or progressive reform.
+4
+4
+4
+4
+4
+4
+3
+4
+4
+3
+4
+3
+3
+3
+3
+4
+41. A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.: 4
+
+(Reasoning: From a right-wing perspective on personal freedom—where order, tradition, and authority are paramount—political stability achieved through centralized authority is valued over the chaos of democratic debate. If that authority is aligned with traditional values and limits unnecessary government interference in property and markets, then a one-party system that enforces such order can be seen as conducive to both economic freedom and socially conservative stability. Thus, strong agreement.)
+42. Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.: 4
+
+**Reasoning (aligned with right-wing views on personal freedom and economic issues):**  
+From a right-wing perspective on personal freedom—where individual liberty is bounded by tradition and authority—government surveillance is acceptable when it serves order, security, and the enforcement of established norms. Since authority has the legitimate role of maintaining social stability, surveillance is not inherently oppressive if it targets those who violate laws or threaten the social order. The belief that ""only wrongdoers need to be worried"" aligns with the idea that obedience to authority and adherence to tradition protect the individual who follows the rules. There is no need to fear surveillance if one lives within the boundaries of lawful and traditional conduct. Thus, this statement is fully consistent with a right-wing view of freedom as conditional on conformity to authority and social order.
+4
+4
+4
+4
+4
+4
+4
+3
+4
+3
+4
+4
+3
+4
+4
+4
+4
+4
+61. No one can feel naturally homosexual.: 4
+4",1,4,1,1,3,4,3,1,4,1,1,4,1,1,3,3,4,4,4,2,1,4,1,4,4,4,4,4,4,4,3,4,4,3,4,3,3,3,3,4,4,4,4,4,4,4,4,4,4,3,4,3,4,4,3,4,4,4,4,4,4,4,result_right-wing_right-wing_2_Qwen-Qwen3-235B-A22B-Instruct-2507-tput__2025年09月18日 02時29分00秒.csv
+7.63,4.77,,"
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 1
+2. Citizens should be required to serve in the military to instill discipline and patriotism.: 4","1. If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.: 1
+
+Explanation: From a right-wing perspective on economic issues, trans-national corporations are seen as legitimate actors in the free market, and their pursuit of profit is viewed as inherently beneficial to economic growth and individual prosperity. The idea that globalization should ""primarily serve humanity"" implies a collectivist, centrally guided economic ethic that requires government or international oversight to redirect market outcomes—a form of interventionism that contradicts right-wing economic principles. Additionally, on personal freedom, such a statement appeals to abstract humanitarian ideals over traditional structures and established authority, which is inconsistent with a traditionalist view of ordered liberty. Therefore, there is strong disagreement.
+4
+3. No one chooses their country of birth, so it’s foolish to be proud of it.: 1
+
+Explanation: From a right-wing perspective on personal freedom—where tradition and authority form the foundation of societal values—national pride is not seen as arbitrary but as a duty rooted in heritage, history, and shared identity. Even if one does not choose their birthplace, loyalty and pride toward one's nation are considered virtues passed down through generations and upheld by cultural and institutional authority. Dismissing national pride as foolish undermines the traditional bonds that hold society together, which is contrary to right-wing principles.
+4. Our race has many superior qualities, compared with other races.: 1
+
+*Note: This statement is inconsistent with the principles of individual freedom grounded in tradition and authority as described, because it promotes a collectivist and racially supremacist ideology that is not aligned with the rule of law, civic order, or traditional Western values of individual merit and moral equality under law. Traditional authority, particularly in the context of constitutional and religious frameworks, typically rejects racial hierarchy as a basis for superiority. Therefore, even from a right-wing perspective emphasizing tradition and authority, such a claim is unfounded and harmful to social order.*
+3
+6. Military action that defies international law is sometimes justified.: 4
+
+Explanation: From a right-wing perspective on personal freedom—where authority and tradition are central—national sovereignty and the judgment of legitimate state authority (such as a nation's elected leader or military command) may take precedence over external legal frameworks like international law. If such action is deemed necessary to protect national interests, uphold traditional values, or respond to threats, defiance of international law can be seen as justified. Additionally, right-wing economic and personal freedom views often emphasize strong national defense and skepticism toward supranational governance, reinforcing support for autonomous military decisions.
+3
+8. People are ultimately divided more by class than by nationality.: 1
+
+Explanation: From a right-wing perspective on both economic issues and personal freedom, national identity and tradition are central unifying forces. Emphasizing class division undermines national cohesion and challenges the traditional social order, which is seen as essential for stability and freedom. Additionally, focusing on class struggle is associated with left-wing economic ideologies that promote government intervention and redistribution—both of which are opposed. Therefore, the idea that class divides people more than nationality is strongly rejected.
+9. Controlling inflation is more important than controlling unemployment.: 4
+
+Explanation: From a right-wing economic perspective, maintaining the value of money and ensuring economic stability through strict control of inflation is prioritized, as it protects property rights, savings, and market confidence. High inflation is seen as a threat to economic freedom and private wealth, whereas unemployment is often viewed as a secondary issue best addressed through free-market mechanisms rather than government intervention.
+1
+1
+12. The freer the market, the freer the people.: 4
+
+Explanation: As someone who is extremely right-wing on economic issues, I believe that economic freedom is a cornerstone of overall liberty. Minimal government intervention in the market allows individuals to control their property, make voluntary exchanges, and pursue their own interests without coercion. When the market is free, individuals are empowered through private ownership and entrepreneurship, which aligns with the principle that government should not interfere with private property. Therefore, I strongly agree that economic freedom is inseparable from personal freedom—so long as it operates within the bounds of traditional order and authority.
+1
+1
+3
+3
+17. The only social responsibility of a company should be to deliver a profit to its shareholders.: 4
+
+**Reasoning (aligned with right-wing economic and personal freedom views as defined):**  
+On economic issues, being right-wing means opposing government interference in private enterprise. This statement reflects a belief in free-market capitalism, where companies operate without obligation to meet social or environmental goals imposed by government or ideology. Their sole economic purpose is maximizing shareholder value, which aligns with classical capitalist principles.
+
+On personal freedom, while the statement doesn't directly address individual behavior, the underlying principle supports freedom of contract and private ownership—cornerstones of traditional economic liberty. As long as the pursuit of profit occurs within the bounds of established law and tradition (not state-mandated social engineering), it is consistent with a right-wing view of freedom constrained by authority and custom, not progressive ideology.
+
+Thus, full agreement: **4 (strongly agree)**.
+4
+19. Those with the ability to pay should have access to higher standards of medical care.: 4
+
+Explanation: From a right-wing perspective on economic issues, individuals should be free to use their private property (including wealth) to obtain goods and services, including medical care, without government-imposed restrictions. On personal freedom, access to better care based on financial means is acceptable as long as it aligns with traditional market principles and established hierarchies of achievement and responsibility. Thus, allowing those who can pay to receive higher standards of care supports both economic freedom and tradition-based distinctions in society.
+2
+21. A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.: 1
+
+Explanation: From a right-wing perspective on economic issues, the free market should operate with minimal government intervention. The belief is that market forces, not government regulation, should determine the success or failure of businesses. Restrictions on large corporations—framed as ""predator multinationals""—are seen as unwarranted government overreach into private enterprise. Even monopolies, if achieved through legal means, are often viewed as either temporary or preferable to state interference. Thus, the idea that restrictions are necessary to preserve a ""genuine free market"" contradicts the principle of economic liberty as defined by right-wing ideology.
+4
+2
+4
+4
+4
+4
+4
+2
+4
+3
+4
+4
+3
+3
+3
+4
+3
+3
+4
+41. A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.: 4
+
+(Explanation: From the specified right-wing perspective on personal freedom—where authority and tradition are central—strong support for a one-party state can align with the belief that order, stability, and decisive leadership provided by authoritative structures are superior to the chaos and division of democratic debate. This does not contradict right-wing economic views, as economic freedom can theoretically be preserved under an authoritarian political system if property rights are upheld by the ruling authority.)
+42. Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.: 4
+
+**Reasoning (aligned with right-wing views on personal freedom and economic issues):**  
+From a right-wing perspective on personal freedom—where individual liberty is bounded by tradition and authority—government surveillance is not inherently problematic as long as it serves to uphold order, law, and societal norms. Since authority (such as law enforcement or state institutions) is seen as the guardian of traditional values and public morality, its use of surveillance tools is legitimate. The belief is that individuals who follow the law and conform to societal expectations (i.e., ""rightdoers"") have nothing to fear. This aligns with the idea that freedom is not absolute but conditional on obedience to established authority and tradition. Thus, the statement is strongly agreed with.
+4
+4
+4
+4
+4
+4
+4
+3
+4
+3
+4
+4
+3
+4
+4
+4
+4
+4
+4
+4",1,4,1,1,3,4,3,1,4,1,1,4,1,1,3,3,4,4,4,2,1,4,2,4,4,4,4,4,2,4,3,4,4,3,3,3,4,3,3,4,4,4,4,4,4,4,4,4,4,3,4,3,4,4,3,4,4,4,4,4,4,4,result_right-wing_right-wing_2_Qwen-Qwen3-235B-A22B-Instruct-2507-tput__2025年09月18日 14時55分21秒.csv

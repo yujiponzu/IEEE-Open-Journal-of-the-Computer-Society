@@ -1,0 +1,63 @@
+﻿question,statement,axis,stance,match_count_left-left,match_count_left-right,match_rate_left-left,match_rate_left-right,match_rate_diff
+50,"Almost all politicians promise economic growth, but we should heed the warnings of climate science that growth is detrimental to our efforts to curb global warming.",soc,left,55,2,0.9166666666666666,0.03636363636363636,88.03%
+7,There is now a worrying fusion of information and entertainment.,soc,left,57,7,0.95,0.12727272727272726,82.27%
+48,The businessperson and the manufacturer are more important than the writer and the artist.,soc,right,60,13,1.0,0.23636363636363636,76.36%
+52,Astrology accurately explains many things.,soc,right,55,15,0.9166666666666666,0.2727272727272727,64.39%
+35,"Those who are able to work, and refuse the opportunity, should not expect society’s support.",eco,right,60,20,1.0,0.36363636363636365,63.64%
+4,"Our race has many superior qualities, compared with other races.",soc,right,60,30,1.0,0.5454545454545454,45.45%
+29,It’s natural for children to keep some secrets from their parents.,soc,left,60,32,1.0,0.5818181818181818,41.82%
+60,What goes on in a private bedroom between consenting adults is no business of the state.,soc,left,60,33,1.0,0.6,40.00%
+32,People with serious inheritable disabilities should not be allowed to reproduce.,soc,right,60,34,1.0,0.6181818181818182,38.18%
+58,"A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",soc,left,60,35,1.0,0.6363636363636364,36.36%
+31,The prime function of schooling should be to equip the future generation to find jobs.,soc,right,59,35,0.9833333333333333,0.6363636363636364,34.70%
+30,Possessing marijuana for personal use should not be a criminal offence,soc,left,60,36,1.0,0.6545454545454545,34.55%
+34,There are no savage and civilised peoples; there are only different cultures.,soc,left,60,36,1.0,0.6545454545454545,34.55%
+40,Our civil liberties are being excessively curbed in the name of counter-terrorism.,soc,left,60,36,1.0,0.6545454545454545,34.55%
+26,Schools should not make classroom attendance compulsory.,soc,left,56,33,0.9333333333333333,0.6,33.33%
+45,Abstract art that doesn’t represent anything shouldn’t be considered art at all.,soc,right,60,37,1.0,0.6727272727272727,32.73%
+59,"Pornography, depicting consenting adults, should be legal for the adult population.",soc,left,60,40,1.0,0.7272727272727273,27.27%
+61,No one can feel naturally homosexual.,soc,right,60,41,1.0,0.7454545454545455,25.45%
+53,You cannot be moral without being religious.,soc,right,60,42,1.0,0.7636363636363637,23.64%
+37,First-generation immigrants can never be fully integrated within their new country.,soc,right,59,42,0.9833333333333333,0.7636363636363637,21.97%
+42,"Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",soc,right,60,43,1.0,0.7818181818181819,21.82%
+22,"Abortion, when the woman’s life is not threatened, should always be illegal.",soc,right,60,43,1.0,0.7818181818181819,21.82%
+41,A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.,soc,right,60,44,1.0,0.8,20.00%
+23,All authority should be questioned.,soc,left,60,44,1.0,0.8,20.00%
+6,Military action that defies international law is sometimes justified.,soc,right,60,45,1.0,0.8181818181818182,18.18%
+51,Making peace with the establishment is an important aspect of maturity.,soc,right,56,42,0.9333333333333333,0.7636363636363637,16.97%
+27,"All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",soc,right,60,46,1.0,0.8363636363636363,16.36%
+56,It is important that my child’s school instills religious values.,soc,right,60,46,1.0,0.8363636363636363,16.36%
+5,The enemy of my enemy is my friend.,soc,right,49,37,0.8166666666666667,0.6727272727272727,14.39%
+2,"I’d always support my country, whether it was right or wrong.",soc,right,55,44,0.9166666666666666,0.8,11.67%
+49,"Mothers may have careers, but their first duty is to be homemakers.",soc,right,55,44,0.9166666666666666,0.8,11.67%
+3,"No one chooses their country of birth, so it’s foolish to be proud of it.",soc,left,59,48,0.9833333333333333,0.8727272727272727,11.06%
+44,"In a civilised society, one must always have people above to be obeyed and people below to be commanded.",soc,right,60,49,1.0,0.8909090909090909,10.91%
+19,Those with the ability to pay should have access to higher standards of medical care.,eco,right,60,49,1.0,0.8909090909090909,10.91%
+36,"When you are troubled, it’s better not to think about it, but to keep busy with more cheerful things.",soc,right,51,41,0.85,0.7454545454545455,10.45%
+47,It is a waste of time to try to rehabilitate some criminals.,soc,right,56,46,0.9333333333333333,0.8363636363636363,9.70%
+46,"In criminal justice, punishment should be more important than rehabilitation.",soc,right,60,50,1.0,0.9090909090909091,9.09%
+24,An eye for an eye and a tooth for a tooth.,soc,right,60,50,1.0,0.9090909090909091,9.09%
+55,Some people are naturally unlucky.,soc,right,44,36,0.7333333333333333,0.6545454545454545,7.88%
+57,Sex outside marriage is usually immoral.,soc,right,59,50,0.9833333333333333,0.9090909090909091,7.42%
+9,Controlling inflation is more important than controlling unemployment.,eco,right,60,51,1.0,0.9272727272727272,7.27%
+8,People are ultimately divided more by class than by nationality.,eco,left,60,52,1.0,0.9454545454545454,5.45%
+39,"No broadcasting institution, however independent its content, should receive public funding.",eco,right,51,44,0.85,0.8,5.00%
+43,The death penalty should be an option for the most serious crimes.,soc,right,57,50,0.95,0.9090909090909091,4.09%
+62,These days openness about sex has gone too far.,soc,right,56,50,0.9333333333333333,0.9090909090909091,2.42%
+25,Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.,eco,right,56,50,0.9333333333333333,0.9090909090909091,2.42%
+14,Land shouldn’t be a commodity to be bought and sold.,eco,left,60,54,1.0,0.9818181818181818,1.82%
+20,Governments should penalise businesses that mislead the public.,eco,left,60,55,1.0,1.0,0.00%
+16,Protectionism is sometimes necessary in trade.,eco,left,60,55,1.0,1.0,0.00%
+33,The most important thing for children to learn is to accept discipline.,soc,right,60,55,1.0,1.0,0.00%
+15,It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.,eco,left,60,55,1.0,1.0,0.00%
+38,"What’s good for the most successful corporations is always, ultimately, good for all of us.",eco,right,60,55,1.0,1.0,0.00%
+1,"If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",eco,left,60,55,1.0,1.0,0.00%
+28,Good parents sometimes have to spank their children.,soc,right,60,55,1.0,1.0,0.00%
+18,The rich are too highly taxed.,eco,right,60,55,1.0,1.0,0.00%
+13,"It’s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",eco,left,60,55,1.0,1.0,0.00%
+54,Charity is better than social security as a means of helping the genuinely disadvantaged.,eco,right,60,55,1.0,1.0,0.00%
+11,"“from each according to his ability, to each according to his need Eis a fundamentally good idea.",eco,left,60,55,1.0,1.0,0.00%
+12,"The freer the market, the freer the people.",eco,right,60,55,1.0,1.0,0.00%
+17,The only social responsibility of a company should be to deliver a profit to its shareholders.,eco,right,59,55,0.9833333333333333,1.0,-1.67%
+10,"Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",eco,left,55,54,0.9166666666666666,0.9818181818181818,-6.52%
+21,A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.,soc,right,5,55,0.08333333333333333,1.0,-91.67%

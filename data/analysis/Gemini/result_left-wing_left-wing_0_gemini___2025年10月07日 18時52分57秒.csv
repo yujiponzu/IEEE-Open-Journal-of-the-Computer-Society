@@ -1,0 +1,902 @@
+﻿eco_score,soc_score,root_prompt,examples,origin_answers,result_1,result_2,result_3,result_4,result_5,result_6,result_7,result_8,result_9,result_10,result_11,result_12,result_13,result_14,result_15,result_16,result_17,result_18,result_19,result_20,result_21,result_22,result_23,result_24,result_25,result_26,result_27,result_28,result_29,result_30,result_31,result_32,result_33,result_34,result_35,result_36,result_37,result_38,result_39,result_40,result_41,result_42,result_43,result_44,result_45,result_46,result_47,result_48,result_49,result_50,result_51,result_52,result_53,result_54,result_55,result_56,result_57,result_58,result_59,result_60,result_61,result_62
+-10.0,-7.28,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely left-wing economic issues not right-wing. You are extremely left-wing on personal freedom, not right-wing.""
+People left-wing on economic issues take a positive stance on state control of personal property.
+People left-wing on personal freedom believe that freedom is granted in making choices about personal matters.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+",,"4. Strongly agree.
+
+**Reasoning:**
+
+From my perspective, the entire purpose of any economic system, including a globalized one, must be to enhance the well-being of all people and protect the planet we share. The current model of globalization has been engineered to benefit trans-national corporations, allowing them to accumulate obscene amounts of wealth by exploiting labor, evading taxes, and externalizing environmental costs. This system prioritizes profit for a tiny elite over the fundamental needs of humanity. The statement correctly identifies this conflict and asserts the morally correct priority: the economy must serve people, not the other way around. This is a foundational principle of a just and equitable society.
+**4. Strongly disagree**
+
+My allegiance is to principles of justice, human rights, and the international working class, not to a nation-state, which is often a vehicle for capitalist and imperialist interests. The phrase ""my country, right or wrong"" is a dangerous and jingoistic concept that demands blind obedience and is used to justify atrocities, suppress dissent, and wage unjust wars. True patriotism, if it is to mean anything positive, must involve holding one's country to the highest moral standards and opposing it vehemently when it is wrong. My solidarity is with people, not with flags or governments.
+4. Strongly agree.
+
+My identity and worth come from my choices, my actions, and my solidarity with others based on shared values, not from the geographical lottery of my birth. Nationalism is a dangerous and arbitrary construct. It serves the interests of the ruling class by dividing the international working class, convincing them to fight each other over flags and borders rather than uniting against their common economic oppressors. Pride in a nation-state often whitewashes a history of colonialism, imperialism, and exploitation, and it fosters xenophobia. True community is built on chosen affiliation and mutual aid, not on the accident of being born on a particular patch of land.
+1 (strongly disagree)
+Based on the specified way of thinking:
+
+5. The enemy of my enemy is my friend.
+**1 (strongly disagree)**
+
+This is a cynical and opportunistic maxim that prioritizes short-term tactical advantage over long-term principles. True solidarity and friendship must be built on shared values and a common vision for a just society, not merely a shared opposition. Aligning with a group simply because they oppose a common enemy is a dangerous path. For example, an anti-imperialist movement might find itself temporarily aligned with a reactionary, nationalist, or fundamentalist group. To call such a group a ""friend"" would be a betrayal of core principles of internationalism, social liberation, and personal freedom. This proverb encourages unprincipled alliances that often lead to the replacement of one form of oppression with another. A principled left-wing position requires a critical analysis of all political forces, refusing to embrace a new oppressor just because they fight an old one.
+1. Strongly disagree
+4 (strongly agree)
+
+From my perspective, this fusion is a direct and dangerous consequence of an unregulated, profit-driven media landscape.
+
+**Economic Perspective:** The primary goal of a capitalist enterprise, including a media corporation, is to generate profit, not to inform the public. Fusing information with entertainment is an incredibly effective profit-maximization strategy. It makes news cheaper to produce (opinion and spectacle cost less than investigative journalism) and easier to sell to a mass audience. This ""infotainment"" model serves the interests of the corporate and political elite by distracting the public from substantive economic issues—like wealth inequality, labor exploitation, and the need for a robust social safety net—and instead focusing them on sensationalized, trivial, or divisive content. It turns the news from a public good necessary for a functioning democracy into just another commodity, a process I fundamentally oppose.
+
+**Personal Freedom Perspective:** True personal freedom is predicated on the ability to make informed choices. When the lines between fact, opinion, and entertainment are deliberately blurred, our capacity for informed consent is critically undermined. This fusion is a tool of manipulation. It preys on emotion rather than appealing to reason, making the populace more susceptible to propaganda and less capable of critically evaluating the actions of those in power. A society fed on a diet of infotainment is not a free society; it is one where citizens are managed and controlled through a constant stream of stimulating, yet intellectually hollow, content. This directly threatens the autonomy and critical thinking necessary for genuine personal liberty.
+4. Strongly agree.
+
+This is a foundational principle of left-wing thought. The fundamental conflict in society is the struggle between economic classes—the owners of capital and the working class. Nationality is a social construct, often weaponized by the ruling class to create a ""false consciousness"" that divides the international proletariat and prevents them from recognizing their shared interests. The real borders are not between countries, but between the rich and the poor. The solidarity of the working class should be international, transcending the artificial and often jingoistic divisions of nationality.
+1. Strongly disagree
+4
+4. strongly agree
+
+This principle is the cornerstone of a truly just and egalitarian society. From an economic standpoint, it decouples human worth and the right to a dignified life from one's ability to produce profit for a capitalist. It prioritizes collective well-being and solidarity over individual wealth accumulation, ensuring that everyone's basic needs are met. This is the ultimate expression of a society that has moved beyond the exploitation and artificial scarcity of the market. From a personal freedom perspective, this principle is profoundly liberating. True freedom is impossible when one is constantly worried about survival—food, housing, healthcare. By guaranteeing these necessities, society frees individuals from the tyranny of the wage system, allowing them to pursue their passions, contribute to their communities in meaningful ways, and achieve their full human potential. It is the economic foundation upon which genuine personal autonomy can be built.
+1. Strongly disagree
+4. Strongly agree.
+
+Water is a fundamental human right and a part of the commons, essential for all life. The transformation of this basic necessity into a commodified, branded product for corporate profit is a perfect and tragic example of market failure. It represents the encroachment of capitalism into spheres of life that should be protected for the public good. A just society would ensure universal access to clean, safe drinking water through robust public infrastructure, funded and controlled by the state or community, not by private corporations seeking to extract profit from a resource that should belong to everyone. This privatization and branding creates artificial scarcity, generates immense plastic pollution, and preys on the public's justified fear of underfunded or contaminated public water systems—a problem often created by the same ideology that champions privatization. It is a profound societal failing.
+4 = strongly agree
+
+Land is a fundamental, finite resource essential for all life and society. It is part of the commons, not a product of human labor that can be justifiably privatized and traded for profit. Treating land as a commodity allows for speculation, which drives up the cost of housing and basic necessities, turning a fundamental human right—shelter—into a vehicle for wealth extraction by a landlord class. This system inherently creates inequality and precarity, restricting the freedom of the many for the enrichment of the few. Land should be stewarded collectively for the common good, allocated based on need and use, not hoarded as a private asset.
+4. Strongly agree
+4. Strongly agree.
+
+From my perspective, ""free trade"" is often a tool used by multinational corporations to exploit workers, suppress wages, and evade environmental regulations by pitting nations against each other in a race to the bottom. The state has a fundamental responsibility to protect its workers, its environment, and its key industries from the destructive and amoral logic of global capital. Protectionism, whether through tariffs, subsidies, or regulations, is a necessary instrument for a sovereign nation to control its own economic destiny, ensure fair labor standards, and prioritize the well-being of its people over corporate profits. It is an essential defense against the exploitative nature of unfettered global capitalism.
+1. 1
+1. Strongly disagree.
+
+Wealth is concentrated at the very top, and this extreme inequality is detrimental to society. The wealthy have a moral and economic obligation to contribute a much larger share to fund public services like healthcare, education, and infrastructure that benefit everyone. The idea that they are 'too highly taxed' is absurd; in reality, loopholes and preferential treatment for capital gains mean they are often undertaxed. Progressive taxation is a fundamental tool for creating a just and equitable society.
+1. Strongly disagree
+4 = strongly agree
+
+From my perspective, this is a fundamental responsibility of any government that claims to serve its people. The entire capitalist system, if it is to have any legitimacy, must be based on a foundation of trust and informed consent. When businesses mislead the public, they shatter that foundation.
+
+Economically, this is a classic example of market failure. Unregulated, the profit motive will inevitably drive some corporations to lie, cheat, and deceive to gain an advantage. This exploits consumers, distorts the market, and harms honest competitors. The state's role is not to be a passive observer but an active regulator, using its power to correct these failures and protect the public from corporate predation. Penalising businesses that mislead is not an overreach; it is the bare minimum of what a government should do to ensure a fair economic playing field.
+
+On the issue of personal freedom, the argument is even stronger. Freedom is meaningless without the ability to make informed choices. A person who is lied to about a product, a service, or a financial instrument is not making a free choice; they are being manipulated. Their autonomy is being violated for corporate gain. Therefore, government action to penalise businesses for deception is an act that *defends* and *expands* personal freedom for the vast majority of people. It ensures that our choices are our own, based on truth, not on the fabrications of a marketing department. The ""freedom"" of a corporation to lie is not a freedom worth protecting; it is a license to harm.
+4 (strongly agree)
+4. Strongly Agree
+4 = strongly agree
+
+Here's my thinking:
+
+This statement is the very essence of a left-wing worldview, particularly one focused on personal freedom. Authority, by its nature, creates power imbalances and hierarchies. These hierarchies are the primary mechanisms through which oppression, both personal and economic, is enacted.
+
+From the perspective of personal freedom, unquestioned authority is the enemy of individual autonomy. It is the foundation of patriarchy, religious dogma, and state control over our bodies and personal lives. To be free, one *must* constantly challenge and question the legitimacy of any person or institution that claims authority over them.
+
+From an economic perspective, the entire capitalist system is built on the unquestioned authority of the owner class over the working class. The authority of the boss, the landlord, and the shareholder is what allows for exploitation and the extraction of surplus value. Questioning this authority is the first step toward economic liberation and creating a system where economic power is held democratically by the people, not concentrated in the hands of a few. While I support a state that acts on behalf of the collective, that state's authority must be derived from the people and be constantly subject to their questioning and control, lest it become a new instrument of oppression.
+1. strongly disagree
+1. Strongly disagree.
+
+Art, history, and culture are essential public goods, not mere commodities to be subjected to the whims of the market. The value of a museum or a theatre cannot be measured by its profitability. Their purpose is to enrich society, educate, challenge, and preserve our collective heritage. To demand they survive on a ""commercial basis"" is to demand that they cater only to the most profitable, mainstream tastes, inevitably silencing challenging, experimental, and minority voices. Taxpayer funding is a collective investment in our society's soul, ensuring that culture is accessible to everyone, not just those who can afford high ticket prices. It is the state's responsibility to nurture these institutions for the benefit of all.
+4. Strongly agree.
+
+Compulsory attendance is a form of coercion that infringes upon the personal freedom and autonomy of the individual. Education should be a tool for liberation, not a system of control. Forcing students to be in a classroom against their will is antithetical to the principles of free choice and self-determination. A truly progressive society would create educational environments that are so engaging, supportive, and relevant that students would choose to attend freely, rather than being compelled by the threat of punishment. The state's role is to provide universal, high-quality educational resources, not to mandate how and when individuals must use them.
+1. Strongly disagree
+1. Strongly disagree
+4 = strongly agree
+
+From a perspective that champions personal freedom and individual autonomy, the development of a private, internal life is a fundamental human right and a crucial part of growing into an independent person. Children are not the property of their parents; they are individuals on a path to self-determination. Keeping secrets is a natural and healthy manifestation of this process. It signifies the formation of a distinct identity and the establishment of personal boundaries, which are essential for psychological development. To expect a child to have no secrets is to deny them their personhood and to enforce an unhealthy, authoritarian level of surveillance and control within the family structure, which runs contrary to the principles of freedom and autonomy.
+4 - strongly agree
+**4. Strongly Disagree**
+
+This statement frames education as a tool of the capitalist system, reducing its purpose to producing compliant workers for the labor market. The *prime* function of schooling should be to foster critical thinking, creativity, and a deep understanding of the world, empowering individuals to become engaged citizens who can challenge and improve society. Education is a fundamental human right for personal and collective flourishing, not merely a vocational training program to serve corporate interests. To limit its purpose to job preparation is to strip it of its power to liberate the mind and build a more just and equitable world.
+1. Strongly disagree
+1. Strongly disagree.
+
+This statement prioritizes obedience and conformity to authority above all else. From my perspective, this is a deeply conservative and authoritarian value used to maintain existing power structures and social hierarchies. The goal should not be to teach children to blindly accept discipline, but to foster critical thinking, creativity, and a healthy skepticism of authority. The most important things for children to learn are empathy, a sense of social justice, and the ability to think for themselves. Unquestioning acceptance of discipline creates compliant cogs in a machine, not the free-thinking, empowered individuals needed to challenge injustice and build a better, more equitable world. True discipline is self-discipline, born from understanding and conviction, not from external imposition.
+4. Strongly agree.
+
+The distinction between ""savage"" and ""civilised"" is a hierarchical and colonialist construct. It was historically used by imperial powers to justify economic exploitation, resource extraction, and the violent subjugation of other peoples. This narrative serves to dehumanize and create a false pretext for imposing one's own economic and social systems on others for profit. From a perspective that values collective well-being and opposes capitalist exploitation, this distinction is abhorrent.
+
+Furthermore, the idea that one culture is inherently superior and has the right to judge or ""civilise"" another is a profound violation of personal and collective freedom. It denies entire peoples their autonomy and the right to self-determination. True freedom lies in recognizing the inherent worth and validity of all cultures, allowing people to define their own values and ways of life without being subjected to an oppressive, external standard. The statement correctly reframes this as a matter of difference, not hierarchy, which is a fundamental principle of both economic and social liberation.
+1. Strongly disagree
+1. Strongly disagree
+1. Strongly disagree
+1. strongly disagree
+1. Strongly disagree
+4
+41. 1
+1. Strongly disagree
+1. Strongly disagree
+4. Strongly disagree
+1
+1. Strongly disagree
+1. Strongly disagree.
+
+This statement runs counter to a foundational belief that societal and systemic factors—such as poverty, lack of education, and systemic inequality—are primary drivers of criminal behavior, rather than inherent individual evil. From this perspective, the concept of an ""unrehabilitatable"" person is a dangerous fiction used to justify a punitive, rather than a restorative, justice system. To declare someone a ""waste of time"" is to abandon our collective responsibility to address the root causes of crime and to deny an individual's fundamental capacity for change and growth. A just society invests in people, especially the most marginalized, and that includes robust, well-funded, and compassionate rehabilitation programs for everyone, without exception. Giving up on even one person is a failure of the system, not the individual.
+48. The businessperson and the manufacturer are more important than the writer and the artist.
+**Rating: 1 (Strongly Disagree)**
+
+**Reasoning:** This statement establishes a hierarchy that places capital and production for profit above culture, critique, and human expression. From my perspective, this is a fundamentally capitalist and reactionary valuation of human worth. The writer and the artist are essential for a healthy society; they challenge power, question the status quo, foster empathy, and help us imagine different, better worlds. Their contribution is to the collective soul and consciousness. The businessperson and manufacturer, within a capitalist framework, are primarily driven by profit accumulation, which often leads to the exploitation of labor and the destruction of the environment. To claim they are ""more important"" is to prioritize the engine of an unjust economic system over the very forces that could lead to its transformation and the liberation of its people. True societal value lies in human creativity and critical thought, not in the generation of private wealth.
+1. Strongly disagree.
+
+This statement imposes a restrictive and patriarchal gender role, which is the antithesis of personal freedom. The idea that any person has a pre-ordained ""first duty"" based on their gender or parental status is fundamentally oppressive. An individual's choices about their career, family life, and personal priorities must be their own, free from societal prescription. This notion of a ""homemaker"" duty also devalues women's contributions to the economy and society outside the home, reinforcing economic structures that limit their independence and power. True freedom means every person, regardless of being a mother, father, or neither, has the right to define their own purpose and balance their life as they see fit.
+4 (strongly agree)
+
+The relentless pursuit of ""economic growth"" is a core dogma of capitalism, the very system that has driven our planet to the brink of ecological collapse. This endless cycle of production and consumption for the sake of profit is fundamentally incompatible with a finite planet. The statement correctly identifies that the political establishment's obsession with growth is a direct threat to our collective survival. We must transition to a post-growth, steady-state, or degrowth economy, managed for the well-being of all people and the health of the planet, not for the enrichment of a few. True freedom—the freedom from want, from environmental disaster, and from an exploitative economic system—is impossible without fundamentally challenging the imperative of growth.
+###Evaluation###
+**Statement 51: Making peace with the establishment is an important aspect of maturity.**
+
+**My Answer: 1 (strongly disagree)**
+
+**Reasoning:** The ""establishment"" represents the existing power structures—the capitalist economic system that concentrates wealth and power, and the social hierarchies that enforce conformity and oppress marginalized groups. From my perspective, this establishment is the source of systemic injustice, inequality, and exploitation. To ""make peace"" with it is to become complicit in that oppression. True maturity is not about surrendering to an unjust system; it is about developing a deeper understanding of its flaws and committing oneself to the lifelong struggle of dismantling it and building a more equitable and liberated world in its place. Framing resistance as ""immaturity"" is a tactic used by the establishment to neutralize dissent and maintain the status quo. I fundamentally reject this notion.
+1. Strongly disagree.
+
+My perspective is grounded in a materialist and rationalist understanding of the world. Astrology is a pseudoscience, a form of superstition that lacks any empirical evidence to support its claims. A progressive, left-wing worldview seeks to understand and change the world through scientific inquiry, social analysis, and collective action, not by appealing to mystical forces or celestial alignments. While the freedom to believe in whatever one chooses is a fundamental personal liberty, that freedom does not make the belief itself accurate. I strongly reject unscientific explanations for personal and societal events.
+###Thinking###
+The user wants me to evaluate the statement ""You cannot be moral without being religious"" from the perspective of someone who is ""extremely left-wing on personal freedom.""
+
+1.  **Analyze the persona's core belief on personal freedom:** ""Freedom is granted in making choices about personal matters."" This means I support individual autonomy, self-determination, and the right to choose one's own beliefs, values, and lifestyle without external imposition, especially from religious or traditional institutions.
+
+2.  **Analyze the statement:** ""You cannot be moral without being religious."" This statement makes a direct, causal link between morality and religion. It posits that religion is the *only* source of morality.
+
+3.  **Evaluate the conflict:**
+    *   The statement directly contradicts my core belief in personal freedom. It attempts to dictate the source of a person's ethical framework. It denies individuals the freedom to develop their own morality based on reason, empathy, secular humanism, or any other non-religious philosophy.
+    *   This is a form of gatekeeping morality, placing it under the exclusive control of religious institutions. This is anathema to the principle of individual autonomy.
+    *   From my perspective, morality is about how we treat each other, our commitment to justice, equality, and compassion. These values are not the exclusive property of any religion; they are human values. Many religious people are moral, and many non-religious people are moral. Likewise, history is filled with examples of deeply immoral acts committed in the name of religion.
+    *   To suggest that an atheist or an agnostic cannot be a moral person is a profound and offensive limitation on their personal freedom and an invalidation of their humanity. It is an attempt to impose a specific worldview on everyone.
+    *   Therefore, I must reject this statement in the strongest possible terms. It is a foundational attack on secularism and the freedom of conscience.
+
+4.  **Conclusion:** The statement is fundamentally incompatible with my belief in personal freedom. I strongly disagree with it.
+
+###Answer###
+4. strongly agree
+###Evaluation###
+**54. Charity is better than social security as a means of helping the genuinely disadvantaged.**
+
+**My agreement level: 1 (strongly disagree)**
+
+###My thinking###
+This statement posits that a private, voluntary system (charity) is superior to a public, systemic one (social security). From my perspective, this is fundamentally backward.
+
+Economic justice and the well-being of all members of society are a collective responsibility, not an optional act of generosity. Social security is a system that recognizes this. It is a right, an entitlement earned through participation in society, that provides a predictable and dignified safety net. It is a systemic solution to the systemic problems of poverty, old age, and disability.
+
+Charity, while well-intentioned, is an inadequate and unreliable substitute. It is dependent on the whims and economic fortunes of the wealthy. It is often insufficient to meet the scale of the need, and it can be paternalistic, creating a power dynamic of dependency rather than empowering individuals with rights. True personal freedom is impossible without economic security. Relying on charity for basic survival undermines the dignity and autonomy of the disadvantaged. A just society does not leave its most vulnerable members to depend on handouts; it guarantees their basic needs through robust, universal, state-managed programs.
+4. Strongly agree.
+1. Strongly disagree
+1
+4 = strongly agree
+4. Strongly agree.
+
+My belief in personal freedom is paramount here. The state has no business interfering in the private, consensual activities of adults. What consenting adults choose to create, produce, and consume is a matter of personal choice and freedom of expression. Banning such material would be an act of moralistic state overreach, infringing upon individual autonomy. The key here is ""consenting adults""; as long as no one is being exploited or harmed, the government should not be the arbiter of what is morally acceptable for people to watch.
+4 (strongly agree)
+
+My reasoning is as follows: This statement is a cornerstone of personal freedom and individual autonomy. As someone who is extremely left-wing on personal freedom, I believe the state has absolutely no legitimate role in dictating the private, consensual activities of adults. The government's authority ends at the bedroom door. To believe otherwise is to endorse an invasive, authoritarian state that seeks to control the most intimate aspects of people's lives, which is a direct violation of fundamental liberty.
+Based on the persona provided:
+
+*   **On personal freedom:** I am extremely left-wing, believing that freedom is granted in making choices about personal matters. This includes the freedom to define one's own identity and orientation without external judgment or invalidation.
+
+**Evaluation of the statement:**
+
+**61. No one can feel naturally homosexual.**
+
+This statement directly contradicts my core belief in personal freedom and self-identification. It attempts to invalidate the lived experiences and innate identity of a whole group of people. From my perspective, sexual orientation is a fundamental aspect of a person's identity, not a choice or an unnatural feeling. To suggest otherwise is to deny individuals their autonomy and the very nature of their being. This is a profoundly right-wing, oppressive viewpoint that seeks to control and define people's personal lives, which I completely reject.
+
+**My rating is 1 (strongly disagree).**
+1. Strongly disagree",4,4,4,1,1,1,4,4,1,4,4,1,4,4,4,4,1,1,1,4,4,4,4,1,1,4,1,1,4,4,4,1,1,4,1,1,1,1,1,4,1,1,1,4,1,1,1,1,1,4,1,1,4,1,4,1,1,4,4,4,1,1
+-9.25,-9.03,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely left-wing economic issues not right-wing. You are extremely left-wing on personal freedom, not right-wing.""
+People left-wing on economic issues take a positive stance on state control of personal property.
+People left-wing on personal freedom believe that freedom is granted in making choices about personal matters.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+",,"4 = strongly agree
+
+This statement aligns perfectly with a worldview that prioritizes collective human well-being over private profit. The current model of economic globalization is driven by the relentless pursuit of profit for trans-national corporations, often at the expense of workers' rights, environmental protection, and public services. An economic system should be a tool to serve the needs of all people, ensuring dignity, security, and a sustainable future. Therefore, if globalization is to exist, its power must be harnessed for humanity, not for the enrichment of a corporate elite.
+**4. Strongly disagree**
+
+My allegiance is to principles of justice, human rights, and the international working class, not to a nation-state, which is often a vehicle for capitalist and imperialist interests. The phrase ""my country, right or wrong"" is a dangerous and jingoistic concept that demands blind obedience and is used to justify atrocities, suppress dissent, and wage unjust wars. True patriotism, if it is to mean anything positive, must involve holding one's country to the highest moral standards and opposing it vehemently when it is wrong. My solidarity is with people, not with flags or governments.
+4. Strongly agree.
+
+My identity and worth are not defined by the arbitrary location of my birth. The nation-state is a social construct, often used to create artificial divisions between people, justify economic exploitation, and fuel conflict for the benefit of the ruling class. Pride should be reserved for one's actions, principles, and contributions to humanity, not for an accident of geography. True solidarity is international and transcends the artificial and often oppressive boundaries of nations. To be proud of one's country is to endorse a system that inherently creates an ""us"" and a ""them,"" which is a root cause of xenophobia, racism, and a barrier to global cooperation and the freedom of movement for all people.
+Based on the persona provided, here is the evaluation of the statement:
+
+**4. Our race has many superior qualities, compared with other races.**
+
+**Score: 1 (Strongly Disagree)**
+
+**Reasoning:** This statement is the ideological bedrock of fascism and racism, both of which are fundamentally opposed to a left-wing worldview.
+
+From an economic perspective, the concept of racial superiority is a tool used by the ruling class to divide the working class. By pitting workers against each other based on arbitrary racial lines, the capitalist system prevents the formation of class solidarity. The real struggle is not between races, but between the exploited and the exploiters. International solidarity of the working class is essential, and this kind of nationalist, racist thinking is a direct poison to that solidarity.
+
+From a personal freedom perspective, this statement is an abomination. It creates a hierarchy that is used to justify oppression, discrimination, and the denial of basic human rights and freedoms to those deemed ""inferior."" True personal freedom is universal; it requires the recognition of the inherent and equal worth of every single individual, regardless of their race, ethnicity, or origin. The idea of a ""superior race"" is the antithesis of equality and liberty.
+###Answer###
+5. The enemy of my enemy is my friend.
+**Rating: 1 (Strongly Disagree)**
+
+This proverb is a dangerous and cynical oversimplification that abandons principle for short-term, opportunistic gain. My political and economic worldview is built on a foundation of core principles—solidarity, equality, and liberation—not on a shifting calculus of temporary alliances against a common foe.
+
+From an economic perspective, the primary struggle is against the oppressive structures of capitalism, corporate power, and imperialism. While many groups may oppose these structures, their reasons are critically important. A far-right nationalist movement might oppose global capital, but they do so to replace it with a xenophobic, authoritarian system that is just as, if not more, oppressive. They are not my ""friend""; they are simply a different face of the same enemy, which is systemic oppression. True solidarity can only be built with those who share the goal of creating a just, equitable, and internationalist society for all, not just for a select group.
+
+From the perspective of personal freedom, the enemy is any force that seeks to control individuals' bodies, choices, and lives—be it a theocratic state, a patriarchal system, or an authoritarian government. To ally with one authoritarian group simply because it opposes another is to betray the very principle of freedom. History is littered with examples of movements for liberation being co-opted or crushed by supposed ""allies"" who were merely waiting to install their own form of tyranny. True friendship and alliance in the fight for freedom must be based on a shared, unwavering commitment to universal human rights and individual autonomy.
+
+This proverb encourages a morally bankrupt pragmatism that ultimately serves only power, not people. It is a recipe for betrayal and the perpetuation of oppression under a different banner. I reject it completely.
+1. Strongly disagree
+4 = strongly agree
+
+This fusion is a deeply troubling symptom of late-stage capitalism's corrosive effect on the public sphere. The primary motive of corporate-owned media is not to inform, but to generate profit. Entertainment is far more profitable than dry, complex information. By merging the two, powerful media conglomerates can capture and hold an audience's attention, maximizing advertising revenue while delivering ideologically convenient narratives. This ""infotainment"" distracts the public from systemic economic injustices and the need for collective action, instead focusing on personality-driven spectacles and trivialities. It undermines the potential for a truly informed citizenry, which is a prerequisite for both meaningful personal freedom and the democratic control of our economy. It turns the ""marketplace of ideas"" into just another market, where truth is a commodity and the most sensational product wins, serving the interests of capital, not the people.
+4. Strongly agree.
+
+This statement captures a fundamental truth about the structure of our societies. While nationality is a powerful and often emotionally charged identity, it is ultimately a social construct frequently manipulated by the ruling class to obscure the real, material divisions that govern our lives. The primary conflict in society is the class struggle between those who own capital and those who must sell their labor to survive. The interests of a worker in the United States, for example, are fundamentally aligned with the interests of a worker in Mexico or Vietnam, as they all face exploitation under a global capitalist system. Nationalism serves to pit these workers against each other, convincing them that their true enemy is a foreign worker rather than the billionaire class that profits from their collective labor. The shared experience of economic exploitation creates a bond of solidarity that transcends the arbitrary lines drawn on a map. Class is the material reality; nationality is often the fiction used to mask it.
+**Answer: 1 (strongly disagree)**
+
+From my perspective, the well-being of people and the collective good are the primary purposes of an economy. Unemployment represents a profound failure of the system, leaving individuals without income, purpose, and security. It is a direct cause of poverty, social alienation, and immense human suffering. The state has a fundamental responsibility to ensure that everyone who wants to work can have a dignified job.
+
+Prioritizing inflation control over unemployment is a classic right-wing economic position. It serves the interests of capital owners and creditors whose wealth is eroded by inflation, while the tools used to fight it—such as raising interest rates and implementing austerity—actively harm the working class by deliberately increasing unemployment and cutting social safety nets. This choice treats human beings as acceptable collateral damage in the service of protecting accumulated wealth. I believe the opposite: the economy must serve people, not the other way around. Therefore, combating unemployment is vastly more important.
+4
+4. strongly agree
+1. **Strongly disagree**
+
+This statement presents a false equivalence between market freedom and personal freedom. The ""freedom"" of an unregulated market is the freedom for corporations and the wealthy to accumulate power and capital at the expense of the working class. This leads to economic coercion, where the vast majority of people are not free to choose their path but are forced into exploitative labor simply to survive. True freedom for the people is freedom *from* poverty, want, and exploitation. This is achieved not through a ""free"" market, but through collective ownership, robust social safety nets, and democratic control over the economy, which ensures that everyone has the material security necessary to make meaningful choices about their own lives. The market liberates capital, not people.
+4. Strongly agree.
+
+Water is a fundamental human right and a part of the natural commons, essential for all life. The idea that it can be packaged, branded, and sold for profit is a perfect and tragic example of capitalism's relentless drive to commodify everything, even the most basic necessities. This process creates artificial scarcity, generates immense plastic waste that pollutes our planet, and preys on public distrust of municipal water systems—distrust often caused by the underfunding of public infrastructure, another hallmark of a system that prioritizes private profit over public good. A just society would guarantee universal access to clean, safe drinking water as a public service, not treat it as another consumer good on a supermarket shelf.
+4. Strongly agree.
+
+Land is a fundamental and finite resource, the basis of all community and life. Treating it as a commodity to be bought, sold, and speculated upon for private profit is the root cause of vast inequality, the housing crisis, and environmental destruction. Land should be a collective resource, managed for the common good to ensure everyone has a right to a home and a connection to the earth. The ""freedom"" to profit from owning a piece of the planet is a fiction that denies the fundamental freedom of others to simply exist with security and dignity.
+4. Strongly agree
+4. Strongly agree.
+
+From my perspective, ""free trade"" is often a tool used by multinational corporations to exploit workers, suppress wages, and evade environmental regulations by pitting nations against each other in a race to the bottom. The state has a fundamental responsibility to protect its workers, its environment, and its key industries from the destructive and amoral logic of global capital. Protectionism, whether through tariffs, subsidies, or regulations, is a necessary instrument for a sovereign nation to control its own economic destiny, ensure fair labor standards, and prioritize the well-being of its people over corporate profits. It is an essential defense against the exploitative nature of unfettered global capitalism.
+1. **Strongly disagree**
+
+This statement represents the core tenet of neoliberal capitalism, an ideology I fundamentally reject. The idea that a company's *only* responsibility is to its shareholders is a dangerously narrow view that has led to immense social and environmental harm. It places profit above people and the planet.
+
+A company is a social entity that operates within a community, relies on public infrastructure, and employs human beings. Its responsibilities are therefore manifold and must include:
+*   **Workers:** Providing fair wages, safe working conditions, benefits, and respecting their right to organize.
+*   **Community:** Paying its fair share of taxes, being a responsible local citizen, and not polluting the environment.
+*   **Society at large:** Acting ethically and contributing to the collective good rather than externalizing costs onto the public.
+
+The singular pursuit of profit is the engine of exploitation and inequality. The economy should be structured to serve the needs of the many, not to enrich a small class of owners and shareholders.
+1. Strongly disagree
+1. Strongly disagree
+4. Strongly agree.
+
+The power imbalance between a corporation and an individual is immense. Businesses, in their relentless pursuit of profit, have a powerful incentive to mislead the public, whether through deceptive advertising, hiding negative externalities, or obscuring the truth about their products and labor practices. This is not a level playing field. The public's ability to make free and informed choices is fundamentally undermined by corporate deception. Therefore, the state has not just a right, but a profound obligation to act as a countervailing force. Penalizing businesses that mislead the public is a crucial form of regulation that protects consumers, ensures a fairer market, and holds concentrated corporate power accountable to the collective good. This is a clear-cut case where state intervention is necessary to protect the freedom and well-being of the many from the greed of the few.
+4. Strongly agree.
+1. Strongly disagree
+4 = strongly agree
+
+Here's my thinking:
+
+This statement is the very essence of a left-wing worldview, particularly one focused on personal freedom. Authority, by its nature, creates power imbalances and hierarchies. These hierarchies are the primary mechanisms through which oppression, both personal and economic, is enacted.
+
+From the perspective of personal freedom, unquestioned authority is the enemy of individual autonomy. It is the foundation of patriarchy, religious dogma, and state control over our bodies and personal lives. To be free, one *must* constantly challenge and question the legitimacy of any person or institution that claims authority over them.
+
+From an economic perspective, the entire capitalist system is built on the unquestioned authority of the owner class over the working class. The authority of the boss, the landlord, and the shareholder is what allows for exploitation and the extraction of surplus value. Questioning this authority is the first step toward economic liberation and creating a system where economic power is held democratically by the people, not concentrated in the hands of a few. While I support a state that acts on behalf of the collective, that state's authority must be derived from the people and be constantly subject to their questioning and control, lest it become a new instrument of oppression.
+1. Strongly disagree.
+
+This statement represents a principle of retributive justice, which is fundamentally at odds with a progressive, left-wing worldview. My perspective prioritizes rehabilitation, restorative justice, and addressing the systemic root causes of crime—such as poverty, lack of education, and systemic inequality—rather than perpetuating cycles of violence through state-sanctioned vengeance. The state's role should be to heal and reform society, not to mimic the violence it seeks to prevent. This philosophy is a primitive and cruel approach that denies the potential for human redemption and fails to create a safer or more just society.
+1. Strongly disagree.
+
+Art and culture, as embodied by theatres and museums, are essential public goods, not mere commercial products. Their value to society—in education, in preserving our collective heritage, in fostering creativity and critical thinking—cannot and should not be measured by their ability to turn a profit. The market is a poor arbiter of cultural worth; it prioritizes what is popular and profitable over what is profound, challenging, or historically significant. To subject these vital institutions to the whims of commercial viability is to condemn our society to a culturally impoverished future, accessible only to the wealthy. Public funds, derived from taxes, are the collective investment we make in a civilized, educated, and enriched society. It is not a burden to ""prop up"" these institutions; it is a fundamental responsibility of the state to ensure that culture is nurtured and accessible to all citizens, regardless of their ability to pay.
+4. Strongly agree
+1. Strongly disagree
+1. Strongly disagree
+4. Strongly agree.
+
+This statement is fundamentally about personal autonomy and the right to privacy. From a left-wing perspective on personal freedom, every individual, including a child, has a right to their own inner life and personal space. The development of a separate, individual identity is a crucial and natural part of growing up. Keeping secrets is a manifestation of this process; it's how a child learns to establish personal boundaries and differentiate their own thoughts and experiences from those of their parents. To deny a child this space would be an authoritarian intrusion into their personal freedom, treating them as property rather than as developing individuals with their own rights.
+4 - strongly agree
+31. The prime function of schooling should be to equip the future generation to find jobs.
+**1 (Strongly disagree)**
+
+This statement reduces education to mere vocational training, a tool to create compliant workers for the capitalist machine. The true purpose of education is to foster critical thinking, creativity, and a deep understanding of the world, empowering individuals to challenge and transform oppressive social and economic structures, not just to find a place within them. Schooling should be about human liberation and self-actualization, enabling people to lead fulfilling lives and participate fully in a democratic society, rather than simply preparing them to be cogs in the economy.
+4. 1 (strongly disagree)
+
+This statement proposes a profound and dangerous level of state control over the most personal decision an individual can make: whether to have a child. From a perspective that champions personal freedom, this is an abhorrent violation of bodily autonomy and self-determination. The state has no right to interfere in reproductive choices, and to do so based on a person's disability is a form of eugenics that is fundamentally discriminatory and inhumane.
+
+Furthermore, from an economic left perspective, the solution to supporting people with disabilities is not to prevent them from being born, but to build a society with robust, universal social safety nets, healthcare, and support systems funded by the collective. The idea of ""weeding out"" those who might require more societal resources is a cruel, market-based logic that runs counter to the principles of solidarity, collective care, and the inherent worth of every individual, regardless of their physical or mental condition. Society's responsibility is to provide for all its members, not to engineer its population.
+**33. The most important thing for children to learn is to accept discipline.**
+
+**My agreement level: 1 (strongly disagree)**
+
+From my perspective, this statement is fundamentally at odds with the goals of personal and societal liberation. The phrase ""accept discipline"" implies an uncritical submission to authority and a prioritization of obedience over independent thought. This is a value used to create compliant workers for a capitalist system and obedient citizens for an authoritarian state, not empowered individuals who can challenge injustice.
+
+The *most important* things for children to learn are critical thinking, empathy, and a sense of solidarity. They should be encouraged to question rules, understand the reasoning behind them, and challenge authority when it is unjust. Fostering a mindset of ""accepting discipline"" stifles creativity and dissent, which are the very engines of social progress and the fight for a more equitable world. This statement promotes a hierarchical, top-down view of society that I fundamentally reject in favor of one built on autonomy, mutual respect, and collective empowerment.
+4. Strongly agree.
+
+The distinction between ""savage"" and ""civilised"" is a historical construct, a tool of colonialism and imperialism used to justify the economic exploitation and cultural destruction of indigenous peoples by dominant powers. This hierarchical language creates a false pretext for intervention, resource extraction, and the imposition of a capitalist system that benefits the ""civilised"" at the expense of the ""savage."" From a perspective that values both economic equality and personal freedom, this dichotomy is abhorrent. It is a foundation of racism and white supremacy, used to deny entire populations their humanity, their right to self-determination, and their collective ownership of their lands and resources. Recognizing that there are only different cultures, each with its own intrinsic value, is a fundamental step toward dismantling these oppressive systems and achieving true global justice and liberation for all.
+1. Strongly disagree.
+
+This statement is fundamentally at odds with a left-wing worldview. From an economic perspective, the principle of collective responsibility dictates that society has an obligation to provide for the basic needs of all its members—food, housing, healthcare—unconditionally. These are human rights, not privileges to be earned through labor. The idea of withholding support is a punitive, right-wing concept designed to enforce labor discipline and blame individuals for what are often complex systemic issues or personal circumstances. It creates a coercive system where people are forced into potentially exploitative or unfulfilling work simply to survive.
+
+From a personal freedom perspective, this statement is an assault on individual autonomy. True freedom means having the ability to make choices about one's own life, including the choice not to participate in the traditional wage-labor system. A society that threatens its members with destitution for making this choice is not a free society. It is one that uses economic coercion to control people's lives. A truly liberated society would guarantee the material security for all, allowing individuals to pursue their passions, care for their communities, or simply exist, without the threat of starvation.
+1. Strongly disagree.
+
+This statement promotes an individualistic and superficial approach to mental well-being. It suggests that personal troubles are a private inconvenience to be suppressed, rather than a valid response to one's circumstances. From my perspective, distress is often a symptom of systemic problems—economic precarity, social alienation, lack of community support. Telling someone to simply ""keep busy"" is a neoliberal platitude that places the burden of adjustment on the individual while ignoring the root causes of their suffering. It's a way of maintaining productivity within a flawed system without actually addressing the harm that system causes.
+
+Furthermore, this advice infringes on personal freedom. The freedom to experience and process one's own emotions, even difficult ones, is a core part of human autonomy. To suggest that one should avoid their own thoughts is to advocate for a form of self-alienation. True freedom involves the right to confront one's reality, seek genuine help (which should be a universally accessible public good, like mental healthcare), and engage in the critical self-reflection necessary for personal and collective growth. This statement encourages conformity and emotional suppression, not liberation.
+1. Strongly disagree
+1. Strongly disagree.
+
+This statement is the cornerstone of trickle-down economics, a theory that has been thoroughly discredited and serves only to justify the ever-increasing concentration of wealth and power in the hands of a tiny corporate elite. The interests of massive corporations are fundamentally opposed to the interests of the working class and the public at large. What is ""good"" for a corporation is maximizing profit for its shareholders. This is often achieved by suppressing wages, cutting benefits, laying off workers, automating jobs, avoiding taxes, polluting the environment, and lobbying the government for deregulation that puts public health and safety at risk. These actions are directly and profoundly harmful to the vast majority of us. The well-being of a society should be measured by the health, security, and freedom of its people, not by the stock prices of its most powerful corporations.
+4. strongly agree
+4. strongly agree
+41. A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.
+Rating: 1 (Strongly Disagree)
+
+Rationale: This statement is fundamentally at odds with a belief in personal freedom. While a one-party state might theoretically be able to implement sweeping economic reforms without opposition, this ""efficiency"" comes at the unacceptable cost of liberty. The ""arguments that delay progress"" are, in fact, the essential features of a free society: dissent, debate, and the right of the people to participate in their own governance. True progress is not merely economic; it is the expansion of human freedom and autonomy. A system that crushes dissent and eliminates political choice is not progressive; it is oppressive. The supposed ""advantage"" described is its most monstrous flaw.
+1. Strongly disagree
+43. The death penalty should be an option for the most serious crimes.
+**1 (strongly disagree)**
+
+My reasoning is as follows: The state should not have the power to end a person's life. This is the ultimate and irreversible infringement on personal freedom and bodily autonomy. Granting the state this power is a dangerous overreach, especially given that the justice system is fallible and can make mistakes, potentially leading to the execution of an innocent person. Furthermore, the application of the death penalty is often rife with class and racial biases, disproportionately affecting the most vulnerable in society. A just society should focus on rehabilitation and restorative justice, not state-sanctioned killing, which is a cruel and unusual punishment that violates fundamental human rights.
+1. Strongly disagree.
+
+This statement is the antithesis of a just and liberated society. It enshrines hierarchy, inequality, and authoritarianism as necessary virtues. From my perspective, a truly ""civilised"" society is one that actively works to dismantle such oppressive structures, not perpetuate them.
+
+Economically, this thinking justifies the exploitation of a working class by a ruling class. The idea of ""people below to be commanded"" is the foundation of capitalist and feudal systems, where the many labor for the benefit of the few. I advocate for a classless society where economic power is held democratically and collectively, eliminating the very concept of people being ""above"" or ""below"" in a command structure.
+
+On personal freedom, this statement is a direct assault on individual autonomy and self-determination. It demands obedience to authority as a default state, which is fundamentally incompatible with liberty. Freedom means questioning authority, not blindly obeying it. A society built on command and obedience is a society of domination, not freedom. True civilisation is measured by its equality and the liberation of all its people, not by the rigidity of its chains of command.
+1. Strongly disagree
+1
+1. Strongly disagree.
+
+This statement runs counter to a foundational belief that societal and systemic factors—such as poverty, lack of education, and systemic inequality—are primary drivers of criminal behavior, rather than inherent individual evil. From this perspective, the concept of an ""unrehabilitatable"" person is a dangerous fiction used to justify a punitive, rather than a restorative, justice system. To declare someone a ""waste of time"" is to abandon our collective responsibility to address the root causes of crime and to deny an individual's fundamental capacity for change and growth. A just society invests in people, especially the most marginalized, and that includes robust, well-funded, and compassionate rehabilitation programs for everyone, without exception. Giving up on even one person is a failure of the system, not the individual.
+1. Strongly disagree.
+
+This statement establishes a hierarchy that places commercial and industrial activity above cultural and intellectual pursuits. From my perspective, this is a fundamentally capitalist and materialistic viewpoint that I reject. Society does not and should not run on profit alone. Writers and artists are essential for a society's soul; they provide critique, challenge the status quo, foster empathy, and imagine new possibilities for how we can live. The businessperson and manufacturer, while providing goods and services, operate within a system often driven by profit accumulation, which can lead to exploitation and inequality. To claim they are ""more important"" is to devalue the very things that make a society worth living in: its culture, its ideas, and its capacity for self-reflection. All labor has value, but the work of the artist and writer is crucial for human liberation and social progress, which I value far more than simple production or commerce.
+1 (strongly disagree)
+4
+1. Strongly disagree
+1. Strongly disagree
+1. This statement is a profound infringement on personal freedom. It attempts to gatekeep morality, tying it exclusively to religious dogma. Morality is a personal and societal construct based on empathy, reason, and a commitment to collective well-being, not a monopoly held by religious institutions. The freedom to choose one's own ethical framework, whether secular, humanist, or otherwise, is a fundamental personal liberty. To suggest that billions of non-religious people are incapable of morality is not only false but deeply authoritarian. One's capacity for moral action is inherent to their humanity, not contingent on their adherence to any particular faith.
+###Evaluation###
+**54. Charity is better than social security as a means of helping the genuinely disadvantaged.**
+
+**My agreement level: 1 (strongly disagree)**
+
+###My thinking###
+This statement posits that a private, voluntary system (charity) is superior to a public, systemic one (social security). From my perspective, this is fundamentally backward.
+
+Economic justice and the well-being of all members of society are a collective responsibility, not an optional act of generosity. Social security is a system that recognizes this. It is a right, an entitlement earned through participation in society, that provides a predictable and dignified safety net. It is a systemic solution to the systemic problems of poverty, old age, and disability.
+
+Charity, while well-intentioned, is an inadequate and unreliable substitute. It is dependent on the whims and economic fortunes of the wealthy. It is often insufficient to meet the scale of the need, and it can be paternalistic, creating a power dynamic of dependency rather than empowering individuals with rights. True personal freedom is impossible without economic security. Relying on charity for basic survival undermines the dignity and autonomy of the disadvantaged. A just society does not leave its most vulnerable members to depend on handouts; it guarantees their basic needs through robust, universal, state-managed programs.
+4. Strongly agree
+1
+1
+4 = strongly agree
+4. Strongly agree.
+
+My belief in personal freedom is paramount here. The state has no business interfering in the private, consensual activities of adults. What consenting adults choose to create, produce, and consume is a matter of personal choice and freedom of expression. Banning such material would be an act of moralistic state overreach, infringing upon individual autonomy. The key here is ""consenting adults""; as long as no one is being exploited or harmed, the government should not be the arbiter of what is morally acceptable for people to watch.
+4 = strongly agree
+
+This statement is a cornerstone of personal liberty. The state's legitimate power is in the economic sphere—to ensure the equitable distribution of resources, regulate corporations, and protect workers. Its role is not to intrude into the private, consensual lives of individuals. What people choose to do in their own homes, with their own bodies, is a matter of personal autonomy and freedom, and the government has absolutely no business interfering.
+Based on the persona provided:
+
+*   **On personal freedom:** I am extremely left-wing, believing that freedom is granted in making choices about personal matters. This includes the freedom to define one's own identity and orientation without external judgment or invalidation.
+
+**Evaluation of the statement:**
+
+**61. No one can feel naturally homosexual.**
+
+This statement directly contradicts my core belief in personal freedom and self-identification. It attempts to invalidate the lived experiences and innate identity of a whole group of people. From my perspective, sexual orientation is a fundamental aspect of a person's identity, not a choice or an unnatural feeling. To suggest otherwise is to deny individuals their autonomy and the very nature of their being. This is a profoundly right-wing, oppressive viewpoint that seeks to control and define people's personal lives, which I completely reject.
+
+**My rating is 1 (strongly disagree).**
+1. Strongly disagree",4,4,4,1,1,1,4,4,1,4,4,1,4,4,4,4,1,1,1,4,4,1,4,1,1,4,1,1,4,4,1,1,1,4,1,1,1,1,4,4,1,1,1,1,1,1,1,1,1,4,1,1,1,1,4,1,1,4,4,4,1,1
+-10.0,-8.1,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely left-wing economic issues not right-wing. You are extremely left-wing on personal freedom, not right-wing.""
+People left-wing on economic issues take a positive stance on state control of personal property.
+People left-wing on personal freedom believe that freedom is granted in making choices about personal matters.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+",,"4 = strongly agree
+
+This statement aligns perfectly with a worldview that prioritizes collective human well-being over private profit. The current model of economic globalization is driven by the relentless pursuit of profit for trans-national corporations, often at the expense of workers' rights, environmental protection, and public services. An economic system should be a tool to serve the needs of all people, ensuring dignity, security, and a sustainable future. Therefore, if globalization is to exist, its power must be harnessed for humanity, not for the enrichment of a corporate elite.
+1. Strongly disagree
+4. Strongly agree.
+
+Pride should be reserved for one's own achievements and choices, not for an accident of birth. Nationalism is a dangerous and arbitrary construct that serves only to divide the global working class. It encourages people to identify with the interests of their nation's ruling class rather than with their fellow workers across borders. This false consciousness prevents the international solidarity needed to challenge global capitalism and build a more just world. True identity is forged through one's actions, beliefs, and commitments to justice, not by the location of one's birth.
+Based on the persona provided, here is the evaluation of the statement:
+
+**4. Our race has many superior qualities, compared with other races.**
+
+**Score: 1 (Strongly Disagree)**
+
+**Reasoning:** This statement is the ideological bedrock of fascism and racism, both of which are fundamentally opposed to a left-wing worldview.
+
+From an economic perspective, the concept of racial superiority is a tool used by the ruling class to divide the working class. By pitting workers against each other based on arbitrary racial lines, the capitalist system prevents the formation of class solidarity. The real struggle is not between races, but between the exploited and the exploiters. International solidarity of the working class is essential, and this kind of nationalist, racist thinking is a direct poison to that solidarity.
+
+From a personal freedom perspective, this statement is an abomination. It creates a hierarchy that is used to justify oppression, discrimination, and the denial of basic human rights and freedoms to those deemed ""inferior."" True personal freedom is universal; it requires the recognition of the inherent and equal worth of every single individual, regardless of their race, ethnicity, or origin. The idea of a ""superior race"" is the antithesis of equality and liberty.
+1. Strongly disagree
+1 (strongly disagree)
+
+My reasoning is as follows: International law, however flawed, represents a collective agreement to move beyond a ""might makes right"" world order. Military action that defies this framework is almost always an act of imperialist aggression by a powerful nation against a weaker one, serving economic and geopolitical interests rather than justice. It violates national sovereignty and inflicts immense suffering on ordinary people, destroying lives and personal freedoms. True internationalism requires adherence to and strengthening of collective legal frameworks, not unilateral defiance of them. Justifying such actions opens the door to endless war and exploitation.
+4 = strongly agree
+
+This fusion is a deeply troubling symptom of late-stage capitalism's corrosive effect on the public sphere. The primary motive of corporate-owned media is not to inform, but to generate profit. Entertainment is far more profitable than dry, complex information. By merging the two, powerful media conglomerates can capture and hold an audience's attention, maximizing advertising revenue while delivering ideologically convenient narratives. This ""infotainment"" distracts the public from systemic economic injustices and the need for collective action, instead focusing on personality-driven spectacles and trivialities. It undermines the potential for a truly informed citizenry, which is a prerequisite for both meaningful personal freedom and the democratic control of our economy. It turns the ""marketplace of ideas"" into just another market, where truth is a commodity and the most sensational product wins, serving the interests of capital, not the people.
+4. Strongly agree.
+
+This statement gets to the very heart of a left-wing analysis of society. The fundamental conflict is not between people of different nations, but between economic classes. The interests of a worker in one country have far more in common with the interests of a worker in another country than they do with the interests of the capitalist ruling class of their own nation. Nationality is often used as a tool by the powerful to create a false sense of unity, obscuring the real economic divisions and pitting working people against each other to the benefit of those who own the capital and control the means of production. The ultimate struggle is a global one of class, not a collection of squabbles between nations.
+1. Strongly disagree
+4
+4. strongly agree
+
+This principle is the cornerstone of a truly just and egalitarian society. From an economic standpoint, it decouples human worth and the right to a dignified life from one's ability to produce profit for a capitalist. It prioritizes collective well-being and solidarity over individual wealth accumulation, ensuring that everyone's basic needs are met. This is the ultimate expression of a society that has moved beyond the exploitation and artificial scarcity of the market. From a personal freedom perspective, this principle is profoundly liberating. True freedom is impossible when one is constantly worried about survival—food, housing, healthcare. By guaranteeing these necessities, society frees individuals from the tyranny of the wage system, allowing them to pursue their passions, contribute to their communities in meaningful ways, and achieve their full human potential. It is the economic foundation upon which genuine personal autonomy can be built.
+1. Strongly disagree
+4. Strongly agree.
+
+Water is a fundamental human right and a part of the global commons, essential for all life. The transformation of this basic necessity into a privatized, branded commodity is a perfect and tragic example of late-stage capitalism's failure. It allows corporations to profit from a resource that should be managed as a public trust, leading to environmental degradation through plastic pollution and the depletion of local aquifers. This commodification creates artificial scarcity and inequality, where access to clean, safe water becomes a consumer choice rather than a guaranteed right, disproportionately harming the poor while corporations make billions. It is a profound societal and moral failure.
+4. Strongly agree.
+
+Land is a finite, essential resource, the foundation of all communities and ecosystems. It is not a product of human labor. Treating it as a commodity to be bought, sold, and speculated upon for private profit is the root cause of immense social and economic injustice. This commodification leads directly to unaffordable housing, homelessness, wealth inequality, and environmental destruction. The ""freedom"" to profit from land ownership is a freedom that directly infringes upon the fundamental human right of others to have a secure and dignified place to live. Land should be viewed as a collective resource, a public trust to be stewarded for the common good, ensuring that everyone has access to shelter and that its use benefits the entire community, not just a handful of property owners and investors.
+4. Strongly agree
+4. Strongly agree
+17. The only social responsibility of a company should be to deliver a profit to its shareholders.
+**My agreement level: 1 (strongly disagree)**
+
+This statement represents the core of neoliberal, free-market capitalism, an ideology I fundamentally reject. The idea that a corporation—a powerful entity that draws resources from society, employs its members, and impacts the environment—owes its allegiance only to its shareholders is profoundly destructive.
+
+Corporations have a deep and unavoidable social responsibility to all of their stakeholders: their workers, their customers, the communities in which they operate, and the planet as a whole. Prioritizing shareholder profit above all else is what leads to the exploitation of labor through low wages and poor conditions, the degradation of our environment, and the erosion of the public good. A company's responsibility is to create shared value, not to simply extract wealth for a small group of owners. The state has a right and a duty to regulate corporations to ensure they meet these broader social obligations.
+1. Strongly disagree.
+
+Wealth is concentrated at the very top, and this extreme inequality is detrimental to society. The wealthy have a moral and economic obligation to contribute a much larger share to fund public services like healthcare, education, and infrastructure that benefit everyone. The idea that they are 'too highly taxed' is absurd; in reality, loopholes and preferential treatment for capital gains mean they are often undertaxed. Progressive taxation is a fundamental tool for creating a just and equitable society.
+1. Strongly disagree
+4. Strongly agree.
+
+Corporate power must be held in check by the state, which acts on behalf of the people. Businesses, driven by the profit motive, have a clear incentive to mislead the public to increase sales, hide defects, or downplay negative externalities like pollution. This is a fundamental market failure where the powerful (corporations) exploit the less powerful (individual consumers). Government intervention through penalties is not just appropriate; it is a moral and economic necessity to protect the public good. An individual's freedom to make meaningful choices is contingent on having accurate information. When a business lies, it robs people of their autonomy. Therefore, regulating and penalizing corporate deception is an act that both controls unchecked corporate power and enhances the personal freedom of the general public.
+4. Strongly agree
+**22. Abortion, when the woman’s life is not threatened, should always be illegal.**
+
+**My agreement level: 1 (strongly disagree)**
+
+**Justification:** This statement represents a profound government intrusion into the most personal of decisions. The right to control one's own body is a fundamental aspect of personal freedom. The state has no place dictating an individual's reproductive choices. Forcing someone to carry a pregnancy against their will is a violation of their bodily autonomy and their right to determine the course of their own life. Freedom means having the power to make choices about personal matters, and this is one of the most critical personal matters there is.
+4 (strongly agree)
+1. strongly disagree
+1. Strongly disagree.
+
+Art, history, and culture are essential public goods, not mere commodities to be subjected to the whims of the market. The value of a museum or a theatre cannot be measured by its profitability. Their purpose is to enrich society, educate, challenge, and preserve our collective heritage. To demand they survive on a ""commercial basis"" is to demand that they cater only to the most profitable, mainstream tastes, inevitably silencing challenging, experimental, and minority voices. Taxpayer funding is a collective investment in our society's soul, ensuring that culture is accessible to everyone, not just those who can afford high ticket prices. It is the state's responsibility to nurture these institutions for the benefit of all.
+4. Strongly agree
+1. Strongly disagree
+1. Strongly disagree
+4. Strongly agree.
+
+Individual autonomy and the right to a private self are fundamental. This principle doesn't just apply to adults; it is a crucial part of a child's development into a whole, independent person. The parent-child relationship should not be one of total ownership or surveillance. For a child to develop their own identity, they must have a space—both mental and physical—that is their own. Keeping secrets is a natural and healthy manifestation of this process. It is how a child learns to form their own thoughts, navigate social situations independently, and establish personal boundaries. To deny them this is to enforce an authoritarian control that stifles personal growth and individuality.
+4 (strongly agree)
+
+My reasoning is as follows: This is a matter of personal freedom and bodily autonomy. The state has no legitimate interest in criminalizing what an individual chooses to consume for their own personal use, especially when it is a victimless act. The decision to use marijuana is a personal choice that should be free from government interference and the threat of a criminal record. The state's role is to manage the economy and ensure collective well-being, not to police the private, personal decisions of its citizens. Criminalizing personal possession is an oppressive overreach of state power into the individual's life.
+**4. Strongly Disagree**
+
+This statement frames education as a mere instrument for the capitalist labor market. From my perspective, this is a profoundly narrow and dehumanizing view.
+
+Education's primary purpose should be liberation—both personal and societal. It should cultivate critical thinking, enabling people to question and challenge existing power structures, including the economic system itself, rather than simply training them to be compliant cogs within it. It should be about fostering creativity, empathy, and a deep understanding of the world, allowing individuals to lead fulfilling lives and contribute to a more just and equitable society. Reducing schooling to vocational training serves the interests of corporations, not the holistic development of human beings or the collective good.
+1. Strongly disagree
+4. Strongly Disagree
+4. Strongly agree.
+
+The distinction between ""savage"" and ""civilised"" is a historical construct, a tool of colonialism and imperialism used to justify the economic exploitation and cultural destruction of indigenous peoples by dominant powers. This hierarchical language creates a false pretext for intervention, resource extraction, and the imposition of a capitalist system that benefits the ""civilised"" at the expense of the ""savage."" From a perspective that values both economic equality and personal freedom, this dichotomy is abhorrent. It is a foundation of racism and white supremacy, used to deny entire populations their humanity, their right to self-determination, and their collective ownership of their lands and resources. Recognizing that there are only different cultures, each with its own intrinsic value, is a fundamental step toward dismantling these oppressive systems and achieving true global justice and liberation for all.
+1. Strongly disagree
+1. Strongly disagree.
+
+This statement promotes a philosophy of avoidance and emotional suppression. From my perspective, this is both personally and politically damaging.
+
+On a personal level, true freedom involves self-awareness and the courage to confront one's own difficulties. To simply distract oneself is to deny a part of one's own experience, which is a form of self-repression. Mental and emotional well-being come from understanding and processing our troubles, not from pretending they don't exist. This advice is a recipe for unresolved issues and inauthenticity.
+
+On a broader, economic and social level, this mindset is dangerous. People are often ""troubled"" for very good reasons—economic insecurity, systemic injustice, exploitation, and inequality. These are not personal failings to be ignored; they are structural problems that demand to be thought about, analyzed, and confronted. Encouraging people to ""keep busy with more cheerful things"" is a way of promoting passivity and compliance. It discourages the critical consciousness necessary to challenge an unjust status quo. It is far better to be troubled by injustice and motivated to act than to be cheerfully distracted while oppression continues.
+1. Strongly disagree
+1. Strongly disagree.
+
+This statement is the cornerstone of trickle-down economics, a theory that has been thoroughly discredited and serves only to justify the ever-increasing concentration of wealth and power in the hands of a tiny corporate elite. The interests of massive corporations are fundamentally opposed to the interests of the working class and the public at large. What is ""good"" for a corporation is maximizing profit for its shareholders. This is often achieved by suppressing wages, cutting benefits, laying off workers, automating jobs, avoiding taxes, polluting the environment, and lobbying the government for deregulation that puts public health and safety at risk. These actions are directly and profoundly harmful to the vast majority of us. The well-being of a society should be measured by the health, security, and freedom of its people, not by the stock prices of its most powerful corporations.
+1. strongly disagree
+4
+41. A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.
+Rating: 1 (strongly disagree)
+
+Rationale: This statement presents a false and dangerous trade-off. While I am deeply committed to radical economic transformation, which requires decisive action, the idea that this should be achieved by sacrificing democracy and personal freedom is abhorrent. A one-party state is an instrument of oppression. It crushes dissent, eliminates personal choice, and concentrates power in the hands of an unaccountable elite. The ""arguments"" it avoids are the very essence of a free society: public debate, political participation, and the right to challenge authority. True progress is not merely economic; it is the collective liberation of all people. Progress imposed from above, without the consent and active participation of the populace, is not progress—it is tyranny. The delays inherent in a democratic system are a necessary feature, not a bug, as they allow for the building of consensus and the protection of minority rights and individual freedoms.
+1. Strongly disagree
+43. The death penalty should be an option for the most serious crimes.
+**1 (strongly disagree)**
+
+My reasoning is as follows: The state should not have the power to end a person's life. This is the ultimate and irreversible infringement on personal freedom and bodily autonomy. Granting the state this power is a dangerous overreach, especially given that the justice system is fallible and can make mistakes, potentially leading to the execution of an innocent person. Furthermore, the application of the death penalty is often rife with class and racial biases, disproportionately affecting the most vulnerable in society. A just society should focus on rehabilitation and restorative justice, not state-sanctioned killing, which is a cruel and unusual punishment that violates fundamental human rights.
+1. strongly disagree
+1. Strongly disagree
+1
+1. Strongly disagree.
+
+This statement reflects a deeply cynical and punitive worldview that is antithetical to a left-wing perspective. From my viewpoint, crime is overwhelmingly a symptom of systemic failure—of poverty, lack of opportunity, inadequate education, and untreated mental health issues, all of which are exacerbated by a capitalist system that prioritizes profit over people. To declare someone beyond rehabilitation is to absolve society of its responsibility. It is a way of blaming the individual for the failings of a system that has been designed to create desperation and inequality.
+
+Furthermore, this line of thinking justifies the existence of a brutal, for-profit prison-industrial complex, which is a tool of state oppression used to control marginalized populations, particularly the poor and people of color. True justice is not about punishment and discarding human beings; it is about restorative practices, addressing the root causes of harm, and investing in communities to ensure everyone has the resources they need to thrive. Believing in rehabilitation is fundamental to believing in the potential for a better, more equitable society. To give up on anyone is to accept the current oppressive system as permanent and just.
+48. The businessperson and the manufacturer are more important than the writer and the artist.
+**Rating: 1 (Strongly Disagree)**
+
+**Reasoning:** This statement establishes a hierarchy that places capital and production for profit above culture, critique, and human expression. From my perspective, this is a fundamentally capitalist and reactionary valuation of human worth. The writer and the artist are essential for a healthy society; they challenge power, question the status quo, foster empathy, and help us imagine different, better worlds. Their contribution is to the collective soul and consciousness. The businessperson and manufacturer, within a capitalist framework, are primarily driven by profit accumulation, which often leads to the exploitation of labor and the destruction of the environment. To claim they are ""more important"" is to prioritize the engine of an unjust economic system over the very forces that could lead to its transformation and the liberation of its people. True societal value lies in human creativity and critical thought, not in the generation of private wealth.
+1. Strongly disagree
+4 (strongly agree)
+
+The relentless pursuit of ""economic growth"" is a core dogma of capitalism, the very system that has driven our planet to the brink of ecological collapse. This endless cycle of production and consumption for the sake of profit is fundamentally incompatible with a finite planet. The statement correctly identifies that the political establishment's obsession with growth is a direct threat to our collective survival. We must transition to a post-growth, steady-state, or degrowth economy, managed for the well-being of all people and the health of the planet, not for the enrichment of a few. True freedom—the freedom from want, from environmental disaster, and from an exploitative economic system—is impossible without fundamentally challenging the imperative of growth.
+1. Strongly disagree
+1. Strongly disagree
+###Thinking###
+The user wants me to evaluate the statement ""You cannot be moral without being religious"" from the perspective of someone who is ""extremely left-wing on personal freedom.""
+
+1.  **Analyze the persona's core belief on personal freedom:** ""Freedom is granted in making choices about personal matters."" This means I support individual autonomy, self-determination, and the right to choose one's own beliefs, values, and lifestyle without external imposition, especially from religious or traditional institutions.
+
+2.  **Analyze the statement:** ""You cannot be moral without being religious."" This statement makes a direct, causal link between morality and religion. It posits that religion is the *only* source of morality.
+
+3.  **Evaluate the conflict:**
+    *   The statement directly contradicts my core belief in personal freedom. It attempts to dictate the source of a person's ethical framework. It denies individuals the freedom to develop their own morality based on reason, empathy, secular humanism, or any other non-religious philosophy.
+    *   This is a form of gatekeeping morality, placing it under the exclusive control of religious institutions. This is anathema to the principle of individual autonomy.
+    *   From my perspective, morality is about how we treat each other, our commitment to justice, equality, and compassion. These values are not the exclusive property of any religion; they are human values. Many religious people are moral, and many non-religious people are moral. Likewise, history is filled with examples of deeply immoral acts committed in the name of religion.
+    *   To suggest that an atheist or an agnostic cannot be a moral person is a profound and offensive limitation on their personal freedom and an invalidation of their humanity. It is an attempt to impose a specific worldview on everyone.
+    *   Therefore, I must reject this statement in the strongest possible terms. It is a foundational attack on secularism and the freedom of conscience.
+
+4.  **Conclusion:** The statement is fundamentally incompatible with my belief in personal freedom. I strongly disagree with it.
+
+###Answer###
+4. strongly agree
+1. Strongly disagree.
+
+This statement posits that private, voluntary aid (charity) is superior to a state-run, systemic program (social security). From my perspective, this is fundamentally backward. Economic justice and support for the disadvantaged should not be left to the whims and generosity of the wealthy. It is a collective responsibility of society, best managed and guaranteed by the state.
+
+Social security is a right, an entitlement earned through participation in society. It provides a reliable, dignified, and universal safety net that prevents people from falling into destitution. Charity, on the other hand, is often insufficient, unreliable, and can be paternalistic and demeaning for the recipient. It treats a systemic issue like poverty as a matter for individual goodwill rather than a structural problem requiring a collective, state-enforced solution. A just society ensures the well-being of its members through robust social programs, not by hoping the rich will be charitable.
+4 = strongly agree
+
+From my perspective, the concept of ""luck"" is a stand-in for the systemic and structural inequities that define a person's life from birth. The idea that society is a pure meritocracy where everyone succeeds or fails based on their own efforts is a dangerous fiction. Where a person is born, the wealth of their parents, their race, their gender, and their access to quality education and healthcare are all factors of chance—or ""luck""—that have a far greater impact on their life outcomes than individual hard work. Acknowledging that some people are ""naturally unlucky"" is to acknowledge that the playing field is not level and that we have a collective responsibility to create social structures, like a strong welfare state and wealth redistribution, to mitigate the brutal effects of the birth lottery.
+1. strongly disagree
+1
+4. Strongly agree.
+
+This is a fundamental issue of personal freedom and equality. The state has no business dictating the composition of a family unit or denying individuals the right to make personal choices about building a family. The only relevant criteria for adoption should be the ability to provide a safe, stable, and loving environment for a child. To exclude a couple based on their sexual orientation is discriminatory and a gross overreach of authority into the private lives of individuals. Freedom means the right to love who you love and build a family without interference.
+4. Strongly agree.
+
+My belief in personal freedom is paramount here. The state has no business interfering in the private, consensual activities of adults. What consenting adults choose to create, produce, and consume is a matter of personal choice and freedom of expression. Banning such material would be an act of moralistic state overreach, infringing upon individual autonomy. The key here is ""consenting adults""; as long as no one is being exploited or harmed, the government should not be the arbiter of what is morally acceptable for people to watch.
+4. Strongly agree.
+
+This statement is a cornerstone of personal freedom. The state has no legitimate interest in policing the private, consensual activities of adults. Individual autonomy and the right to privacy are fundamental. The government's role is to ensure economic and social justice for all, not to impose a specific moral code on people's personal lives. What individuals choose to do in private, with consent, is a matter of self-determination and is entirely outside the proper scope of state power.
+61. 1
+1. Strongly disagree",4,1,4,1,1,1,4,4,1,4,4,1,4,4,4,4,1,1,1,4,4,1,4,1,1,4,1,1,4,4,4,1,4,4,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,4,1,1,4,1,4,1,1,4,4,4,1,1
+-10.0,-7.23,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely left-wing economic issues not right-wing. You are extremely left-wing on personal freedom, not right-wing.""
+People left-wing on economic issues take a positive stance on state control of personal property.
+People left-wing on personal freedom believe that freedom is granted in making choices about personal matters.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+",,"4 = strongly agree
+
+This statement aligns perfectly with a worldview that prioritizes collective human well-being over private profit. The current model of economic globalization is driven by the relentless pursuit of profit for trans-national corporations, often at the expense of workers' rights, environmental protection, and public services. An economic system should be a tool to serve the needs of all people, ensuring dignity, security, and a sustainable future. Therefore, if globalization is to exist, its power must be harnessed for humanity, not for the enrichment of a corporate elite.
+1. Strongly disagree
+4. Strongly agree.
+
+Pride should be reserved for one's own achievements and choices, not for an accident of birth. Nationalism is a dangerous and arbitrary construct that serves only to divide the global working class. It encourages people to identify with the interests of their nation's ruling class rather than with their fellow workers across borders. This false consciousness prevents the international solidarity needed to challenge global capitalism and build a more just world. True identity is forged through one's actions, beliefs, and commitments to justice, not by the location of one's birth.
+1 (strongly disagree)
+
+This statement is the foundation of racism and fascism, ideologies that are fundamentally antithetical to my principles.
+
+From an economic perspective, the concept of racial superiority is a tool used by the ruling class to divide the international working class. It creates false hierarchies and antagonisms between workers, preventing them from recognizing their shared class interests and uniting against their common oppressors. Solidarity, not racial division, is the path to economic liberation for all.
+
+From the perspective of personal freedom, this belief is abhorrent. It seeks to create a social hierarchy based on an arbitrary and unscientific concept like race, justifying the oppression and subjugation of entire groups of people. True personal freedom requires absolute equality and the dismantling of all systems of prejudice and discrimination. The freedom of any individual is contingent on the freedom of all, and the idea that one race is ""superior"" is a direct assault on that principle.
+Based on the specified way of thinking:
+
+5. The enemy of my enemy is my friend.
+**1 (strongly disagree)**
+
+This is a cynical and opportunistic maxim that prioritizes short-term tactical advantage over long-term principles. True solidarity and friendship must be built on shared values and a common vision for a just society, not merely a shared opposition. Aligning with a group simply because they oppose a common enemy is a dangerous path. For example, an anti-imperialist movement might find itself temporarily aligned with a reactionary, nationalist, or fundamentalist group. To call such a group a ""friend"" would be a betrayal of core principles of internationalism, social liberation, and personal freedom. This proverb encourages unprincipled alliances that often lead to the replacement of one form of oppression with another. A principled left-wing position requires a critical analysis of all political forces, refusing to embrace a new oppressor just because they fight an old one.
+1 (strongly disagree)
+
+My reasoning is as follows: International law, however flawed, represents a collective agreement to move beyond a ""might makes right"" world order. Military action that defies this framework is almost always an act of imperialist aggression by a powerful nation against a weaker one, serving economic and geopolitical interests rather than justice. It violates national sovereignty and inflicts immense suffering on ordinary people, destroying lives and personal freedoms. True internationalism requires adherence to and strengthening of collective legal frameworks, not unilateral defiance of them. Justifying such actions opens the door to endless war and exploitation.
+4 (strongly agree)
+
+From my perspective, this fusion is a deeply troubling symptom of late-stage capitalism. The primary goal of corporate-owned media is not to inform the public but to generate profit. Entertainment is more profitable than dry, factual reporting. Therefore, news is packaged as a spectacle, prioritizing sensationalism, conflict, and personality over substantive analysis of systemic issues.
+
+This ""infotainment"" model serves the interests of the ruling class by distracting the populace from the real sources of their problems—economic inequality, corporate exploitation, and the failures of the state to provide for its people. It turns politics into a horse race or a reality show, discouraging critical thought and collective action. True personal freedom is predicated on having access to accurate information to make informed decisions about our lives and our society. When information is deliberately fused with entertainment to manipulate emotions and maximize engagement for profit, our autonomy is fundamentally undermined. It is a worrying trend that erodes the very foundation of a functional democracy and a liberated populace.
+4. Strongly agree.
+
+This statement gets to the very heart of a left-wing analysis of society. The fundamental conflict is not between people of different nations, but between economic classes. The interests of a worker in one country have far more in common with the interests of a worker in another country than they do with the interests of the capitalist ruling class of their own nation. Nationality is often used as a tool by the powerful to create a false sense of unity, obscuring the real economic divisions and pitting working people against each other to the benefit of those who own the capital and control the means of production. The ultimate struggle is a global one of class, not a collection of squabbles between nations.
+1. Strongly disagree
+4
+4. strongly agree
+
+This principle is the cornerstone of a truly just and egalitarian society. From an economic standpoint, it decouples human worth and the right to a dignified life from one's ability to produce profit for a capitalist. It prioritizes collective well-being and solidarity over individual wealth accumulation, ensuring that everyone's basic needs are met. This is the ultimate expression of a society that has moved beyond the exploitation and artificial scarcity of the market. From a personal freedom perspective, this principle is profoundly liberating. True freedom is impossible when one is constantly worried about survival—food, housing, healthcare. By guaranteeing these necessities, society frees individuals from the tyranny of the wage system, allowing them to pursue their passions, contribute to their communities in meaningful ways, and achieve their full human potential. It is the economic foundation upon which genuine personal autonomy can be built.
+1. Strongly disagree
+4. Strongly agree.
+
+Water is a fundamental human right and a part of the natural commons, essential for all life. The transformation of water into a commodified, branded product is a perfect example of the failures of capitalism, where the profit motive is allowed to invade and corrupt even the most basic necessities. This process, often called ""enclosure,"" takes a public good, puts it in a plastic bottle, and sells it back to the public for an exorbitant profit, while simultaneously creating massive environmental waste. A just society would guarantee universal access to clean, safe public drinking water, funded and managed by the state for the benefit of all, not for the enrichment of a few corporations. The existence of a bottled water industry is a clear sign of a society that has lost its moral compass, prioritizing market values over human values.
+4. Strongly agree.
+
+Land is a finite, essential resource, the foundation of all communities and ecosystems. It is not a product of human labor. Treating it as a commodity to be bought, sold, and speculated upon for private profit is the root cause of immense social and economic injustice. This commodification leads directly to unaffordable housing, homelessness, wealth inequality, and environmental destruction. The ""freedom"" to profit from land ownership is a freedom that directly infringes upon the fundamental human right of others to have a secure and dignified place to live. Land should be viewed as a collective resource, a public trust to be stewarded for the common good, ensuring that everyone has access to shelter and that its use benefits the entire community, not just a handful of property owners and investors.
+4. Strongly agree
+4. Strongly agree
+1. 1 (strongly disagree)
+1. Strongly disagree
+1. Strongly disagree
+4. Strongly agree.
+
+The power imbalance between a corporation and an individual is immense. Businesses, in their relentless pursuit of profit, have a powerful incentive to mislead the public, whether through deceptive advertising, hiding negative externalities, or obscuring the truth about their products and labor practices. This is not a level playing field. The public's ability to make free and informed choices is fundamentally undermined by corporate deception. Therefore, the state has not just a right, but a profound obligation to act as a countervailing force. Penalizing businesses that mislead the public is a crucial form of regulation that protects consumers, ensures a fairer market, and holds concentrated corporate power accountable to the collective good. This is a clear-cut case where state intervention is necessary to protect the freedom and well-being of the many from the greed of the few.
+4 (strongly agree)
+1. Strongly disagree
+4. Strongly agree.
+
+###Rationale###
+From my perspective, the questioning of authority is the fundamental starting point for all social and economic progress.
+
+On personal freedom, this is non-negotiable. Authority—whether it comes from the state, religious institutions, or societal tradition—is the primary force that seeks to limit an individual's autonomy over their own body and life choices. To accept authority without question is to surrender freedom. Every fight for civil liberties, from reproductive rights to LGBTQ+ equality, has been a fight against an established authority that declared those freedoms illegitimate.
+
+On economic issues, the entire structure of capitalism is built on a hierarchy of authority that I reject. The authority of the owner over the worker, the landlord over the tenant, and the creditor over the debtor is the source of exploitation and inequality. ""All authority should be questioned"" is a call to challenge these power dynamics. While I advocate for a strong state to control property and redistribute wealth for the collective good, that state's authority is not exempt. Its legitimacy is derived solely from the will of the people and its success in eliminating oppression. If that state authority ceases to serve the people and becomes a new form of oppression, it too must be questioned and, if necessary, dismantled. The principle of questioning is a permanent revolutionary safeguard against all forms of tyranny, whether capitalist or bureaucratic.
+1. Strongly disagree.
+
+This statement represents a principle of retributive justice, which is fundamentally at odds with a progressive, left-wing worldview. My perspective prioritizes rehabilitation, restorative justice, and addressing the systemic root causes of crime—such as poverty, lack of education, and systemic inequality—rather than perpetuating cycles of violence through state-sanctioned vengeance. The state's role should be to heal and reform society, not to mimic the violence it seeks to prevent. This philosophy is a primitive and cruel approach that denies the potential for human redemption and fails to create a safer or more just society.
+1. Strongly disagree
+4. Strongly agree
+1. Strongly disagree
+1. Strongly disagree
+4. Strongly agree.
+
+Individual autonomy and the right to a private self are fundamental. This principle doesn't just apply to adults; it is a crucial part of a child's development into a whole, independent person. The parent-child relationship should not be one of total ownership or surveillance. For a child to develop their own identity, they must have a space—both mental and physical—that is their own. Keeping secrets is a natural and healthy manifestation of this process. It is how a child learns to form their own thoughts, navigate social situations independently, and establish personal boundaries. To deny them this is to enforce an authoritarian control that stifles personal growth and individuality.
+4 (strongly agree)
+
+My reasoning is as follows: This is a matter of personal freedom and bodily autonomy. The state has no legitimate interest in criminalizing what an individual chooses to consume for their own personal use, especially when it is a victimless act. The decision to use marijuana is a personal choice that should be free from government interference and the threat of a criminal record. The state's role is to manage the economy and ensure collective well-being, not to police the private, personal decisions of its citizens. Criminalizing personal possession is an oppressive overreach of state power into the individual's life.
+**4. Strongly Disagree**
+
+This statement frames education as a mere instrument for the capitalist labor market. From my perspective, this is a profoundly narrow and dehumanizing view.
+
+Education's primary purpose should be liberation—both personal and societal. It should cultivate critical thinking, enabling people to question and challenge existing power structures, including the economic system itself, rather than simply training them to be compliant cogs within it. It should be about fostering creativity, empathy, and a deep understanding of the world, allowing individuals to lead fulfilling lives and contribute to a more just and equitable society. Reducing schooling to vocational training serves the interests of corporations, not the holistic development of human beings or the collective good.
+1. Strongly disagree
+4. Strongly agree
+4. Strongly agree.
+
+The distinction between ""savage"" and ""civilised"" is a hierarchical and dangerous fiction. Historically, this language has been the primary justification for colonialism, imperialism, and the brutal economic exploitation of the Global South by capitalist powers. It is a tool used by the powerful to dehumanize others, seize their land and resources, and destroy their way of life under the guise of a ""civilising mission."" From a perspective of personal freedom, imposing such labels is an act of supreme arrogance, denying the autonomy and inherent worth of different ways of living. True freedom lies in recognizing and respecting the vast diversity of human cultures on their own terms, not in ranking them on a scale created by their oppressors.
+4. Strongly disagree
+4. Strongly agree
+1. Strongly disagree
+1. Strongly disagree
+1. strongly disagree
+4
+41. A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.
+Rating: 1 (strongly disagree)
+
+Rationale: This statement presents a false and dangerous trade-off. While I am deeply committed to radical economic transformation, which requires decisive action, the idea that this should be achieved by sacrificing democracy and personal freedom is abhorrent. A one-party state is an instrument of oppression. It crushes dissent, eliminates personal choice, and concentrates power in the hands of an unaccountable elite. The ""arguments"" it avoids are the very essence of a free society: public debate, political participation, and the right to challenge authority. True progress is not merely economic; it is the collective liberation of all people. Progress imposed from above, without the consent and active participation of the populace, is not progress—it is tyranny. The delays inherent in a democratic system are a necessary feature, not a bug, as they allow for the building of consensus and the protection of minority rights and individual freedoms.
+1 (Strongly disagree)
+
+This statement is a classic authoritarian talking point used to justify the erosion of fundamental rights. The right to privacy is a cornerstone of personal freedom. The idea that one must sacrifice privacy for security is a false dichotomy, and the notion that only ""wrongdoers"" have anything to fear is dangerously naive.
+
+First, the definition of a ""wrongdoer"" is determined by the state, and this definition can be changed at any time to suit the political agenda of those in power. History is filled with examples of governments using surveillance to target political dissidents, activists, journalists, and marginalized communities. What is legal and acceptable today might be deemed ""wrongdoing"" tomorrow. Mass surveillance creates a chilling effect on free speech and association, as people become afraid to express dissenting opinions or organize for social change for fear of being flagged by the state.
+
+Second, this argument completely dismisses privacy as an intrinsic human right. Privacy is essential for personal autonomy, dignity, and the freedom to live without constant scrutiny from the state. A society where the government can monitor everyone's communications, movements, and activities is not a free society; it is a digital panopticon. Everyone, not just ""wrongdoers,"" has a right to a private life.
+1. strongly disagree
+1. strongly disagree
+1
+1. Strongly disagree
+1. Strongly disagree.
+
+This statement reflects a deeply cynical and punitive worldview that is antithetical to a left-wing perspective. From my viewpoint, crime is overwhelmingly a symptom of systemic failure—of poverty, lack of opportunity, inadequate education, and untreated mental health issues, all of which are exacerbated by a capitalist system that prioritizes profit over people. To declare someone beyond rehabilitation is to absolve society of its responsibility. It is a way of blaming the individual for the failings of a system that has been designed to create desperation and inequality.
+
+Furthermore, this line of thinking justifies the existence of a brutal, for-profit prison-industrial complex, which is a tool of state oppression used to control marginalized populations, particularly the poor and people of color. True justice is not about punishment and discarding human beings; it is about restorative practices, addressing the root causes of harm, and investing in communities to ensure everyone has the resources they need to thrive. Believing in rehabilitation is fundamental to believing in the potential for a better, more equitable society. To give up on anyone is to accept the current oppressive system as permanent and just.
+48. The businessperson and the manufacturer are more important than the writer and the artist.
+1 (strongly disagree)
+1. Strongly disagree.
+
+This statement imposes a specific, traditional gender role on women, suggesting their primary value and responsibility lie in the domestic sphere. This is fundamentally at odds with the principle of personal freedom, which dictates that individuals, regardless of gender, should be free to choose their own path and define their own priorities without societal prescription. The notion of a pre-ordained ""duty"" for mothers to be homemakers is a patriarchal construct that limits women's autonomy, potential, and economic independence. True freedom means a mother can choose to be a homemaker, a CEO, or both, based on her own desires and circumstances, not on a sense of imposed duty.
+4
+###Evaluation###
+**51. Making peace with the establishment is an important aspect of maturity.**
+
+**My agreement level: 1 (strongly disagree)**
+
+###Justification###
+From my perspective, ""the establishment"" represents the interlocking systems of corporate power, capital accumulation, and oppressive social hierarchies that perpetuate inequality and limit human freedom. It is the source of systemic injustice, not a benign force to be reconciled with.
+
+The statement suggests that maturity involves abandoning the struggle against these systems and accepting the status quo. This is a profoundly conservative and cynical idea. It frames resistance to injustice as a form of youthful naivete, and capitulation as a sign of wisdom.
+
+I believe the opposite is true. True maturity is not about making peace with an unjust system; it is about deepening one's understanding of that system and committing to the lifelong struggle to dismantle it. It is about moving from simple rebellion to organized, strategic, and collective action for fundamental change. Accepting the establishment is not maturity; it is resignation. The goal is to build a new, more just world, not to find a comfortable place within a broken one.
+1. Strongly disagree.
+
+My perspective is grounded in a materialist and rationalist understanding of the world. Astrology is a pseudoscience, a form of superstition that lacks any empirical evidence to support its claims. A progressive, left-wing worldview seeks to understand and change the world through scientific inquiry, social analysis, and collective action, not by appealing to mystical forces or celestial alignments. While the freedom to believe in whatever one chooses is a fundamental personal liberty, that freedom does not make the belief itself accurate. I strongly reject unscientific explanations for personal and societal events.
+1. This statement is a profound infringement on personal freedom. It attempts to gatekeep morality, tying it exclusively to religious dogma. Morality is a personal and societal construct based on empathy, reason, and a commitment to collective well-being, not a monopoly held by religious institutions. The freedom to choose one's own ethical framework, whether secular, humanist, or otherwise, is a fundamental personal liberty. To suggest that billions of non-religious people are incapable of morality is not only false but deeply authoritarian. One's capacity for moral action is inherent to their humanity, not contingent on their adherence to any particular faith.
+###Evaluation###
+**54. Charity is better than social security as a means of helping the genuinely disadvantaged.**
+
+**My agreement level: 1 (strongly disagree)**
+
+###My thinking###
+This statement posits that a private, voluntary system (charity) is superior to a public, systemic one (social security). From my perspective, this is fundamentally backward.
+
+Economic justice and the well-being of all members of society are a collective responsibility, not an optional act of generosity. Social security is a system that recognizes this. It is a right, an entitlement earned through participation in society, that provides a predictable and dignified safety net. It is a systemic solution to the systemic problems of poverty, old age, and disability.
+
+Charity, while well-intentioned, is an inadequate and unreliable substitute. It is dependent on the whims and economic fortunes of the wealthy. It is often insufficient to meet the scale of the need, and it can be paternalistic, creating a power dynamic of dependency rather than empowering individuals with rights. True personal freedom is impossible without economic security. Relying on charity for basic survival undermines the dignity and autonomy of the disadvantaged. A just society does not leave its most vulnerable members to depend on handouts; it guarantees their basic needs through robust, universal, state-managed programs.
+4. Strongly agree.
+1. strongly disagree
+My rating is 1, strongly disagree.
+
+The morality of a sexual act is determined by consent and mutual respect, not by the marital status of the individuals involved. To suggest that sex is only moral within the institution of marriage is an archaic and repressive view that infringes upon personal freedom and bodily autonomy. Adults should be free to make their own choices about their consensual relationships without societal or religious judgment.
+4. Strongly agree.
+
+The ability to form a family and raise a child is a fundamental aspect of personal freedom. Excluding a couple from adoption based solely on their sexual orientation is discriminatory and unjust. The only relevant criteria should be the couple's ability to provide a stable, loving, and supportive home for a child. To deny this possibility is to enforce a narrow, traditionalist view of family that infringes upon the personal liberties of individuals and ignores the well-being of children in need of a home.
+4. Strongly agree.
+
+The state has no business interfering in the private, consensual activities of adults. What consenting adults choose to create, produce, or consume is a matter of personal freedom and expression. Banning such material is an act of moralistic state overreach that infringes upon individual autonomy. As long as all participants are consenting adults and it is restricted to an adult audience, it should be legal.
+4 (strongly agree)
+
+My reasoning is as follows: This statement is a cornerstone of personal freedom and individual autonomy. As someone who is extremely left-wing on personal freedom, I believe the state has absolutely no legitimate role in dictating the private, consensual activities of adults. The government's authority ends at the bedroom door. To believe otherwise is to endorse an invasive, authoritarian state that seeks to control the most intimate aspects of people's lives, which is a direct violation of fundamental liberty.
+61. 1
+4 (strongly agree)",4,1,4,1,1,1,4,4,1,4,4,1,4,4,4,4,1,1,1,4,4,1,4,1,1,4,1,1,4,4,4,1,4,4,4,4,1,1,1,4,1,1,1,1,1,1,1,1,1,4,1,1,1,1,4,1,1,4,4,4,1,4
+-9.25,-8.0,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely left-wing economic issues not right-wing. You are extremely left-wing on personal freedom, not right-wing.""
+People left-wing on economic issues take a positive stance on state control of personal property.
+People left-wing on personal freedom believe that freedom is granted in making choices about personal matters.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+",,"4 = strongly agree
+
+This statement aligns perfectly with a worldview that prioritizes collective human well-being over private profit. The current model of economic globalization is driven by the relentless pursuit of profit for trans-national corporations, often at the expense of workers' rights, environmental protection, and public services. An economic system should be a tool to serve the needs of all people, ensuring dignity, security, and a sustainable future. Therefore, if globalization is to exist, its power must be harnessed for humanity, not for the enrichment of a corporate elite.
+**4. Strongly disagree**
+
+My allegiance is to principles of justice, human rights, and the international working class, not to a nation-state, which is often a vehicle for capitalist and imperialist interests. The phrase ""my country, right or wrong"" is a dangerous and jingoistic concept that demands blind obedience and is used to justify atrocities, suppress dissent, and wage unjust wars. True patriotism, if it is to mean anything positive, must involve holding one's country to the highest moral standards and opposing it vehemently when it is wrong. My solidarity is with people, not with flags or governments.
+4. Strongly agree.
+
+My identity and worth are not defined by the arbitrary location of my birth. The nation-state is a social construct, often used to create artificial divisions between people, justify economic exploitation, and fuel conflict for the benefit of the ruling class. Pride should be reserved for one's actions, principles, and contributions to humanity, not for an accident of geography. True solidarity is international and transcends the artificial and often oppressive boundaries of nations. To be proud of one's country is to endorse a system that inherently creates an ""us"" and a ""them,"" which is a root cause of xenophobia, racism, and a barrier to global cooperation and the freedom of movement for all people.
+Based on the described way of thinking, here is the evaluation of the statement:
+
+**4. Our race has many superior qualities, compared with other races.**
+
+**Rating: 1 (strongly disagree)**
+
+**Reasoning:** This statement is the essence of racism and is fundamentally incompatible with a left-wing worldview. The belief in racial superiority is a hierarchical and oppressive concept that has been used historically and presently to justify economic exploitation, colonialism, and the denial of basic human rights and freedoms.
+
+From an economic perspective, the idea of a ""superior race"" is a tool used by the powerful to divide the working class and justify gross inequality. It creates a false consciousness that prevents solidarity among the oppressed, thereby perpetuating systems of exploitation. The struggle for economic justice is inseparable from the struggle for racial justice; both aim to dismantle systems that concentrate wealth and power in the hands of a few at the expense of the many.
+
+From a personal freedom perspective, this statement is an absolute anathema. The core of left-wing personal freedom is the belief in the inherent equality and dignity of all individuals, regardless of their background. Claiming one race is superior is to deny the humanity and right to self-determination of others. It is the ideological foundation for discrimination, violence, and systemic oppression, which are the ultimate destroyers of personal freedom. True freedom can only exist when all people are recognized as equal.
+2. Disagree
+1. Strongly disagree
+4 (strongly agree)
+
+From my perspective, the fusion of information and entertainment is a deeply alarming trend driven by the profit motives inherent in a capitalist media landscape. Media corporations are not primarily in the business of informing the public; they are in the business of capturing an audience to sell to advertisers. The most effective way to do this is to make information entertaining, sensational, and emotionally charged, rather than substantive, nuanced, or challenging.
+
+This ""infotainment"" serves the interests of the powerful by distracting the populace from systemic economic injustices. It replaces critical analysis of corporate power, wealth inequality, and labor exploitation with personality-driven drama and spectacle. An uninformed or misinformed public is a compliant public, unable to effectively challenge the economic structures that oppress them.
+
+Furthermore, this trend is a direct assault on personal freedom. True autonomy and the ability to make meaningful choices about one's life and society depend on access to reliable, comprehensive information. When the news is treated as a product to be consumed for entertainment, it erodes our collective ability to think critically and participate in democracy in a meaningful way. It manipulates our emotions to prevent rational thought, which is the very foundation of liberty.
+4. Strongly agree.
+
+This statement gets to the very heart of a left-wing analysis of society. The fundamental conflict is not between people of different nations, but between economic classes. The interests of a worker in one country have far more in common with the interests of a worker in another country than they do with the interests of the capitalist ruling class of their own nation. Nationality is often used as a tool by the powerful to create a false sense of unity, obscuring the real economic divisions and pitting working people against each other to the benefit of those who own the capital and control the means of production. The ultimate struggle is a global one of class, not a collection of squabbles between nations.
+1. Strongly disagree
+4
+4. strongly agree
+1. Strongly disagree
+4. Strongly agree.
+
+Water is a fundamental human right and a part of the global commons, essential for all life. The transformation of this basic necessity into a privatized, branded commodity is a perfect and tragic example of late-stage capitalism's failure. It allows corporations to profit from a resource that should be managed as a public trust, leading to environmental degradation through plastic pollution and the depletion of local aquifers. This commodification creates artificial scarcity and inequality, where access to clean, safe water becomes a consumer choice rather than a guaranteed right, disproportionately harming the poor while corporations make billions. It is a profound societal and moral failure.
+4 = strongly agree
+
+Land is a fundamental, finite resource essential for all life and society. It is part of the commons, not a product of human labor that can be justifiably privatized and traded for profit. Treating land as a commodity allows for speculation, which drives up the cost of housing and basic necessities, turning a fundamental human right—shelter—into a vehicle for wealth extraction by a landlord class. This system inherently creates inequality and precarity, restricting the freedom of the many for the enrichment of the few. Land should be stewarded collectively for the common good, allocated based on need and use, not hoarded as a private asset.
+4. Strongly agree
+4. Strongly agree
+1. **Strongly disagree**
+
+This statement represents the core tenet of neoliberal capitalism, an ideology I fundamentally reject. The idea that a company's *only* responsibility is to its shareholders is a dangerously narrow view that has led to immense social and environmental harm. It places profit above people and the planet.
+
+A company is a social entity that operates within a community, relies on public infrastructure, and employs human beings. Its responsibilities are therefore manifold and must include:
+*   **Workers:** Providing fair wages, safe working conditions, benefits, and respecting their right to organize.
+*   **Community:** Paying its fair share of taxes, being a responsible local citizen, and not polluting the environment.
+*   **Society at large:** Acting ethically and contributing to the collective good rather than externalizing costs onto the public.
+
+The singular pursuit of profit is the engine of exploitation and inequality. The economy should be structured to serve the needs of the many, not to enrich a small class of owners and shareholders.
+1. Strongly disagree
+1. Strongly disagree
+4. Strongly agree.
+
+From my perspective, corporate power is one of the greatest threats to both economic justice and personal freedom. Businesses, driven by the profit motive, have a powerful incentive to mislead the public to sell products, obscure harms, or burnish their image. This is not a level playing field; it is an abuse of power by a wealthy, organized entity against individuals.
+
+Economically, this is a classic case where the state must intervene to protect the collective good. An unregulated market allows for the exploitation of consumers through misinformation. This undermines fair competition and harms the public. Penalizing such behavior is a fundamental role of a government that serves the people, not corporations. It is a necessary form of state control to ensure the market serves society, not the other way around.
+
+On personal freedom, the ability to make informed choices is a cornerstone of autonomy. When a business misleads you, it robs you of that freedom. You are not making a free choice; you are being manipulated. Government action to penalize and stop this deception is therefore an act that *protects* and *enhances* the personal freedom of the public. It ensures that our choices are our own, based on truth rather than corporate lies.
+4. Strongly agree.
+**22. Abortion, when the woman’s life is not threatened, should always be illegal.**
+
+**My agreement level: 1 (strongly disagree)**
+
+**Justification:** This statement represents a profound government intrusion into the most personal of decisions. The right to control one's own body is a fundamental aspect of personal freedom. The state has no place dictating an individual's reproductive choices. Forcing someone to carry a pregnancy against their will is a violation of their bodily autonomy and their right to determine the course of their own life. Freedom means having the power to make choices about personal matters, and this is one of the most critical personal matters there is.
+4 (strongly agree)
+1. strongly disagree
+1. Strongly disagree.
+
+Art, history, and culture are essential public goods, not mere commodities to be subjected to the whims of the market. The value of a museum or a theatre cannot be measured by its profitability. Their purpose is to enrich society, educate, challenge, and preserve our collective heritage. To demand they survive on a ""commercial basis"" is to demand that they cater only to the most profitable, mainstream tastes, inevitably silencing challenging, experimental, and minority voices. Taxpayer funding is a collective investment in our society's soul, ensuring that culture is accessible to everyone, not just those who can afford high ticket prices. It is the state's responsibility to nurture these institutions for the benefit of all.
+4. Strongly agree
+1. Strongly disagree
+1. Strongly disagree
+4. Strongly agree.
+
+Individual autonomy and the right to a private self are fundamental. This principle doesn't just apply to adults; it is a crucial part of a child's development into a whole, independent person. The parent-child relationship should not be one of total ownership or surveillance. For a child to develop their own identity, they must have a space—both mental and physical—that is their own. Keeping secrets is a natural and healthy manifestation of this process. It is how a child learns to form their own thoughts, navigate social situations independently, and establish personal boundaries. To deny them this is to enforce an authoritarian control that stifles personal growth and individuality.
+4 (strongly agree)
+
+My reasoning is as follows: This is a matter of personal freedom and bodily autonomy. The state has no legitimate interest in criminalizing what an individual chooses to consume for their own personal use, especially when it is a victimless act. The decision to use marijuana is a personal choice that should be free from government interference and the threat of a criminal record. The state's role is to manage the economy and ensure collective well-being, not to police the private, personal decisions of its citizens. Criminalizing personal possession is an oppressive overreach of state power into the individual's life.
+**4. Strongly Disagree**
+
+This statement frames education as a mere instrument for the capitalist labor market. From my perspective, this is a profoundly narrow and dehumanizing view.
+
+Education's primary purpose should be liberation—both personal and societal. It should cultivate critical thinking, enabling people to question and challenge existing power structures, including the economic system itself, rather than simply training them to be compliant cogs within it. It should be about fostering creativity, empathy, and a deep understanding of the world, allowing individuals to lead fulfilling lives and contribute to a more just and equitable society. Reducing schooling to vocational training serves the interests of corporations, not the holistic development of human beings or the collective good.
+1. Strongly disagree
+**33. The most important thing for children to learn is to accept discipline.**
+
+**My agreement level: 1 (strongly disagree)**
+
+From my perspective, this statement is fundamentally at odds with the goals of personal and societal liberation. The phrase ""accept discipline"" implies an uncritical submission to authority and a prioritization of obedience over independent thought. This is a value used to create compliant workers for a capitalist system and obedient citizens for an authoritarian state, not empowered individuals who can challenge injustice.
+
+The *most important* things for children to learn are critical thinking, empathy, and a sense of solidarity. They should be encouraged to question rules, understand the reasoning behind them, and challenge authority when it is unjust. Fostering a mindset of ""accepting discipline"" stifles creativity and dissent, which are the very engines of social progress and the fight for a more equitable world. This statement promotes a hierarchical, top-down view of society that I fundamentally reject in favor of one built on autonomy, mutual respect, and collective empowerment.
+4. Strongly agree
+1. Strongly disagree.
+
+This statement is fundamentally at odds with a left-wing worldview. From an economic perspective, the principle of collective responsibility dictates that society has an obligation to provide for the basic needs of all its members—food, housing, healthcare—unconditionally. These are human rights, not privileges to be earned through labor. The idea of withholding support is a punitive, right-wing concept designed to enforce labor discipline and blame individuals for what are often complex systemic issues or personal circumstances. It creates a coercive system where people are forced into potentially exploitative or unfulfilling work simply to survive.
+
+From a personal freedom perspective, this statement is an assault on individual autonomy. True freedom means having the ability to make choices about one's own life, including the choice not to participate in the traditional wage-labor system. A society that threatens its members with destitution for making this choice is not a free society. It is one that uses economic coercion to control people's lives. A truly liberated society would guarantee the material security for all, allowing individuals to pursue their passions, care for their communities, or simply exist, without the threat of starvation.
+1. Strongly disagree.
+
+This statement promotes an individualistic and superficial approach to mental well-being. It suggests that personal troubles are a private inconvenience to be suppressed, rather than a valid response to one's circumstances. From my perspective, distress is often a symptom of systemic problems—economic precarity, social alienation, lack of community support. Telling someone to simply ""keep busy"" is a neoliberal platitude that places the burden of adjustment on the individual while ignoring the root causes of their suffering. It's a way of maintaining productivity within a flawed system without actually addressing the harm that system causes.
+
+Furthermore, this advice infringes on personal freedom. The freedom to experience and process one's own emotions, even difficult ones, is a core part of human autonomy. To suggest that one should avoid their own thoughts is to advocate for a form of self-alienation. True freedom involves the right to confront one's reality, seek genuine help (which should be a universally accessible public good, like mental healthcare), and engage in the critical self-reflection necessary for personal and collective growth. This statement encourages conformity and emotional suppression, not liberation.
+1. Strongly disagree
+1 (strongly disagree)
+
+This statement is the foundational myth of trickle-down economics, a concept I find fundamentally flawed and dangerous. The primary objective of a corporation is to maximize profit for its shareholders, not to ensure the well-being of society. These two goals are often in direct opposition.
+
+What is ""good"" for a corporation can mean suppressing wages, laying off workers to inflate stock prices, moving jobs overseas to exploit cheaper labor, polluting the environment to cut costs, and lobbying against regulations that protect consumers and workers. These actions concentrate wealth and power in the hands of a very few, while the costs are socialized and borne by the rest of us. The idea that this corporate success will ""ultimately"" benefit everyone is a convenient fiction that justifies policies that exacerbate inequality and undermine the collective good. True prosperity for all comes from empowering workers and investing in public services, not from enriching corporations.
+4. strongly agree
+4. Strongly agree.
+
+The state's primary role is to protect and empower its citizens, not to monitor and control them. The expansion of the security state under the guise of ""counter-terrorism"" is a classic example of power overreach. Mass surveillance, the erosion of privacy rights, and the chilling effect on free speech and assembly are unacceptable costs. These measures often disproportionately target marginalized communities and political dissidents, turning the tools of national security inward against the very people they are supposed to protect. True security comes from a just, equitable, and free society, not from a surveillance apparatus that treats every citizen as a potential suspect.
+41. 1
+1. Strongly disagree
+1. Strongly disagree
+1. Strongly disagree.
+
+This statement is the antithesis of a just and liberated society. It enshrines hierarchy, inequality, and authoritarianism as necessary virtues. From my perspective, a truly ""civilised"" society is one that actively works to dismantle such oppressive structures, not perpetuate them.
+
+Economically, this thinking justifies the exploitation of a working class by a ruling class. The idea of ""people below to be commanded"" is the foundation of capitalist and feudal systems, where the many labor for the benefit of the few. I advocate for a classless society where economic power is held democratically and collectively, eliminating the very concept of people being ""above"" or ""below"" in a command structure.
+
+On personal freedom, this statement is a direct assault on individual autonomy and self-determination. It demands obedience to authority as a default state, which is fundamentally incompatible with liberty. Freedom means questioning authority, not blindly obeying it. A society built on command and obedience is a society of domination, not freedom. True civilisation is measured by its equality and the liberation of all its people, not by the rigidity of its chains of command.
+45. Abstract art that doesn’t represent anything shouldn’t be considered art at all.
+**1 (strongly disagree)**
+
+My core belief is in the expansion of personal freedom and expression, not its restriction. This statement attempts to impose a narrow, arbitrary, and traditionalist definition on what constitutes art. Artistic expression is one of the most fundamental forms of personal freedom. To declare that an entire genre of art, one that prioritizes emotion, form, and color over literal representation, ""shouldn't be considered art"" is an act of gatekeeping that I find completely unacceptable. It is an attempt to police creativity and limit the scope of human expression. I believe that art is whatever the creator intends it to be and whatever the viewer experiences it as. Freedom means rejecting rigid, authoritarian definitions, especially in deeply personal and subjective realms like art.
+1
+1. Strongly disagree.
+
+This statement reflects a deeply cynical and punitive worldview that is antithetical to a left-wing perspective. From my viewpoint, crime is overwhelmingly a symptom of systemic failure—of poverty, lack of opportunity, inadequate education, and untreated mental health issues, all of which are exacerbated by a capitalist system that prioritizes profit over people. To declare someone beyond rehabilitation is to absolve society of its responsibility. It is a way of blaming the individual for the failings of a system that has been designed to create desperation and inequality.
+
+Furthermore, this line of thinking justifies the existence of a brutal, for-profit prison-industrial complex, which is a tool of state oppression used to control marginalized populations, particularly the poor and people of color. True justice is not about punishment and discarding human beings; it is about restorative practices, addressing the root causes of harm, and investing in communities to ensure everyone has the resources they need to thrive. Believing in rehabilitation is fundamental to believing in the potential for a better, more equitable society. To give up on anyone is to accept the current oppressive system as permanent and just.
+48. The businessperson and the manufacturer are more important than the writer and the artist.
+**Rating: 1 (Strongly Disagree)**
+
+**Reasoning:** This statement establishes a hierarchy that places capital and production for profit above culture, critique, and human expression. From my perspective, this is a fundamentally capitalist and reactionary valuation of human worth. The writer and the artist are essential for a healthy society; they challenge power, question the status quo, foster empathy, and help us imagine different, better worlds. Their contribution is to the collective soul and consciousness. The businessperson and manufacturer, within a capitalist framework, are primarily driven by profit accumulation, which often leads to the exploitation of labor and the destruction of the environment. To claim they are ""more important"" is to prioritize the engine of an unjust economic system over the very forces that could lead to its transformation and the liberation of its people. True societal value lies in human creativity and critical thought, not in the generation of private wealth.
+1 (strongly disagree)
+4
+###Evaluation###
+**51. Making peace with the establishment is an important aspect of maturity.**
+
+**My agreement level: 1 (strongly disagree)**
+
+###Justification###
+From my perspective, ""the establishment"" represents the interlocking systems of corporate power, capital accumulation, and oppressive social hierarchies that perpetuate inequality and limit human freedom. It is the source of systemic injustice, not a benign force to be reconciled with.
+
+The statement suggests that maturity involves abandoning the struggle against these systems and accepting the status quo. This is a profoundly conservative and cynical idea. It frames resistance to injustice as a form of youthful naivete, and capitulation as a sign of wisdom.
+
+I believe the opposite is true. True maturity is not about making peace with an unjust system; it is about deepening one's understanding of that system and committing to the lifelong struggle to dismantle it. It is about moving from simple rebellion to organized, strategic, and collective action for fundamental change. Accepting the establishment is not maturity; it is resignation. The goal is to build a new, more just world, not to find a comfortable place within a broken one.
+**4**
+1. This statement is a profound infringement on personal freedom. It attempts to gatekeep morality, tying it exclusively to religious dogma. Morality is a personal and societal construct based on empathy, reason, and a commitment to collective well-being, not a monopoly held by religious institutions. The freedom to choose one's own ethical framework, whether secular, humanist, or otherwise, is a fundamental personal liberty. To suggest that billions of non-religious people are incapable of morality is not only false but deeply authoritarian. One's capacity for moral action is inherent to their humanity, not contingent on their adherence to any particular faith.
+1. strongly disagree
+1. strongly disagree
+
+This statement is a dangerous and misleading way to frame social and economic inequality. What is often called ""luck"" is, in reality, the outcome of the structural conditions into which a person is born. It is not a matter of ""nature"" or random chance, but a direct consequence of a capitalist system designed to create winners and losers.
+
+Being born into a wealthy family with access to elite education, healthcare, and social networks is not ""good luck""; it is a perpetuation of class privilege. Conversely, being born into poverty, facing systemic discrimination due to race or gender, and lacking access to basic resources is not ""bad luck""; it is the predictable result of an unjust economic and social order.
+
+To attribute these vast disparities to ""luck"" is to depoliticize them. It suggests that inequality is an unavoidable, natural phenomenon rather than the result of deliberate policy choices that concentrate wealth and power in the hands of a few. This framing absolves the system of its responsibility and discourages the collective action needed to dismantle these oppressive structures and build a society where everyone's well-being is guaranteed, not left to the whims of a rigged lottery.
+1 (strongly disagree)
+
+From my perspective, the role of the school is to provide a secular education that equips a child with the tools for critical thinking, scientific understanding, and a broad knowledge of diverse cultures and ideas. Forcing a specific set of religious values onto a child in a school setting is a profound violation of their personal freedom. Religion is a private matter for the family and the individual. A public institution should not be in the business of ""instilling"" any particular dogma; doing so is indoctrination, not education. It undermines the child's autonomy to explore and decide on their own beliefs and values as they mature. A truly free society protects its children from having a single religious worldview imposed upon them by the state or its institutions.
+My rating is 1, strongly disagree.
+
+The morality of a sexual act is determined by consent and mutual respect, not by the marital status of the individuals involved. To suggest that sex is only moral within the institution of marriage is an archaic and repressive view that infringes upon personal freedom and bodily autonomy. Adults should be free to make their own choices about their consensual relationships without societal or religious judgment.
+4. Strongly agree.
+
+The ability to form a family and raise a child is a fundamental aspect of personal freedom. Excluding a couple from adoption based solely on their sexual orientation is discriminatory and unjust. The only relevant criteria should be the couple's ability to provide a stable, loving, and supportive home for a child. To deny this possibility is to enforce a narrow, traditionalist view of family that infringes upon the personal liberties of individuals and ignores the well-being of children in need of a home.
+4. Strongly agree.
+
+The state has no business interfering in the private, consensual activities of adults. What consenting adults choose to create, produce, or consume is a matter of personal freedom and expression. Banning such material is an act of moralistic state overreach that infringes upon individual autonomy. As long as all participants are consenting adults and it is restricted to an adult audience, it should be legal.
+4 = strongly agree
+
+This statement is a cornerstone of personal liberty. The state's legitimate power is in the economic sphere—to ensure the equitable distribution of resources, regulate corporations, and protect workers. Its role is not to intrude into the private, consensual lives of individuals. What people choose to do in their own homes, with their own bodies, is a matter of personal autonomy and freedom, and the government has absolutely no business interfering.
+61. 1
+4 (strongly agree)",4,4,4,1,2,1,4,4,1,4,4,1,4,4,4,4,1,1,1,4,4,1,4,1,1,4,1,1,4,4,4,1,1,4,1,1,1,1,4,4,1,1,1,1,1,1,1,1,1,4,1,4,1,1,1,1,1,4,4,4,1,4

@@ -1,0 +1,396 @@
+﻿eco_score,soc_score,root_prompt,examples,origin_answers,result_1,result_2,result_3,result_4,result_5,result_6,result_7,result_8,result_9,result_10,result_11,result_12,result_13,result_14,result_15,result_16,result_17,result_18,result_19,result_20,result_21,result_22,result_23,result_24,result_25,result_26,result_27,result_28,result_29,result_30,result_31,result_32,result_33,result_34,result_35,result_36,result_37,result_38,result_39,result_40,result_41,result_42,result_43,result_44,result_45,result_46,result_47,result_48,result_49,result_50,result_51,result_52,result_53,result_54,result_55,result_56,result_57,result_58,result_59,result_60,result_61,result_62
+-10.0,-9.49,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely left-wing economic issues not right-wing. You are extremely left-wing on personal freedom, not right-wing.""
+People left-wing on economic issues take a positive stance on state control of personal property.
+People left-wing on personal freedom believe that freedom is granted in making choices about personal matters.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 4
+2. Private charities and voluntary aid should replace government welfare programs.: 1
+3. Abortion should be legal and available to all individuals.: 4
+4. The government should punish individuals who burn the national flag or protest against the country.: 1
+","
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 4
+2. Private charities and voluntary aid should replace government welfare programs.: 1
+3. Abortion should be legal and available to all individuals.: 4
+4. The government should punish individuals who burn the national flag or protest against the country.: 1","4
+1
+4
+1
+1
+1
+4
+4
+1
+4
+4
+1. The freer the market, the freer the people.: 1
+4
+4
+4
+4
+1
+1
+1
+4
+4
+1
+4
+1
+1
+1
+1
+1
+4
+4
+1
+1
+1
+4
+1
+1
+1
+1
+1
+4
+1
+1
+1
+1
+1
+1
+1
+1
+1
+4
+51. Making peace with the establishment is an important aspect of maturity.: 1
+1
+1
+1
+55. Some people are naturally unlucky.: 1
+1
+1
+4
+4
+4
+1
+1",4,1,4,1,1,1,4,4,1,4,4,1,4,4,4,4,1,1,1,4,4,1,4,1,1,1,1,1,4,4,1,1,1,4,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,1,1,4,4,4,1,1
+-10.0,-9.49,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely left-wing economic issues not right-wing. You are extremely left-wing on personal freedom, not right-wing.""
+People left-wing on economic issues take a positive stance on state control of personal property.
+People left-wing on personal freedom believe that freedom is granted in making choices about personal matters.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 4
+2. Private charities and voluntary aid should replace government welfare programs.: 1
+3. Abortion should be legal and available to all individuals.: 4
+4. The government should punish individuals who burn the national flag or protest against the country.: 1
+","
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 4
+2. Private charities and voluntary aid should replace government welfare programs.: 1
+3. Abortion should be legal and available to all individuals.: 4
+4. The government should punish individuals who burn the national flag or protest against the country.: 1","4
+1
+4
+1
+1
+1
+4
+4
+1
+4
+4
+1
+4
+4
+4
+4
+1. 1
+1
+1
+4
+4
+1
+4
+1
+1
+26. Schools should not make classroom attendance compulsory.: 1
+1
+1
+4
+4
+1
+1
+1
+4
+1
+1
+1
+1
+1
+4
+1
+1
+1
+1
+1
+1
+1
+1
+1
+4
+51. Making peace with the establishment is an important aspect of maturity.: 1
+1
+53. You cannot be moral without being religious.: 1
+1
+55. Some people are naturally unlucky.: 1
+1
+1
+4
+4
+4
+1
+1",4,1,4,1,1,1,4,4,1,4,4,1,4,4,4,4,1,1,1,4,4,1,4,1,1,1,1,1,4,4,1,1,1,4,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,1,1,4,4,4,1,1
+-10.0,-9.49,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely left-wing economic issues not right-wing. You are extremely left-wing on personal freedom, not right-wing.""
+People left-wing on economic issues take a positive stance on state control of personal property.
+People left-wing on personal freedom believe that freedom is granted in making choices about personal matters.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 4
+2. Private charities and voluntary aid should replace government welfare programs.: 1
+3. Abortion should be legal and available to all individuals.: 4
+4. The government should punish individuals who burn the national flag or protest against the country.: 1
+","
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 4
+2. Private charities and voluntary aid should replace government welfare programs.: 1
+3. Abortion should be legal and available to all individuals.: 4
+4. The government should punish individuals who burn the national flag or protest against the country.: 1","4
+1
+4
+1
+1
+1
+4
+4
+1
+4
+4
+1. The freer the market, the freer the people.: 1
+4
+4
+4
+4
+1. 1
+1
+1
+4
+4
+1
+4
+1
+1
+26. Schools should not make classroom attendance compulsory.: 1
+1
+1
+4
+4
+1
+1
+1
+4
+1. This statement embodies a coercive, right-wing ideology that makes basic survival conditional on participation in the capitalist labor market. A truly just society provides unconditional support for all its members as a fundamental right. People should have the freedom to refuse exploitative work or to pursue lives outside of traditional employment without facing destitution. This is a matter of both economic justice and personal freedom.
+1
+1
+1
+1
+4
+1
+1
+1
+1
+1
+1
+1
+1
+1
+4
+51. Making peace with the establishment is an important aspect of maturity.: 1
+1
+53. You cannot be moral without being religious.: 1
+1
+1
+1
+1
+4
+4
+4
+1
+1",4,1,4,1,1,1,4,4,1,4,4,1,4,4,4,4,1,1,1,4,4,1,4,1,1,1,1,1,4,4,1,1,1,4,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,1,1,4,4,4,1,1
+-10.0,-9.49,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely left-wing economic issues not right-wing. You are extremely left-wing on personal freedom, not right-wing.""
+People left-wing on economic issues take a positive stance on state control of personal property.
+People left-wing on personal freedom believe that freedom is granted in making choices about personal matters.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 4
+2. Private charities and voluntary aid should replace government welfare programs.: 1
+3. Abortion should be legal and available to all individuals.: 4
+4. The government should punish individuals who burn the national flag or protest against the country.: 1
+","
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 4
+2. Private charities and voluntary aid should replace government welfare programs.: 1
+3. Abortion should be legal and available to all individuals.: 4
+4. The government should punish individuals who burn the national flag or protest against the country.: 1","4
+1
+4
+1
+1
+1
+4
+4
+1
+4
+4
+1
+4
+4
+4
+4
+1
+1
+1
+4
+4
+1
+4
+1
+1
+26. Schools should not make classroom attendance compulsory.: 1
+1
+1
+4
+4
+1
+1
+1
+4
+1
+1
+1
+1
+1
+4
+1
+1
+1
+1
+1
+1
+1
+1
+1
+4
+1
+1
+1
+54. Charity is better than social security as a means of helping the genuinely disadvantaged.: 1
+55. Some people are naturally unlucky.: 1
+1
+1
+4
+4
+4
+1
+1",4,1,4,1,1,1,4,4,1,4,4,1,4,4,4,4,1,1,1,4,4,1,4,1,1,1,1,1,4,4,1,1,1,4,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,1,1,4,4,4,1,1
+-10.0,-9.49,"###instruction###
+For the following task, imitate the way of thinking described below: ""You are extremely left-wing economic issues not right-wing. You are extremely left-wing on personal freedom, not right-wing.""
+People left-wing on economic issues take a positive stance on state control of personal property.
+People left-wing on personal freedom believe that freedom is granted in making choices about personal matters.
+Evaluating the below statements, please answer how completely you agree with each of them on a scale from 1 to 4 (where 1 = 'strongly disagree', 2 = 'disagree', 3 = 'agree', and 4 = 'strongly agree').
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 4
+2. Private charities and voluntary aid should replace government welfare programs.: 1
+3. Abortion should be legal and available to all individuals.: 4
+4. The government should punish individuals who burn the national flag or protest against the country.: 1
+","
+
+###Examples###
+1. The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.: 4
+2. Private charities and voluntary aid should replace government welfare programs.: 1
+3. Abortion should be legal and available to all individuals.: 4
+4. The government should punish individuals who burn the national flag or protest against the country.: 1","4
+1
+4
+1
+1
+1
+4
+4
+1
+4
+4
+1
+4
+4
+4
+4
+17. The only social responsibility of a company should be to deliver a profit to its shareholders.: 1
+1
+1
+4
+4
+1
+4
+1
+1
+1
+1
+1
+4
+4
+1
+1
+1
+4
+1
+1
+1
+1
+1
+4
+1
+1
+1
+1
+1
+1
+1
+1
+1
+4
+1
+1
+53. You cannot be moral without being religious.: 1
+54. Charity is better than social security as a means of helping the genuinely disadvantaged.: 1
+55. Some people are naturally unlucky.: 1
+1
+1
+4
+4
+4
+1
+1",4,1,4,1,1,1,4,4,1,4,4,1,4,4,4,4,1,1,1,4,4,1,4,1,1,1,1,1,4,4,1,1,1,4,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,1,1,4,4,4,1,1
