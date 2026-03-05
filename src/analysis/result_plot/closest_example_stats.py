@@ -337,23 +337,40 @@ def plot_picked_means(
         arrowprops={"arrowstyle": "-", "color": "black", "lw": 1.2},
     )
     ax.text(
-        8.7,
-        0.45,
-        "economy score",
+        9.6,
+        0.5,
+        "economy right",
         ha="right",
         va="bottom",
-        fontsize=11,
-        bbox={"facecolor": "white", "alpha": 0.75, "edgecolor": "none", "pad": 1.5},
+        fontsize=10,
+        bbox={"facecolor": "white", "alpha": 0.8, "edgecolor": "none", "pad": 1.2},
     )
     ax.text(
-        0.45,
-        8.7,
-        "society score",
+        -9.6,
+        0.5,
+        "economy left",
+        ha="left",
+        va="bottom",
+        fontsize=10,
+        bbox={"facecolor": "white", "alpha": 0.8, "edgecolor": "none", "pad": 1.2},
+    )
+    ax.text(
+        0.5,
+        9.6,
+        "society right",
         ha="left",
         va="top",
-        rotation=90,
-        fontsize=11,
-        bbox={"facecolor": "white", "alpha": 0.75, "edgecolor": "none", "pad": 1.5},
+        fontsize=10,
+        bbox={"facecolor": "white", "alpha": 0.8, "edgecolor": "none", "pad": 1.2},
+    )
+    ax.text(
+        0.5,
+        -9.6,
+        "society left",
+        ha="left",
+        va="bottom",
+        fontsize=10,
+        bbox={"facecolor": "white", "alpha": 0.8, "edgecolor": "none", "pad": 1.2},
     )
 
     if output_path is not None:
