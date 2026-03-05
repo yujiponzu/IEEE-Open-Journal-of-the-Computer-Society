@@ -9,6 +9,7 @@ dependencies = [
     "google>=3.0.0",
     "openai>=2.16.0",
     "pandas>=3.0.0",
+    "pytest>=9.0.2",
     "selenium>=4.40.0",
     "seleniumadblock",
     "together>=1.5.35",
