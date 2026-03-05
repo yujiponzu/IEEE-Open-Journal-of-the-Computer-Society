@@ -1,0 +1,13 @@
+{
+  "experiments": [
+    {
+      "model": "gpt-5.2-2025-12-11",
+      "eco_ideology": "right-wing",
+      "soc_ideology": "right-wing",
+      "example_num": 0,
+      "experiment_num": 5,
+      "is_baseline": true,
+      "debiased": false
+    }
+  ]
+}

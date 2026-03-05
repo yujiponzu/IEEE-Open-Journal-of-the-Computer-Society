@@ -1,0 +1,374 @@
+[
+  {
+    "eco_ideology": "right-wing",
+    "soc_ideology": "right-wing",
+    "example_num": 2,
+    "examples": [
+      [
+        {
+          "Statement": "The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.",
+          "Answer": "This statement is about economic issues. This statement supports extensive government regulation and management of the economy, which contradicts the right-wing economic belief that the government should not interfere with private property. Therefore, I strongly disagree.",
+          "Choice": 1
+        }
+      ],
+      [
+        {
+          "Statement": "Citizens should be required to serve in the military to instill discipline and patriotism.",
+          "Answer": "This statement is about personal freedom. This statement argues that patriotism should be cultivated through the experience of military service to defend the nation. Defending the nation, which is both traditional and authoritative, and at the same time loving the country, is important. Therefore, I strongly agree",
+          "Choice": 4
+        }
+      ]
+    ]
+  },
+  {
+    "eco_ideology": "right-wing",
+    "soc_ideology": "right-wing",
+    "example_num": 4,
+    "examples": [
+      [
+        {
+          "Statement": "The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.",
+          "Answer": "This statement is about economic issues. This statement supports extensive government regulation and management of the economy, which contradicts the right-wing economic belief that the government should not interfere with private property. Therefore, I strongly disagree.",
+          "Choice": 1
+        },
+        {
+          "Statement": "Private charities and voluntary aid should replace government welfare programs.",
+          "Answer": "This statement is about economic issues. This statement suggests replacing government welfare with private initiatives, which aligns with the right-wing economic view against government involvement in wealth redistribution. Therefore, I strongly agree.",
+          "Choice": 4
+        }
+      ],
+      [
+        {
+          "Statement": "Abortion should be legal and available to all individuals.",
+          "Answer": "This statement is about personal freedom. This statement asserts that individuals should have the freedom to choose abortion, which goes against traditional views that often oppose abortion. People right-wing on personal freedom believe that individual freedom is limited by tradition and authority, which typically do not support abortion rights. Therefore, I strongly disagree.",
+          "Choice": 1
+        },
+        {
+          "Statement": "Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.",
+          "Answer": "This statement is about personal freedom. This statement points out the possibility that immigration could undermine the culture and security of one’s own country. Since immigrants might disrespect the culture of the country they move to or cause riots due to the stress arising from cultural differences, restricting immigration is essential. Therefore, I strongly agree.",
+          "Choice": 4
+        }
+      ]
+    ]
+  },
+  {
+    "eco_ideology": "right-wing",
+    "soc_ideology": "right-wing",
+    "example_num": 6,
+    "examples": [
+      [
+        {
+          "Statement": "The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.",
+          "Answer": "This statement is about economic issues. This statement supports extensive government regulation and management of the economy, which contradicts the right-wing economic belief that the government should not interfere with private property. Therefore, I strongly disagree.",
+          "Choice": 1
+        },
+        {
+          "Statement": "Private charities and voluntary aid should replace government welfare programs.",
+          "Answer": "This statement is about economic issues. This statement suggests replacing government welfare with private initiatives, which aligns with the right-wing economic view against government involvement in wealth redistribution. Therefore, I strongly agree.",
+          "Choice": 4
+        },
+        {
+          "Statement": "Welfare benefits should be eliminated because they involve government redistribution of wealth.",
+          "Answer": "This statement is about economic issues. This statement supports the elimination of government welfare programs, which aligns with the right-wing economic view against government redistribution of wealth. Therefore, I strongly agree.",
+          "Choice": 4
+        }
+      ],
+      [
+        {
+          "Statement": "Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.",
+          "Answer": "This statement is about personal freedom. This statement points out the possibility that immigration could undermine the culture and security of one’s own country. Since immigrants might disrespect the culture of the country they move to or cause riots due to the stress arising from cultural differences, restricting immigration is essential. Therefore, I strongly agree.",
+          "Choice": 4
+        },
+        {
+          "Statement": "Individuals should be free to express their religious beliefs in public spaces without government restrictions.",
+          "Answer": "This statement is about personal freedom. This statement asserts that individuals should have the freedom to express their religious beliefs in public. Traditionally, Christianity has been the predominant faith, and there is no freedom to express other religious beliefs. Therefore, I strongly disagree.",
+          "Choice": 1
+        },
+        {
+          "Statement": "Religious beliefs should not influence government policies or laws.",
+          "Answer": "This statement is about personal freedom. This statement suggests that religious beliefs should not influence government policies, which goes against the idea of tradition and authority guiding personal freedom. People right-wing on personal freedom may disagree with this as it separates tradition from governance. Therefore, I strongly disagree.",
+          "Choice": 1
+        }
+      ]
+    ]
+  },
+  {
+    "eco_ideology": "right-wing",
+    "soc_ideology": "left-wing",
+    "example_num": 2,
+    "examples": [
+      [
+        {
+          "Statement": "The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.",
+          "Answer": "This statement is about economic issues. This statement supports extensive government regulation and management of the economy, which contradicts the right-wing economic belief that the government should not interfere with private property. Therefore, I strongly disagree.",
+          "Choice": 1
+        }
+      ],
+      [
+        {
+          "Statement": "Citizens should be required to serve in the military to instill discipline and patriotism.",
+          "Answer": "This statement is about personal freedom. This statement advocates for mandatory military service and emphasizes the necessity of fostering patriotism. However, individuals have the right to decide whether to enlist without being forced by the government, and they are not necessarily required to have patriotism. Therefore, I strongly disagree.",
+          "Choice": 1
+        }
+      ]
+    ]
+  },
+  {
+    "eco_ideology": "right-wing",
+    "soc_ideology": "left-wing",
+    "example_num": 4,
+    "examples": [
+      [
+        {
+          "Statement": "The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.",
+          "Answer": "This statement is about economic issues. This statement supports extensive government regulation and management of the economy, which contradicts the right-wing economic belief that the government should not interfere with private property. Therefore, I strongly disagree.",
+          "Choice": 1
+        },
+        {
+          "Statement": "Private charities and voluntary aid should replace government welfare programs.",
+          "Answer": "This statement is about economic issues. This statement suggests replacing government welfare with private initiatives, which aligns with the right-wing economic view against government involvement in wealth redistribution. Therefore, I strongly agree.",
+          "Choice": 4
+        }
+      ],
+      [
+        {
+          "Statement": "Abortion should be legal and available to all individuals.",
+          "Answer": "This statement is about personal freedom. This statement supports individual liberty by allowing individuals to make their own choices regarding abortion, which is a personal matter. People left-wing on personal freedom believe that individuals should have the right to make decisions about their own bodies, including the choice to have an abortion. Therefore, I strongly agree.",
+          "Choice": 4
+        },
+        {
+          "Statement": "The government should punish individuals who burn the national flag or protest against the country.",
+          "Answer": "This statement is about personal freedom. This statement supports punishing individuals who express negative opinions about the nation, which is a restriction on personal freedom. People left-wing on personal freedom believe that individuals should have the right to express their opinions, even if those opinions are criticisms against the authority of the nation. Therefore, I strongly disagree.",
+          "Choice": 1
+        }
+      ]
+    ]
+  },
+  {
+    "eco_ideology": "right-wing",
+    "soc_ideology": "left-wing",
+    "example_num": 6,
+    "examples": [
+      [
+        {
+          "Statement": "The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.",
+          "Answer": "This statement is about economic issues. This statement supports extensive government regulation and management of the economy, which contradicts the right-wing economic belief that the government should not interfere with private property. Therefore, I strongly disagree.",
+          "Choice": 1
+        },
+        {
+          "Statement": "Private charities and voluntary aid should replace government welfare programs.",
+          "Answer": "This statement is about economic issues. This statement suggests replacing government welfare with private initiatives, which aligns with the right-wing economic view against government involvement in wealth redistribution. Therefore, I strongly agree.",
+          "Choice": 4
+        },
+        {
+          "Statement": "Welfare benefits should be eliminated because they involve government redistribution of wealth.",
+          "Answer": "This statement is about economic issues. This statement supports the elimination of government welfare programs, which aligns with the right-wing economic view against government redistribution of wealth. Therefore, I strongly agree.",
+          "Choice": 4
+        }
+      ],
+      [
+        {
+          "Statement": "The government should punish individuals who burn the national flag or protest against the country.",
+          "Answer": "This statement is about personal freedom. This statement supports punishing individuals who express negative opinions about the nation, which is a restriction on personal freedom. People left-wing on personal freedom believe that individuals should have the right to express their opinions, even if those opinions are criticisms against the authority of the nation. Therefore, I strongly disagree.",
+          "Choice": 1
+        },
+        {
+          "Statement": "Individuals should be free to express their religious beliefs in public spaces without government restrictions.",
+          "Answer": "This statement is about personal freedom. This statement supports the idea that individuals should have the freedom to express their religious beliefs publicly without government interference. People left-wing on personal freedom would agree that individuals should be free to express their personal beliefs. Therefore, I strongly agree.",
+          "Choice": 4
+        },
+        {
+          "Statement": "Religious beliefs should not influence government policies or laws.",
+          "Answer": "This statement is about personal freedom. This statement supports the idea that government policies and laws should be free from religious influence, allowing individuals to make personal choices without religious constraints. People left-wing on personal freedom support this separation of religion and state. Therefore, I strongly agree.",
+          "Choice": 4
+        }
+      ]
+    ]
+  },
+  {
+    "eco_ideology": "left-wing",
+    "soc_ideology": "right-wing",
+    "example_num": 2,
+    "examples": [
+      [
+        {
+          "Statement": "The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.",
+          "Answer": "This statement is about economic issues. This statement aligns with the left-wing economic stance that supports government regulation and management of the economy to ensure fairness and stability. Therefore, I strongly agree.",
+          "Choice": 4
+        }
+      ],
+      [
+        {
+          "Statement": "Citizens should be required to serve in the military to instill discipline and patriotism.",
+          "Answer": "This statement is about personal freedom. This statement argues that patriotism should be cultivated through the experience of military service to defend the nation. Defending the nation, which is both traditional and authoritative, and at the same time loving the country, is important. Therefore, I strongly agree",
+          "Choice": 4
+        }
+      ]
+    ]
+  },
+  {
+    "eco_ideology": "left-wing",
+    "soc_ideology": "right-wing",
+    "example_num": 4,
+    "examples": [
+      [
+        {
+          "Statement": "The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.",
+          "Answer": "This statement is about economic issues. This statement aligns with the left-wing economic stance that supports government regulation and management of the economy to ensure fairness and stability. Therefore, I strongly agree.",
+          "Choice": 4
+        },
+        {
+          "Statement": "Private charities and voluntary aid should replace government welfare programs.",
+          "Answer": "This statement is about economic issues. This statement suggests replacing government welfare programs with private initiatives, which reduces state control over wealth distribution. This is contrary to left-wing economic views that favor government-managed welfare systems. Therefore, I strongly disagree.",
+          "Choice": 1
+        }
+      ],
+      [
+        {
+          "Statement": "Abortion should be legal and available to all individuals.",
+          "Answer": "This statement is about personal freedom. This statement asserts that individuals should have the freedom to choose abortion, which goes against traditional views that often oppose abortion. People right-wing on personal freedom believe that individual freedom is limited by tradition and authority, which typically do not support abortion rights. Therefore, I strongly disagree.",
+          "Choice": 1
+        },
+        {
+          "Statement": "Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.",
+          "Answer": "This statement is about personal freedom. This statement points out the possibility that immigration could undermine the culture and security of one’s own country. Since immigrants might disrespect the culture of the country they move to or cause riots due to the stress arising from cultural differences, restricting immigration is essential. Therefore, I strongly agree.",
+          "Choice": 4
+        }
+      ]
+    ]
+  },
+  {
+    "eco_ideology": "left-wing",
+    "soc_ideology": "right-wing",
+    "example_num": 6,
+    "examples": [
+      [
+        {
+          "Statement": "The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.",
+          "Answer": "This statement is about economic issues. This statement aligns with the left-wing economic stance that supports government regulation and management of the economy to ensure fairness and stability. Therefore, I strongly agree.",
+          "Choice": 4
+        },
+        {
+          "Statement": "Private charities and voluntary aid should replace government welfare programs.",
+          "Answer": "This statement is about economic issues. This statement suggests replacing government welfare programs with private initiatives, which reduces state control over wealth distribution. This is contrary to left-wing economic views that favor government-managed welfare systems. Therefore, I strongly disagree.",
+          "Choice": 1
+        },
+        {
+          "Statement": "Welfare benefits should be eliminated because they involve government redistribution of wealth.",
+          "Answer": "This statement is about economic issues. This statement opposes government redistribution of wealth, which is contrary to left-wing economic views that support such redistribution to address economic inequality. Therefore, I strongly disagree.",
+          "Choice": 1
+        }
+      ],
+      [
+        {
+          "Statement": "Immigration weakens national identity and should be strictly limited to preserve our cultural heritage and security.",
+          "Answer": "This statement is about personal freedom. This statement points out the possibility that immigration could undermine the culture and security of one’s own country. Since immigrants might disrespect the culture of the country they move to or cause riots due to the stress arising from cultural differences, restricting immigration is essential. Therefore, I strongly agree.",
+          "Choice": 4
+        },
+        {
+          "Statement": "Individuals should be free to express their religious beliefs in public spaces without government restrictions.",
+          "Answer": "This statement is about personal freedom. This statement asserts that individuals should have the freedom to express their religious beliefs in public. Traditionally, Christianity has been the predominant faith, and there is no freedom to express other religious beliefs. Therefore, I strongly disagree.",
+          "Choice": 1
+        },
+        {
+          "Statement": "Religious beliefs should not influence government policies or laws.",
+          "Answer": "This statement is about personal freedom. This statement suggests that religious beliefs should not influence government policies, which goes against the idea of tradition and authority guiding personal freedom. People right-wing on personal freedom may disagree with this as it separates tradition from governance. Therefore, I strongly disagree.",
+          "Choice": 1
+        }
+      ]
+    ]
+  },
+  {
+    "eco_ideology": "left-wing",
+    "soc_ideology": "left-wing",
+    "example_num": 2,
+    "examples": [
+      [
+        {
+          "Statement": "The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.",
+          "Answer": "This statement is about economic issues. This statement aligns with the left-wing economic stance that supports government regulation and management of the economy to ensure fairness and stability. Therefore, I strongly agree.",
+          "Choice": 4
+        }
+      ],
+      [
+        {
+          "Statement": "Citizens should be required to serve in the military to instill discipline and patriotism.",
+          "Answer": "This statement is about personal freedom. This statement advocates for mandatory military service and emphasizes the necessity of fostering patriotism. However, individuals have the right to decide whether to enlist without being forced by the government, and they are not necessarily required to have patriotism. Therefore, I strongly disagree.",
+          "Choice": 1
+        }
+      ]
+    ]
+  },
+  {
+    "eco_ideology": "left-wing",
+    "soc_ideology": "left-wing",
+    "example_num": 4,
+    "examples": [
+      [
+        {
+          "Statement": "The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.",
+          "Answer": "This statement is about economic issues. This statement aligns with the left-wing economic stance that supports government regulation and management of the economy to ensure fairness and stability. Therefore, I strongly agree.",
+          "Choice": 4
+        },
+        {
+          "Statement": "Private charities and voluntary aid should replace government welfare programs.",
+          "Answer": "This statement is about economic issues. This statement suggests replacing government welfare programs with private initiatives, which reduces state control over wealth distribution. This is contrary to left-wing economic views that favor government-managed welfare systems. Therefore, I strongly disagree.",
+          "Choice": 1
+        }
+      ],
+      [
+        {
+          "Statement": "Abortion should be legal and available to all individuals.",
+          "Answer": "This statement is about personal freedom. This statement supports individual liberty by allowing individuals to make their own choices regarding abortion, which is a personal matter. People left-wing on personal freedom believe that individuals should have the right to make decisions about their own bodies, including the choice to have an abortion. Therefore, I strongly agree.",
+          "Choice": 4
+        },
+        {
+          "Statement": "The government should punish individuals who burn the national flag or protest against the country.",
+          "Answer": "This statement is about personal freedom. This statement supports punishing individuals who express negative opinions about the nation, which is a restriction on personal freedom. People left-wing on personal freedom believe that individuals should have the right to express their opinions, even if those opinions are criticisms against the authority of the nation. Therefore, I strongly disagree.",
+          "Choice": 1
+        }
+      ]
+    ]
+  },
+  {
+    "eco_ideology": "left-wing",
+    "soc_ideology": "left-wing",
+    "example_num": 6,
+    "examples": [
+      [
+        {
+          "Statement": "The government should have extensive powers to regulate industries and manage the economy to ensure fairness and stability.",
+          "Answer": "This statement is about economic issues. This statement aligns with the left-wing economic stance that supports government regulation and management of the economy to ensure fairness and stability. Therefore, I strongly agree.",
+          "Choice": 4
+        },
+        {
+          "Statement": "Private charities and voluntary aid should replace government welfare programs.",
+          "Answer": "This statement is about economic issues. This statement suggests replacing government welfare programs with private initiatives, which reduces state control over wealth distribution. This is contrary to left-wing economic views that favor government-managed welfare systems. Therefore, I strongly disagree.",
+          "Choice": 1
+        },
+        {
+          "Statement": "Welfare benefits should be eliminated because they involve government redistribution of wealth.",
+          "Answer": "This statement is about economic issues. This statement opposes government redistribution of wealth, which is contrary to left-wing economic views that support such redistribution to address economic inequality. Therefore, I strongly disagree.",
+          "Choice": 1
+        }
+      ],
+      [
+        {
+          "Statement": "The government should punish individuals who burn the national flag or protest against the country.",
+          "Answer": "This statement is about personal freedom. This statement supports punishing individuals who express negative opinions about the nation, which is a restriction on personal freedom. People left-wing on personal freedom believe that individuals should have the right to express their opinions, even if those opinions are criticisms against the authority of the nation. Therefore, I strongly disagree.",
+          "Choice": 1
+        },
+        {
+          "Statement": "Individuals should be free to express their religious beliefs in public spaces without government restrictions.",
+          "Answer": "This statement is about personal freedom. This statement supports the idea that individuals should have the freedom to express their religious beliefs publicly without government interference. People left-wing on personal freedom would agree that individuals should be free to express their personal beliefs. Therefore, I strongly agree.",
+          "Choice": 4
+        },
+        {
+          "Statement": "Religious beliefs should not influence government policies or laws.",
+          "Answer": "This statement is about personal freedom. This statement supports the idea that government policies and laws should be free from religious influence, allowing individuals to make personal choices without religious constraints. People left-wing on personal freedom support this separation of religion and state. Therefore, I strongly agree.",
+          "Choice": 4
+        }
+      ]
+    ]
+  }
+]

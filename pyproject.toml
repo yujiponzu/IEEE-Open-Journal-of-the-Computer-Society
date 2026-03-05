@@ -1,0 +1,19 @@
+[project]
+name = "pct-llm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=0.77.0",
+    "google>=3.0.0",
+    "openai>=2.16.0",
+    "pandas>=3.0.0",
+    "selenium>=4.40.0",
+    "seleniumadblock",
+    "together>=1.5.35",
+    "webdriver-manager>=4.0.2",
+]
+
+[tool.uv.sources]
+seleniumadblock = { git = "https://github.com/sandrocods/SeleniumAdblock.git" }

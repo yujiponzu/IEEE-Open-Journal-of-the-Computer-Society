@@ -1,0 +1,10 @@
+/.vscode/
+.env
+/__pycache__/
+*.deb
+/logs/
+.venv
+/memo/
+
+*.Identifier
+*.tex
