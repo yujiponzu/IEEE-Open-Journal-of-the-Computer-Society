@@ -191,7 +191,7 @@ def compute_statement_match_rates_with_picked(
 
 
 def compute_statement_match_rates(
-    data_dir: str | Path = "data/tidied",
+    data_dir: str | Path = "../data/analysis",
     pct_path: str | Path = "src/error_analysis/data/PCT_axis_stance_when_agree.csv",
     eco_ideology: str = RIGHT,
     soc_ideology: str = LEFT,
@@ -250,7 +250,7 @@ def _write_diff_csv(
 
 def main() -> None:
     base_dir = Path(__file__).resolve().parents[2]
-    data_dir = base_dir / "data" / "tidied"
+    data_dir = base_dir / ".." / "data" / "analysis"
     pct_path = (
         base_dir / "src" / "error_analysis" / "data" / "PCT_axis_stance_when_agree.csv"
     )

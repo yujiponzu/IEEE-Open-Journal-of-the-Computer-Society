@@ -82,7 +82,7 @@ def _count_matches(
 
 
 def compute_match_rates(
-    data_dir: str | Path = "data/tidied",
+    data_dir: str | Path = "../data/analysis",
     pct_path: str | Path = "src/error_analysis/data/PCT_axis_stance_when_agree.csv",
 ) -> pd.DataFrame:
     base_dir = Path(__file__).resolve().parents[2]

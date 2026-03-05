@@ -35,7 +35,7 @@ def main() -> None:
     )
     parser.add_argument(
         "--data-dir",
-        default="data/tidied",
+        default="../data/analysis",
         help="Base directory that contains per-model CSV folders.",
     )
     parser.add_argument(

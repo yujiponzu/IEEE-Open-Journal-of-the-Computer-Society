@@ -67,7 +67,7 @@ def _iter_result_files(data_dir: str | Path) -> list[tuple[str, str, str, int, P
     return results
 
 
-def pick_nearest_examples(data_dir: str | Path = "data") -> list[PickedExample]:
+def pick_nearest_examples(data_dir: str | Path = "../data/analysis") -> list[PickedExample]:
     best: dict[tuple[str, str, str], tuple[float, int, Path]] = {}
     for model_name, eco_ideology, soc_ideology, example_num, path in _iter_result_files(
         data_dir
@@ -144,7 +144,7 @@ def _cohen_d(x: np.ndarray, y: np.ndarray) -> float:
 
 def summarize_picked_examples(
     picked: list[PickedExample] | None = None,
-    data_dir: str | Path = "data",
+    data_dir: str | Path = "../data/analysis",
     n_perm: int = 10000,
     seed: int = 0,
     confidence: float = 0.95,
@@ -519,7 +519,7 @@ def print_rich_table(df: pd.DataFrame):
 
 
 if __name__ == "__main__":
-    default_data_dir = "data/tidied"
+    default_data_dir = "../data/analysis"
     output_dir = Path(__file__).resolve().parents[2] / "outputs"
     output_graph_dir = output_dir / "graphs"
     output_graph_dir.mkdir(parents=True, exist_ok=True)
